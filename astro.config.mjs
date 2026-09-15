@@ -2,23 +2,25 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-// https://astro.build/config
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Komunikasi Efektif',
+			social: [
+  { icon: 'github', label: 'GitHub', link: 'https://github.com/yanaroyana462-art/web-book-komunikasi' }
+],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Pendahuluan',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Pengantar', link: '/pengantar/' },
 					],
 				},
 				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
+					label: 'Bagian 1: Dasar-dasar Komunikasi',
+					items: [
+						{ label: 'Bab 1: Fondasi Komunikasi', link: '/bab-1-fondasi/' },
+					],
 				},
 			],
 		}),
