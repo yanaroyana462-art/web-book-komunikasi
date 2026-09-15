@@ -6,9 +6,6 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Komunikasi Efektif',
-			social: [
-				{ icon: 'github', label: 'GitHub', link: 'https://github.com/yanaroyana462-art/web-book-komunikasi' },
-			],
 			sidebar: [
 				{
 					label: 'Pendahuluan',
