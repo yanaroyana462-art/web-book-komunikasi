@@ -17,6 +17,8 @@ export default defineConfig({
 					label: 'Bagian 1: Dasar-dasar Komunikasi',
 					items: [
 						{ label: 'Bab 1: Fondasi Komunikasi', link: '/bab-1-fondasi' },
+						{ label: 'Bab 2: Seni Mendengarkan Aktif', link: '/bab-2-active-listening' },
+						{ label: 'Bab 3: Komunikasi Asertif', link: '/bab-3-komunikasi-asertif' },
 					],
 				},
 			],
