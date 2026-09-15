@@ -1,22 +1,23 @@
 ---
-title: "Pengantar Komunikasi Efektif"
-description: "Mengapa kemampuan berkomunikasi adalah kunci sukses di era digital."
+title: "Pengantar: Komunikasi Efektif ala Nabi"
+description: "Mengapa keteladanan komunikasi Rasulullah ﷺ adalah standar tertinggi retorika humanis."
 ---
 
-Komunikasi adalah salah satu keterampilan paling krusial yang menentukan kualitas hubungan, karier, dan kehidupan pribadi kita. 
+Rasulullah ﷺ bukan hanya seorang pemimpin, melainkan seorang **komunikator ulung** (*The Ultimate Communicator*). Beliau mampu menyampaikan pesan ajaran yang berat kepada masyarakat jahiliyah hingga menyentuh hati dan mengubah peradaban hanya dalam waktu 23 tahun.
 
-Di era yang penuh dengan distraksi dan pesan instan ini, **berkomunikasi dengan jelas dan berempati** menjadi tantangan tersendiri.
+Kunci keberhasilan komunikasi Nabi tidak terletak pada bentakan, tekanan, atau manipulasi kata-kata, melainkan pada **kejujuran, ketulusan, kelembutan, dan kejelasan**.
 
-## Tujuan Buku Ini
+## Prinsip Dasar Komunikasi Islami
 
-Buku digital ini dirancang sebagai panduan praktis untuk membantu Anda:
-- Memahami struktur dasar komunikasi yang transparan dan tanpa hambatan.
-- Menguasai teknik mendengarkan aktif (*active listening*).
-- Menyampaikan ide dan ketidaksetujuan secara profesional tanpa memicu konflik.
-- Menerapkan etika komunikasi di platform digital dan ruang kerja.
+Dalam Islam, komunikasi bukan sekadar seni menyampaikan pesan agar dipahami, melainkan **ibadah yang bernilai akhlak**. Setiap kata yang diucapkan memiliki konsekuensi moral dan spiritual.
 
----
-
-:::tip[Tips Membaca]
-Gunakan panel navigasi di sebelah kiri untuk berpindah dari satu bab ke bab lainnya.
+:::note[Prinsip Utama]
+*"Barangsiapa yang beriman kepada Allah dan hari akhir, hendaklah ia berkata baik atau diam."*  
+— **HR. Bukhari & Muslim**
 :::
+
+## Apa yang Akan Anda Pelajari dalam Web Book Ini?
+
+1. **Prinsip Lisan Al-Qur'an:** Kaidah-kaidah memilih kata berdasarkan situasi dan lawan bicara.
+2. **Keterampilan Interpersonal Nabi:** Bagaimana cara Nabi menatap, mengangguk, dan menaruh perhatian saat disapa orang lain.
+3. **Penyelesaian Konflik & Resolusi:** Cara meluruskan Miskomunikasi dengan pendekatan persuasif tanpa memicu permusuhan.
