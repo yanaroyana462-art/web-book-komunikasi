@@ -10,13 +10,13 @@ export default defineConfig({
 				{
 					label: 'Pendahuluan',
 					items: [
-						{ label: 'Pengantar', link: '/pengantar/' },
+						{ label: 'Pengantar', link: '/pengantar' },
 					],
 				},
 				{
 					label: 'Bagian 1: Dasar-dasar Komunikasi',
 					items: [
-						{ label: 'Bab 1: Fondasi Komunikasi', link: '/bab-1-fondasi/' },
+						{ label: 'Bab 1: Fondasi Komunikasi', link: '/bab-1-fondasi' },
 					],
 				},
 			],
