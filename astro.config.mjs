@@ -7,7 +7,7 @@ export default defineConfig({
 		starlight({
 			title: 'Komunikasi Efektif ala Nabi',
 			components: {
-				Footer: 'src/components/CustomFooter.astro',
+				Footer: './src/components/CustomFooter.astro',
 			},
 			sidebar: [
 				{
