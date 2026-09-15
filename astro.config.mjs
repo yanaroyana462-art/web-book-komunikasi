@@ -6,6 +6,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Komunikasi Efektif ala Nabi',
+			components: {
+				Footer: './src/components/CustomFooter.astro',
+			},
 			sidebar: [
 				{
 					label: 'Pendahuluan',
