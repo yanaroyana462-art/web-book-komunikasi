@@ -23,6 +23,15 @@ export default defineConfig({
 						{ label: 'Bab 5: Komunikasi Digital', link: '/bab-5-komunikasi-digital' },
 					],
 				},
+				{
+					label: 'Bagian 2: Komunikasi di Tempat Kerja',
+					items: [
+						{ label: 'Bab 6: Memberi & Menerima Feedback', link: '/bab-6-feedback' },
+						{ label: 'Bab 7: Manajemen Rapat', link: '/bab-7-manajemen-rapat' },
+						{ label: 'Bab 8: Teknik Presentasi Profesional', link: '/bab-8-presentasi-profesional' },
+						{ label: 'Bab 9: Negosiasi & Resolusi Konflik', link: '/bab-9-negosiasi' },
+					],
+				},
 			],
 		}),
 	],
