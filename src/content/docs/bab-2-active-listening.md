@@ -9,7 +9,6 @@ Di era media sosial saat ini, semua orang berlomba-lomba untuk didengar. Kita si
 
 Padahal, menjadi pendengar yang baik (*Active Listening*) adalah kunci utama membangun hubungan yang harmonis. Dalam Islam, mendengarkan bukan sekadar diam menunggu giliran bicara, melainkan bentuk penghormatan, empati, dan ibadah.
 
-> **الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ ۚ أُولَٰئِكَ الَّذِينَ هَدَاهُمُ اللَّهُ ۖ وَأُولَٰئِكَ هُمْ أُولُو الْأَلْبَابِ**
 > <p class="arabic">الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ ۚ أُولَٰئِكَ الَّذِينَ هَدَاهُمُ اللَّهُ ۖ وَأُولَٰئِكَ هُمْ أُولُو الْأَلْبَابِ</p>
 > *"Mereka yang mendengarkan perkataan lalu mengikuti apa yang paling baik di antaranya. Mereka itulah orang-orang yang telah diberi Allah hidayah dan mereka itulah orang-orang yang mempunyai akal."*  
 > — **QS. Az-Zumar [39]: 18**
@@ -49,8 +48,8 @@ Siapa pun yang bicara—baik sahabat senior, anak kecil, maupun masyarakat awam�
 ### 4. Mengonfirmasi & Empati (Menyelaraskan Perasaan)
 Mendengarkan aktif berarti mencoba memahami perasaan di balik kata-kata.
 
-> **الْمُؤْمِنُ مِرْآةُ الْمُؤْمِنِ**
 > <p class="arabic">الْمُؤْمِنُ مِرْآةُ الْمُؤْمِنِ</p>
+>
 > *"Seorang mukmin adalah cermin bagi mukmin lainnya."*  
 > — **HR. Abu Dawud no. 4918**
 >

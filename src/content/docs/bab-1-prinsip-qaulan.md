@@ -11,8 +11,8 @@ Pernahkah Anda mengecek kembali riwayat chat di WhatsApp atau mengingat obrolan 
 
 Di zaman sekarang, kita sering bicara asal bunyi (asbun), berdebat hanya ingin menang sendiri, atau sibuk pamer di media sosial. Padahal, dalam Islam, lisan bukan cuma alat komunikasi. Apa yang keluar dari mulut kita—bahkan apa yang kita ketik di keyboard—adalah cermin dari apa yang ada di dalam hati kita.
 
-> **مَا يَلْفِظُ مِنْ قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ**
 > <p class="arabic">مَا يَلْفِظُ مِنْ قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ</p>
+>
 > *"Tidak ada suatu kata yang diucapkannya melainkan ada di sisinya malaikat pengawas yang selalu siap (mencatat)."*  
 > — **QS. Qaf [50]: 18**
 
@@ -22,8 +22,8 @@ Di zaman sekarang, kita sering bicara asal bunyi (asbun), berdebat hanya ingin m
 
 Menjaga ucapan itu bukan berarti kita jadi pendiam atau tidak boleh berpendapat. Menjaga ucapan adalah cara kita menghargai diri sendiri dan orang lain. Rasulullah ﷺ memberikan tips paling sederhana buat kita:
 
-> **مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ**
 > <p class="arabic">مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ</p>
+>
 > *"Barangsiapa beriman kepada Allah dan hari akhir, hendaklah dia berkata yang baik atau diam."*  
 > — **HR. Bukhari no. 6018 & Muslim no. 47**
 
@@ -42,8 +42,8 @@ Dalam Al-Qur'an, ada 6 istilah gaya bicara (*Qaulan*) yang dipraktikkan langsung
 ### 1. Qaulan Sadida (Bicara Jujur & Benar)
 Artinya bicara apa adanya, tidak berbelit-belit, dan tidak bohong. Prinsip ini ditegaskan dalam Al-Qur'an:
 
-> **يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا**
 > <p class="arabic">يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلًا سَدِيدًا</p>
+>
 > *"Wahai orang-orang yang beriman! Bertakwalah kamu kepada Allah dan ucapkanlah perkataan yang benar."*  
 > — **QS. Al-Ahzab [33]: 70**
 
@@ -54,8 +54,8 @@ Rasulullah ﷺ dikenal sebagai *Al-Amin* (yang terpercaya) karena kejujurannya i
 ### 2. Qaulan Layyina (Bicara Lembut)
 Gaya bicara ini gunanya untuk meredam kemarahan dan menyentuh hati lawan bicara. Perintah ini termaktub saat Nabi Musa dan Harun diutus kepada Fir'aun:
 
-> **فَقُولَا لَهُ قَوْلًا لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ**
 > <p class="arabic">فَقُولَا لَهُ قَوْلًا لَّيِّنًا لَّعَلَّهُ يَتَذَكَّرُ أَوْ يَخْشَىٰ</p>
+>
 > *"Maka berbicaralah kamu berdua kepadaya (Fir'aun) dengan kata-kata yang lemah lembut, mudah-mudahan dia sadar atau takut."*  
 > — **QS. Thaha [20]: 44**
 
@@ -66,8 +66,8 @@ Gaya bicara ini gunanya untuk meredam kemarahan dan menyentuh hati lawan bicara.
 ### 3. Qaulan Ma'rufa (Bicara yang Pantas & Baik)
 Ini adalah bicara yang sesuai aturan, sopan, dan tidak bikin orang malu, sebagaimana firman Allah:
 
-> **وَقُولُوا لِلنَّاسِ حُسْنًا**
 > <p class="arabic">وَقُولُوا لِلنَّاسِ حُسْنًا</p>
+>
 > *"Dan bertutur katalah yang baik kepada manusia."*  
 > — **QS. Al-Baqarah [2]: 83**
 
@@ -75,8 +75,8 @@ Nabi selalu menjaga perasaan orang lain saat menegur.
 
 > **Ceritanya:** Kalau Nabi melihat ada sahabat yang salah dalam beribadah, beliau tidak pernah menunjuk orangnya langsung di depan umum seperti, *"Woi kamu, salah itu!"*. Beliau biasanya akan naik mimbar dan berkata secara umum:
 >
-> **مَا بَالُ أَقْوَامٍ يَقُولُونَ كَذَا وَكَذَا**
 > <p class="arabic">مَا بَالُ أَقْوَامٍ يَقُولُونَ كَذَا وَكَذَا</p>
+>
 > *"Mengapa ada orang-orang yang mengatakan begini dan begitu..."*  
 > — **HR. Abu Dawud no. 4788**
 >
@@ -85,8 +85,8 @@ Nabi selalu menjaga perasaan orang lain saat menegur.
 ### 4. Qaulan Baligha (Bicara Jelas & To-the-Point)
 Gaya bicara yang lugas, komunikatif, dan langsung meresap ke dalam jiwa.
 
-> **وَقُل لَّهُمْ فِي أَنفُسِهِمْ قَوْلًا بَلِيغًا**
 > <p class="arabic">وَقُل لَّهُمْ فِي أَنفُسِهِمْ قَوْلًا بَلِيغًا</p>
+>
 > *"Dan katakanlah kepada mereka perkataan yang berbekas pada jiwa mereka."*  
 > — **QS. An-Nisa [4]: 63**
 
@@ -94,8 +94,8 @@ Nabi kalau bicara itu singkat tapi maknanya sangat dalam. Tidak memakai kata-kat
 
 > **Ceritanya:** Ada seorang sahabat (Sufyan bin Abdillah) yang meminta nasihat singkat agar mudah diamalkan. Nabi tidak memberikan kuliah panjang lebar, melainkan bersabda:
 >
-> **قُلْ آمَنْتُ بِاللَّهِ ثُمَّ اسْتَقِمْ**
 > <p class="arabic">قُلْ آمَنْتُ بِاللَّهِ ثُمَّ اسْتَقِمْ</p>
+>
 > *"Katakanlah: 'Aku beriman kepada Allah', kemudian istiqamahlah."*  
 > — **HR. Muslim no. 38**
 >
@@ -104,8 +104,8 @@ Nabi kalau bicara itu singkat tapi maknanya sangat dalam. Tidak memakai kata-kat
 ### 5. Qaulan Karima (Bicara yang Mulia/Menghargai)
 Bicara yang penuh penghormatan dan memuliakan lawan bicara.
 
-> **وَقُل لَّهُمَا قَوْلًا كَرِيمًا**
 > <p class="arabic">وَقُل لَّهُمَا قَوْلًا كَرِيمًا</p>
+>
 > *"Dan ucapkanlah kepada mereka berdua perkataan yang mulia."*  
 > — **QS. Al-Isra [17]: 23**
 
@@ -116,8 +116,8 @@ Nabi tidak pernah meremehkan siapa pun. Beliau selalu membuat orang yang bicara 
 ### 6. Qaulan Maysura (Bicara yang Mudah & Menyenangkan)
 Ini dipakai saat kita tidak bisa membantu orang lain, menggunakan kata-kata yang ramah agar tidak melukai perasaannya.
 
-> **فَقُل لَّهُمْ قَوْلًا مَّيْسُورًا**
 > <p class="arabic">فَقُل لَّهُمْ قَوْلًا مَّيْسُورًا</p>
+>
 > *"Maka katakanlah kepada mereka perkataan yang lemah lembut (menyenangkan)."*  
 > — **QS. Al-Isra [17]: 28**
 

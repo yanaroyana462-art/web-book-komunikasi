@@ -9,8 +9,8 @@ Pernahkah Anda mengalami salah paham hanya gara-gara membaca pesan singkat di Wh
 
 Komunikasi bukan hanya tentang *apa* yang kita katakan, melainkan *bagaimana* cara kita menyampaikannya. Kata-kata hanyalah sebagian kecil dari komunikasi, sisanya ditentukan oleh **nada suara (*vocal*)** dan **bahasa tubuh (*visual*)**.
 
-> **وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ**
 > <p class="arabic">وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ</p>
+>
 > *"Dan sederhanakanlah engkau dalam berjalan dan lunakkanlah suaramu. Sesungguhnya seburuk-buruk suara ialah suara keledai."*  
 > — **QS. Luqman [31]: 19**
 
@@ -23,8 +23,8 @@ Rasulullah ﷺ adalah penyampai pesan terbaik sepanjang sejarah. Beliau sangat m
 ### 1. Kejelasan & Pengulangan Kata (Artikulasi Jelas)
 Nabi tidak pernah berbicara terburu-buru atau menggunakan bahasa yang rumit untuk terlihat pintar. Kata-kata beliau teratur, lugas, dan mudah dipahami oleh siapa saja, dari tokoh masyarakat hingga rakyat biasa.
 
-> **كَنَّ كَلَامُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَلَامًا فَصْلًا يَفْهَمُهُ كُلُّ مَنْ سَمِعَهُ**
 > <p class="arabic">كَنَّ كَلَامُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَلَامًا فَصْلًا يَفْهَمُهُ كُلُّ مَنْ سَمِعَهُ</p>
+>
 > *"Perkataan Rasulullah ﷺ adalah perkataan yang jelas (perlahan-lahan), yang dapat dipahami oleh setiap orang yang mendengarnya."*  
 > — **HR. Abu Dawud no. 4839**
 
@@ -38,8 +38,8 @@ Nabi tahu kapan harus melembutkan suara dan kapan harus menaikkan ketegasan. Bel
 ### 3. Bahasa Tubuh & Ekspresi Wajah yang Menyenangkan
 Sebelum kata-kata keluar dari mulut, wajah dan gestur tubuh kita sudah berbicara terlebih dahulu. Rasulullah ﷺ selalu menampilkan ekspresi yang ramah dan terbuka.
 
-> **تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ**
 > <p class="arabic">تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ</p>
+>
 > *"Senyummu di hadapan saudaramu adalah sedekah bagimu."*  
 > — **HR. Tirmidzi no. 1956**
 
