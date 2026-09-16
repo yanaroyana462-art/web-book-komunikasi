@@ -23,10 +23,10 @@ Islam tidak hanya mengajarkan *apa* yang harus disampaikan (kebenaran), tetapi j
 
 Agar materi mudah dipahami dan langsung bisa dipraktikkan, setiap bab dalam buku ini disusun dengan struktur yang seragam:
 
-1. **Konsep Utama & Dalil:** Pembahasan fondasi komunikasi beserta teks Arab dan terjemahan resmi Al-Qur'an atau hadis.
-2. **Kisah & Teladan Sirah:** Cerita singkat pengalaman Rasulullah ﷺ dan para sahabat sebagai contoh nyata penerapan.
-3. **Komparasi Studi Kasus (`<Tabs>`):** Perbandingan antara cara berkomunikasi yang kurang tepat dengan pendekatan ala Nabi dalam situasi sehari-hari.
-4. **Checklist & Evaluasi Diri (`:::tip`):** Pertanyaan ringkas untuk refleksi diri sebelum melontarkan ucapan atau pesan tulisan.
+1. *Konsep Utama & Dalil:* Pembahasan fondasi komunikasi beserta teks Arab dan terjemahan resmi Al-Qur'an atau hadis.
+2. *Kisah & Teladan Sirah:* Cerita singkat pengalaman Rasulullah ﷺ dan para sahabat sebagai contoh nyata penerapan.
+3. *Komparasi Studi Kasus (`<Tabs>`):* Perbandingan antara cara berkomunikasi yang kurang tepat dengan pendekatan ala Nabi dalam situasi sehari-hari.
+4. *Checklist & Evaluasi Diri (`:::tip`):* Pertanyaan ringkas untuk refleksi diri sebelum melontarkan ucapan atau pesan tulisan.
 
 ---
 
@@ -34,14 +34,14 @@ Agar materi mudah dipahami dan langsung bisa dipraktikkan, setiap bab dalam buku
 
 <Tabs>
   <TabItem label="Membaca Berurutan (Rekomendasi)">
-    Jika Anda baru pertama kali membaca, disarankan memulai dari **Bab 1** hingga **Bab 10** secara berurutan. Ini membantu Anda membangun pemahaman dari fondasi lisan hingga situasi khusus seperti krisis dan kepemimpinan.
+    Jika Anda baru pertama kali membaca, disarankan memulai dari *Bab 1* hingga *Bab 10* secara berurutan. Ini membantu Anda membangun pemahaman dari fondasi lisan hingga situasi khusus seperti krisis dan kepemimpinan.
   </TabItem>
 
   <TabItem label="Membaca Sesuai Kebutuhan">
     Jika Anda menghadapi situasi spesifik, Anda bisa langsung melompat ke bab yang relevan melalui menu navigasi samping:
-    * **Konflik di Rumah:** Baca *Bab 4 (Pasangan & Anak)*.
-    * **Diskusi Tim & Rapat:** Baca *Bab 5 (Sahabat & Tim Kerja)*.
-    * **Menegur Kekeliruan:** Baca *Bab 10 (Menyampaikan Kritik)*.
+    * Konflik di Rumah:*Baca Bab 4 (Pasangan & Anak)*.
+    * Diskusi Tim & Rapat:*Baca Bab 5 (Sahabat & Tim Kerja)*.
+    * Menegur Kekeliruan:*Baca Bab 10 (Menyampaikan Kritik)*.
   </TabItem>
 </Tabs>
 
@@ -50,8 +50,8 @@ Agar materi mudah dipahami dan langsung bisa dipraktikkan, setiap bab dalam buku
 ## Petunjuk Navigasi Ringkas
 
 :::tip[Tips Membaca di Web]
-* **Gunakan Tombol 'Next/Previous':** Di bagian bawah setiap halaman untuk berpindah ke bab berikutnya.
-* **Salin Kode/Teks:** Seluruh dalil dan contoh kalimat dalam bab siap untuk Anda pelajari atau bagikan kembali sebagai materi edukasi.
+*Gunakan Tombol 'Next/Previous':* Di bagian bawah setiap halaman untuk berpindah ke bab berikutnya.
+*Salin Kode/Teks:* Seluruh dalil dan contoh kalimat dalam bab siap untuk Anda pelajari atau bagikan kembali sebagai materi edukasi.
 :::
 
 > **Selamat Membaca & Mempraktikkan!**  
