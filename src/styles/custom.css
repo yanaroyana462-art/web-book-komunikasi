@@ -1,0 +1,7 @@
+blockquote p {
+  font-family: 'Amiri', 'Traditional Arabic', 'Scheherazade New', serif;
+  font-size: 1.4rem;
+  line-height: 2.2;
+  text-align: right;
+  direction: rtl;
+}
