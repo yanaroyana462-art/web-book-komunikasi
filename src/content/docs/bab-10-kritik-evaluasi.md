@@ -9,7 +9,6 @@ Menegur kesalahan orang lain adalah salah satu bentuk kepedulian. Namun, cara ki
 
 Banyak orang niatnya baik ingin meluruskan kekeliruan, tapi karena caranya kasar, asal menunjuk, atau mempermalukan di depan umum, niat baik itu malah berubah menjadi konflik baru. Islam mengajarkan bahwa meluruskan kesalahan harus dibarengi dengan niat menyembuhkan, bukan menjatuhkan.
 
-> **ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ**
 > <p class="arabic">ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ</p>
 >
 > *"Serulah (manusia) kepada jalan Tuhanmu dengan hikmah dan pelajaran yang baik, dan bantahlah mereka dengan cara yang baik."*  
@@ -24,7 +23,6 @@ Rasulullah ﷺ adalah pendidik terbaik. Beliau sangat peka melihat kesalahan par
 ### 1. Menegur Secara Anonim / Umum (Menjaga Muka)
 Jika kesalahan tersebut dilakukan oleh individu tetapi berdampak umum, Nabi sering kali menggunakan metode teguran secara terbuka tanpa menyebut nama pelaku (*anonymity*). Ini membuat pelaku menyadari kesalahannya tanpa harus kehilangan muka di depan publik.
 
-> **مَا بَالُ أَقْوَامٍ يَقُولُونَ كَذَا وَكَذَا**
 > <p class="arabic">مَا بَالُ أَقْوَامٍ يَقُولُونَ كَذَا وَكَذَا</p>
 >
 > *"Mengapa ada orang-orang yang mengatakan begini dan begitu..."*  

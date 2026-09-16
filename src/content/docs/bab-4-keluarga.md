@@ -9,8 +9,8 @@ Kadang kita bisa sangat ramah, sabar, dan penuh senyum kepada teman kantor atau 
 
 Padahal, rumah adalah medan ujian komunikasi yang sesungguhnya. Kualitas iman dan akhlak seseorang dapat diukur dari bagaimana ia memperlakukan keluarganya di saat tidak ada orang lain yang melihat.
 
-> **خَيْرُكُمْ خَيْرُكُمْ لِأَهْلِهِ وَأَنَا خَيْرُكُمْ لِأَهْلِي**
 > <p class="arabic">خَيْرُكُمْ خَيْرُكُمْ لِأَهْلِهِ وَأَنَا خَيْرُكُمْ لِأَهْلِي</p>
+>
 > *"Sebaik-baik kalian adalah yang paling baik kepada keluarganya, dan aku adalah orang yang paling baik di antara kalian kepada keluargaku."*  
 > — **HR. Tirmidzi no. 3895**
 
@@ -33,8 +33,8 @@ Nabi tidak membuat suasana rumah terasa tegang atau penuh dengan perintah semata
 ### 3. Tidak Mencela Makanan atau Hasil Kerja Rumah
 Banyak konflik rumah tangga dipicu oleh hal-hal sepele, seperti masakan yang kurang asin atau rumah yang berantakan. Nabi memberikan teladan luar biasa dalam menjaga perasaan anggota keluarga.
 
-> **مَا عَابَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ طَعَامًا قَطُّ إِنِ اشْتَهَاهُ أَكَلَهُ وَإِلَّا تَرَكَهُ**
 > <p class="arabic">مَا عَابَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ طَعَامًا قَطُّ إِنِ اشْتَهَاهُ أَكَلَهُ وَإِلَّا تَرَكَهُ</p>
+>
 > *"Nabi ﷺ tidak pernah mencela makanan sama sekali. Jika beliau menyukainya beliau memakannya, dan jika tidak menyukainya beliau meninggalkannya (tanpa memaki)."*  
 > — **HR. Bukhari no. 5409**
 
