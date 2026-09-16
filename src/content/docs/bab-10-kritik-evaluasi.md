@@ -24,7 +24,6 @@ Rasulullah ﷺ adalah pendidik terbaik. Beliau sangat peka melihat kesalahan par
 Jika kesalahan tersebut dilakukan oleh individu tetapi berdampak umum, Nabi sering kali menggunakan metode teguran secara terbuka tanpa menyebut nama pelaku (*anonymity*). Ini membuat pelaku menyadari kesalahannya tanpa harus kehilangan muka di depan publik.
 
 > **مَا بَالُ أَقْوَامٍ يَقُولُونَ كَذَا وَكَذَا**
->
 > <p class="arabic">مَا بَالُ أَقْوَامٍ يَقُولُونَ كَذَا وَكَذَا</p>
 > *"Mengapa ada orang-orang yang mengatakan begini dan begitu..."*  
 > — **HR. Abu Dawud no. 4788**

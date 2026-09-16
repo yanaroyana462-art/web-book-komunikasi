@@ -9,9 +9,9 @@ Seorang pemimpin bukan hanya diukur dari seberapa matang rencana operasinya, mel
 
 Rasulullah ﷺ adalah sosok pemimpin tertinggi—baik secara spiritual, sosial, politik, maupun militer. Narasi yang beliau bangun tidak pernah berorientasi pada kepentingan pribadi, melainkan senantiasa memprioritaskan kemaslahatan bersama, keadilan, dan visi jangka panjang.
 
-> **يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ**
->
-> *"Wahai Rasul! Sampaikanlah apa yang diturunkan kepadamu dari Tuhanmu. Jika tidak engkau lakukan (apa yang diperintahkan itu), berarti engkau tidak menyampaikan amanat-Nya."*  
+<p class="arabic">يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ</p>
+
+> *"Wahai Rasul! Sampaikanlah apa yang diturunkan kepadamu dari Tuhanmu. Jika tidak engkau lakukan (apa yang diperintahkan itu), berarti engkau tidak menyampaikan amanat-Nya."*
 > — **QS. Al-Ma'idah [5]: 67**
 
 ---
