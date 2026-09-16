@@ -28,7 +28,9 @@ Nabi tidak pernah berbicara terburu-buru atau menggunakan bahasa yang rumit untu
 > *"Perkataan Rasulullah ﷺ adalah perkataan yang jelas (perlahan-lahan), yang dapat dipahami oleh setiap orang yang mendengarnya."*  
 > — **HR. Abu Dawud no. 4839**
 <div class="kisah-box">
+
 > **Ceritanya:** Ibunda Aisyah radhiyallahu 'anha menceritakan bahwa Nabi tidak berbicara dengan cepat sebagaimana kebiasaan orang-orang pada umumnya. Jika ada hal penting yang merupakan fondasi hukum atau nilai kehidupan, beliau akan mengulanginya sebanyak **tiga kali** agar para sahabat dapat mencerna dan menghafalnya dengan sempurna (HR. Bukhari no. 95).
+
 </div>
 ### 2. Memilih Nada Suara yang Tepat (Sesuai Konteks)
 Nabi tahu kapan harus melembutkan suara dan kapan harus menaikkan ketegasan. Beliau tidak selalu bersuara pelan, dan tidak pula berteriak-teriak tanpa alasan.
