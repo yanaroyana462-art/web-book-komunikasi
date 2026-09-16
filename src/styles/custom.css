@@ -19,3 +19,16 @@ blockquote p {
   background-color: #064e3b;
   border-left-color: #34d399;
 }
+/* Merapikan jarak teks di dalam Callout / Aside Starlight */
+.starlight-aside {
+  padding: 1.25rem 1.5rem !important; /* Memberi ruang di pinggir dalam kotak */
+}
+
+.starlight-aside p {
+  line-height: 1.8 !important; /* Merenggangkan baris teks */
+  margin-bottom: 0.75rem !important; /* Jarak antar paragraf dalam kotak */
+}
+
+.starlight-aside p:last-child {
+  margin-bottom: 0 !important;
+}
