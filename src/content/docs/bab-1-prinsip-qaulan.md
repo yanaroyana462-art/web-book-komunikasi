@@ -29,27 +29,39 @@ Ketika iman menetap di dalam hati, seseorang akan menyadari tiga hal penting dal
 
 ---
 
-## Menyelami 6 Nada Bicara Qur'ani
+## Menyelami 6 Nada Bicara Teladan Rasulullah ﷺ
 
-Al-Qur'an tidak hanya memerintahkan kita untuk "berkata baik", tetapi juga mengajarkan *bagaimana* kebaikan itu dibungkus sesuai dengan siapa yang kita ajak bicara dan dalam situasi apa kita berada.
+6 Prinsip *Qaulan* dalam Al-Qur'an bukanlah sekadar konsep abstrak, melainkan **prinsip yang dihidupkan sepenuhnya oleh Rasulullah ﷺ** dalam setiap tutur katanya. Beliau mempraktikkan bagaimana setiap nada bicara disesuaikan dengan situasi dan siapa lawan bicaranya:
 
-### 1. Qaulan Sadida — Kebenaran yang Lurus dan Tanpa Topeng
-Bicara jujur apa adanya, tanpa rekayasa atau manipulasi fakta. Saat berada dalam lingkungan kerja, *Qaulan Sadida* mewujud dalam keberanian untuk menyampaikan laporan dengan transparan, atau kesadaran untuk jujur mengakui keterbatasan diri ketimbang berpura-pura tahu. *(QS. Al-Ahzab: 70)*
+### 1. Qaulan Sadida — Kejujuran Lurus yang Tanpa Kompromi
+Rasulullah ﷺ adalah pribadi yang paling jujur (*Al-Amin*). Beliau tidak pernah berpura-pura tahu atau memanipulasi fakta demi menyenangkan lawan bicara. 
 
-### 2. Qaulan Layyina — Kelembutan yang Meredam Amarah
-Kelembutan bukanlah tanda kelemahan, melainkan wujud kekuatan jiwa. Ingatlah bagaimana Nabi Musa dan Harun 'alaihissalam tetap diperintahkan untuk bertutur kata lembut bahkan saat berhadapan dengan Fir'aun. Saat menghadapi rekan kerja atau pasangan yang sedang tersulut emosi, nada suara yang tenang adalah obat yang meneduhkan. *(QS. Thaha: 44)*
+> **Teladan Nabi:** Saat ditanya tentang hal gaib atau hukum yang belum diturunkan wahyunya, beliau dengan lapang dada dan jujur menjawab, *"Saya tidak tahu hingga Allah memberitahukannya kepadaku."* Bahkan ketika bercanda pun, beliau menegaskan: *"Sesungguhnya aku juga bercanda, namun aku tidak mengatakan kecuali yang benar."* (HR. Tirmidzi).
 
-### 3. Qaulan Ma'rufa — Kebaikan yang Menyejukkan
-Ucapan yang pantas, santun, dan sejalan dengan nilai-nilai kebaikan yang diakui bersama. Ini adalah tentang memilih kata-kata yang tidak menyinggung perasaan, menghargai martabat lawan bicara, dan senantiasa menyelipkan prasangka baik dalam berinteraksi. *(QS. An-Nisa: 5)*
+### 2. Qaulan Layyina — Kelembutan Murni yang Meruntuhkan Amarah
+Kelembutan tutur kata Nabi bukanlah tanda kelemahan, melainkan kekuatan jiwa yang sanggup meredam emosi paling keras sekalipun.
 
-### 4. Qaulan Baligha — Kejujuran yang Menyentuh Sanubari
-Pesan yang lugas, tidak berbelit-belit, dan langsung meresap ke dalam hati. Dalam kepemimpinan, cara ini sangat penting agar setiap arahan terpancar dengan jelas tanpa menimbulkan keraguan atau salah paham. *(QS. An-Nisa: 63)*
+> **Teladan Nabi:** Ketika seorang Arab Baduy ditarik jubahnya hingga berbekas di leher beliau sambil meminta harta dengan kasar, Rasulullah ﷺ tidak membalas dengan bentakan. Beliau justru menoleh sambil tersenyum tenang, lalu memerintahkan sahabat untuk memberikan apa yang diminta orang tersebut (HR. Bukhari).
 
-### 5. Qaulan Karima — Penghormatan yang Tulus
-Gaya tutur yang dipenuhi rasa hormat dan pemuliaan, terutama ketika berbicara dengan orang tua, guru, atau mereka yang lebih senior. Ia adalah seni menyampaikan pandangan tanpa sedikit pun meruntuhkan wibawa orang yang kita ajak bicara. *(QS. Al-Isra: 23)*
+### 3. Qaulan Ma'rufa — Kebijaksanaan Kata yang Menjaga Perasaan
+Rasulullah ﷺ selalu memilih kalimat yang pantas, santun, dan menghargai martabat serta tradisi orang lain selama tidak melanggar syariat.
 
-### 6. Qaulan Maysura — Kalimat yang Meringankan Beban
-Kata-kata yang memberikan harapan, menenangkan jiwa yang sedang gelisah, dan membesarkan hati. Ketika kita belum mampu memenuhi permintaan atau bantuan seseorang, ucapan yang santun disertai doa yang tulus jauh lebih berharga daripada penolakan yang dingin. *(QS. Al-Isra: 28)*
+> **Teladan Nabi:** Ketika melihat seseorang melakukan kesalahan dalam ibadah atau muamalah, Nabi tidak menunjuk hidung atau mempermalukannya di depan umum. Beliau sering menggunakan gaya tutur bijak: *"Mengapa ada sebagian orang yang melakukan hal demikian dan demikian..."* (HR. Abu Dawud), sehingga pesan perbaikan tersampaikan tanpa meruntuhkan harga diri pelaku.
+
+### 4. Qaulan Baligha — Ketegasan Ringkas yang Mengena Sanubari
+Gaya bicara Nabi selalu lugas, tidak berbelit-belit, dan menyentuh inti masalah (*Jawami'ul Kalim*).
+
+> **Teladan Nabi:** Saat seorang sahabat meminta nasihat ringkas yang mencakup seluruh kebaikan hidup, Nabi tidak memberikan ceramah panjang yang membingungkan. Beliau cukup bersabda: *"Katakanlah: 'Aku beriman kepada Allah', kemudian istiqamahlah."* (HR. Muslim). Kalimatnya singkat, namun bobot arahannya sangat mendalam.
+
+### 5. Qaulan Karima — Penghormatan Tulus Kepada Siapa Saja
+Rasulullah ﷺ tidak pernah memandang rendah lawan bicaranya. Beliau menyapa dan memberikan penghormatan tertinggi, baik kepada para petinggi kaum maupun rakyat jelata.
+
+> **Teladan Nabi:** Saat menghadapkan wajahnya kepada lawan bicara, Nabi memutar seluruh badannya—bukan hanya menolehkan kepala. Beliau memanggil para sahabat dengan julukan kesukaan mereka dan mendengarkan keluhan seorang wanita tua di pinggir jalan hingga selesai tanpa memotongnya sedikit pun.
+
+### 6. Qaulan Maysura — Penolakan Halus yang Membesarkan Hati
+Ketika seseorang datang meminta bantuan namun Nabi sedang tidak memiliki sesuatu untuk diberikan, beliau tidak pernah mengusir atau memberikan jawaban yang dingin.
+
+> **Teladan Nabi:** Beliau membalas dengan kalimat yang mendoakan, membesarkan hati, dan memberi janji yang baik. Jikalau beliau belum bisa memberi hari ini, beliau menyampaikannya dengan nada penuh empati sehingga orang tersebut pulang tanpa rasa kecewa atau terhina.
 
 ---
 
