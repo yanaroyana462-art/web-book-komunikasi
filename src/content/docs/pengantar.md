@@ -1,6 +1,6 @@
 ---
 title: "Pengantar & Cara Menggunakan Buku"
-description: "Penyusunan naskah Pengantar & Cara Menggunakan Buku"
+description: "Panduan awal mempelajari etika dan retorika komunikasi ala Nabi."
 ---
 
-*Naskah bab ini sedang disusun secara komprehensif.*
+Selamat datang di web book **Komunikasi Efektif ala Nabi**.
