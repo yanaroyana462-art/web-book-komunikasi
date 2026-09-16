@@ -22,8 +22,11 @@ Di tengah pertempuran dan krisis yang mengancam keselamatan umat, Rasulullah ﷺ
 
 ### 1. Menjaga Kejernihan Kalimat & Meredam Kepanikan
 Di bawah tekanan tinggi, ucapan yang asal bunyi hanya akan memicu histeria. Nabi selalu memilih kalimat-kalimat yang menguatkan mental dan mengembalikan fokus pada solusi serta perlindungan Allah.
+<div class="kisah-box">
 
 > **Ceritanya:** Saat Rasulullah ﷺ dan Abu Bakar Ash-Shiddiq radhiyallahu 'anhu bersembunyi di Gua Tsur dalam perjalanan hijrah, para pengejar dari Quraisy sudah berdiri tepat di mulut gua. Abu Bakar sangat khawatir dan berbisik gemetar: *"Jika salah seorang dari mereka melihat ke bawah kakinya, pasti mereka akan melihat kita."* Nabi tidak ikut panik, dengan suara yang sangat tenang dan menyejukkan beliau bersabda: *"Wahai Abu Bakar, apa dugaanmu terhadap dua orang di mana Allah menjadi yang ketiganya? Janganlah engkau berduka cita, sesungguhnya Allah bersama kita."* (HR. Bukhari no. 3653).
+
+</div>
 
 ### 2. Mengontrol Emosi Diri (*Self-Regulation*) saat Terdesak
 Orang yang kuat bukanlah orang yang jago berkelahi atau berteriak paling lantang saat tertekan, melainkan orang yang mampu mengendalikan dirinya saat amarah atau rasa takut memuncak.
@@ -35,8 +38,11 @@ Orang yang kuat bukanlah orang yang jago berkelahi atau berteriak paling lantang
 
 ### 3. Tetap Mematuhi Aturan Etika Komunikasi (Tidak Mengumpat)
 Meskipun dalam keadaan perang terbuka, Nabi melarang keras penggunaan bahasa yang menghinakan, menyebar hoaks, atau memutarbalikkan fakta demi kepentingan sepihak. Ketegasan harus disampaikan dengan martabat, bukan dengan kekejian kata-kata.
+<div class="kisah-box">
 
 > **Ceritanya:** Dalam Perang Uhud, ketika kondisi pasukan muslimin terdesak hebat hingga wajah Nabi terluka dan gigi seri beliau tanggal, beberapa sahabat yang emosional memohon: *"Ya Rasulullah, doakanlah keburukan/laknat atas mereka!"* Namun Nabi menolak melontarkan umpatan atau doa kebinasaan. Beliau bersabda: *"Sesungguhnya aku tidak diutus untuk melaknat, tetapi aku diutus untuk menyeru pada kebaikan dan membagikan rahmat. Ya Allah, ampunilah kaumku karena sesungguhnya mereka tidak mengetahui."* (HR. Al-Baihaqi).
+
+</div>
 
 ### 4. Menghindari Narasi Keputusasaan (*Defeatist Mindset*)
 Di saat-saat kritis, ucapan seorang pemimpin atau anggota tim tidak boleh melemahkan semangat yang lain. Nabi melarang penggunaan kalimat-kaliban "seandainya..." yang hanya memicu penyesalan tak berguna.

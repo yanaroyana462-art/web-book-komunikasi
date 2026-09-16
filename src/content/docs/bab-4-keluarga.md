@@ -22,13 +22,19 @@ Rasulullah ﷺ adalah sosok suami dan ayah yang sangat hangat. Beliau tidak pern
 
 ### 1. Memanggil dengan Panggilan Kesayangan
 Memanggil pasangan atau anak dengan sebutan yang menyenangkan dapat mencairkan suasana dan menumbuhkan rasa dicintai.
+<div class="kisah-box">
 
 > **Ceritanya:** Rasulullah ﷺ sering memanggil Ibunda Aisyah radhiyallahu 'anha dengan panggilan mesra *"Ya Aisy"* atau *"Ya Humaira"* (yang kemerah-merahan pipinya) untuk menggoda dan menyenangkan hatinya (HR. Muslim no. 2440). Beliau mengajarkan bahwa kata-kata manis di dalam rumah adalah salah satu bahan bakar keharmonisan.
 
+</div>
+
 ### 2. Bercanda & Mengajak Berinteraksi
 Nabi tidak membuat suasana rumah terasa tegang atau penuh dengan perintah semata. Beliau senantiasa meluangkan waktu untuk bercanda dan bermain bersama pasangan maupun cucu-cucunya.
+<div class="kisah-box">
 
 > **Ceritanya:** Rasulullah ﷺ pernah mengajak Ibunda Aisyah berlomba lari saat mereka sedang dalam suatu perjalanan. Pada perlombaan pertama Aisyah menang. Beberapa tahun kemudian saat Aisyah sudah agak gemuk, Nabi mengajak lomba lari lagi dan kali ini Nabi menang. Beliau tertawa sambil bersabda dengan hangat: *"Kemenangan ini untuk membalas kekalahanku yang dulu!"* (HR. Abu Dawud no. 2578).
+
+</div>
 
 ### 3. Tidak Mencela Makanan atau Hasil Kerja Rumah
 Banyak konflik rumah tangga dipicu oleh hal-hal sepele, seperti masakan yang kurang asin atau rumah yang berantakan. Nabi memberikan teladan luar biasa dalam menjaga perasaan anggota keluarga.
@@ -40,8 +46,11 @@ Banyak konflik rumah tangga dipicu oleh hal-hal sepele, seperti masakan yang kur
 
 ### 4. Mengutarakan Kasih Sayang secara Ungkap (Apresiatif)
 Nabi tidak sungkan menunjukkan kasih sayang kepada anak-anak di depan umum dan memberikan apresiasi atas kehadiran mereka.
+<div class="kisah-box">
 
 > **Ceritanya:** Suatu hari seorang sahabat bernama Al-Aqra' bin Habis melihat Nabi mencium cucunya, Al-Hasan. Al-Aqra' heran dan berkata: *"Aku punya 10 orang anak, tapi tak seorang pun dari mereka yang pernah kucium."* Nabi menatapnya lalu bersabda: *"Barangsiapa tidak menyayangi, maka dia tidak akan disayangi."* (HR. Bukhari no. 5997). Nabi menegaskan bahwa kelembutan kepada anak adalah bentuk rahmat Allah.
+
+</div>
 
 ---
 

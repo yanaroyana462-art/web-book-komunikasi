@@ -5,3 +5,17 @@ blockquote p {
   text-align: right;
   direction: rtl;
 }
+/* Kotak Cerita Sirah Berwarna */
+.kisah-box {
+  background-color: #f0fdf4; /* Warna hijau muda lembut */
+  border-left: 4px solid #16a34a; /* Garis tepi hijau */
+  padding: 1rem 1.25rem;
+  border-radius: 0.5rem;
+  margin: 1.5rem 0;
+}
+
+/* Jika mode gelap (dark mode) */
+:root[data-theme='dark'] .kisah-box {
+  background-color: #064e3b;
+  border-left-color: #34d399;
+}

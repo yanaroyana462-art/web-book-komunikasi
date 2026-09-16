@@ -27,23 +27,35 @@ Jika kesalahan tersebut dilakukan oleh individu tetapi berdampak umum, Nabi seri
 >
 > *"Mengapa ada orang-orang yang mengatakan begini dan begitu..."*  
 > — **HR. Abu Dawud no. 4788**
+<div class="kisah-box">
 
 > **Ceritanya:** Ketika Nabi mendengar ada sebagian sahabat yang bertindak berlebihan dalam beribadah hingga bersumpah tidak akan menikah atau tidak akan tidur malam, Nabi naik ke atas mimbar. Beliau tidak menunjuk hidung orangnya langsung, melainkan bersabda secara umum: *"Mengapa ada orang-orang yang berkata demikian dan demikian? Padahal aku berpuasa dan berbuka, aku salat dan tidur, dan aku juga menikahi wanita..."* (HR. Bukhari no. 5063).
 
+</div>
+
 ### 2. Menegur Empat Mata (Menjaga Kerahasiaan)
 Jika kesalahan bersifat pribadi, Nabi menegurnya secara langsung dan privat. Menegur di depan orang banyak bukanlah nasihat, melainkan penghinaan.
+<div class="kisah-box">
 
 > **Ceritanya:** Imam Asy-Syafi'i pernah menegaskan prinsip penting ini dalam bait syairnya: *"Beri aku nasihat saat aku seorang diri, dan jauhilah memberi nasihat di tengah keramaian. Karena nasihat di depan umum adalah salah satu bentuk celaan yang tidak aku sukai."* Nabi selalu memanggil sahabat secara pribadi jika ingin memberikan koreksi mendalam atas kekhilafan mereka.
 
+</div>
+
 ### 3. Mengkritik Perbuatan, Bukan Menyerang Karakter/Personal
 Nabi memisahkan dengan tegas antara *orangnya* dan *perbuatannya*. Beliau membenci kesalahan yang dilakukan, tetapi tetap menyayangi dan merangkul pelakunya agar mau bertobat.
+<div class="kisah-box">
 
 > **Ceritanya:** Ada seorang sahabat bernama Nu'aiman yang beberapa kali ketahuan meminum khamr hingga harus dijatuhi hukuman. Seorang sahabat lain yang kesal mengutuknya: *"Semoga Allah melaknatnya, betapa seringnya dia dibawa ke sini!"* Mendengar hal itu, Nabi langsung menegur sahabat tersebut: *"Janganlah kalian melaknatnya! Demi Allah, setahuku dia mencintai Allah dan Rasul-Nya."* (HR. Bukhari no. 6780). Nabi melarang merusak karakter seseorang hanya karena satu kekhilafan.
 
+</div>
+
 ### 4. Menawarkan Solusi, Bukan Sekadar Salahkan
 Kritik yang baik tidak berhenti pada kata "salah", melainkan memberikan alternatif cara yang benar. Nabi selalu membimbing orang yang salah ke arah perbaikan.
+<div class="kisah-box">
 
 > **Ceritanya:** Seorang muazin bernama Mu'awiyah bin Al-Hakam radhiyallahu 'anhu pernah berbicara saat salat karena belum tahu hukumnya. Para sahabat menepuk paha mereka untuk menyuruhnya diam. Usai salat, Mu'awiyah menceritakan kelembutan Nabi: *"Demi ayah dan ibuku, aku tidak pernah melihat pengajar sebelum dan sesudahnya yang lebih baik bimbingannya daripada beliau. Demi Allah, beliau tidak membentakku, tidak memukulku, dan tidak mencelaku."* Beliau hanya bersabda dengan lembut: *"Sesungguhnya salat ini tidak boleh ada di dalamnya perkataan manusia..."* lalu mengajarkan tata cara salat yang benar (HR. Muslim no. 537).
+
+</div>
 
 ---
 
