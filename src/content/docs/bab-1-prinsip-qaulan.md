@@ -3,11 +3,13 @@ title: "Bab 1: Fondasi Lisan & 6 Prinsip Qaulan"
 description: "Mengenal dasar-dasar bicara yang baik dan 6 gaya bicara Rasulullah ﷺ yang bisa kita tiru."
 ---
 
+{/* Baris di bawah ini adalah instruksi agar fitur 'Kotak Pilihan' (Tabs) di bagian bawah bisa muncul. Mohon jangan dihapus ya. */}
 import { Tabs, TabItem } from '@astrojs/starlight/components';
+
 
 Pernahkah Anda mengecek kembali riwayat chat di WhatsApp atau mengingat obrolan di kantor tadi siang, lalu membatin: *"Duh, tadi saya ngomongnya ketinggian ya?"* atau *"Tadi kata-kata saya menyinggung dia nggak ya?"*
 
-Di zaman sekarang, kita sering bicara asal bunyi (asbun), berdebat hanya ingin menang sendiri, atau sibuk pamer di media sosial. Padahal, dalam Islam, lisan bukan cuma alat komunikasi. Apa yang keluar dari mulut kita—bahkan apa yang kita ketik di keyboard adalah cermin dari apa yang ada di dalam hati kita.
+Di zaman sekarang, kita sering bicara asal bunyi (asbun), berdebat hanya ingin menang sendiri, atau sibuk pamer di media sosial. Padahal, dalam Islam, lisan bukan cuma alat komunikasi. Apa yang keluar dari mulut kita—bahkan apa yang kita ketik di keyboard—adalah cermin dari apa yang ada di dalam hati kita.
 
 > **مَا يَلْفِظُ مِنْ قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ**
 >
