@@ -7,7 +7,7 @@ sidebar:
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Menegur kesalahan orang lain adalah salah satu bentuk kepedulian. Namun, cara kita menyampaikan kritik sering kali menentukan apakah masukan tersebut akan diterima dengan lapang dada atau justru ditolak dengan perlawanan. 
+Menegur kesalahan orang lain adalah salah satu bentuk kepedulian. Namun, cara kita menyampaikan kritik sering kali menentukan apakah masukan tersebut akan diterima dengan lapang dada atau justru ditolak. 
 
 Banyak orang niatnya baik ingin meluruskan kekeliruan, tapi karena caranya kasar, asal menunjuk, atau mempermalukan di depan umum, niat baik itu malah berubah menjadi konflik baru. Islam mengajarkan bahwa meluruskan kesalahan harus dibarengi dengan niat menyembuhkan, bukan menjatuhkan.
 
