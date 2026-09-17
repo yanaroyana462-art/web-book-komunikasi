@@ -5,7 +5,7 @@ description: "Memahami pentingnya intonasi, pengulangan kata, dan ekspresi non-v
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Pernahkah Anda mengalami salah paham hanya gara-gara membaca pesan singkat di WhatsApp? Niatnya bercanda, tapi dibaca dengan nada tinggi oleh penerima sehingga dikira marah. Atau pernahkah Anda mendengar seseorang bicara sangat cepat sampai pesannya tidak tertangkap sama sekali?
+Pernahkah Anda mengalami salah paham saat membaca pesan singkat di WhatsApp? Niat bercanda, tapi justru malah orang lain marah atau tersinggung. Atau pernahkah Anda mendengar seseorang bicara sangat cepat sampai pesannya tidak tertangkap sama sekali?atau kita menyampaikan sesuatu namun orang lain malah bingung dan tidak faham apa yang kita sampaikan?
 
 Komunikasi bukan hanya tentang *apa* yang kita katakan, melainkan *bagaimana* cara kita menyampaikannya. Kata-kata hanyalah sebagian kecil dari komunikasi, sisanya ditentukan oleh **nada suara (*vocal*)** dan **bahasa tubuh (*visual*)**.
 
@@ -18,10 +18,10 @@ Komunikasi bukan hanya tentang *apa* yang kita katakan, melainkan *bagaimana* ca
 
 ## 3 Dimensi Komunikasi ala Rasulullah ﷺ
 
-Rasulullah ﷺ adalah penyampai pesan terbaik sepanjang sejarah. Beliau sangat memperhatikan kejernihan kata, intonasi suara, hingga mimik wajah agar pesan kebaikan dapat diterima dengan hangat.
+Rasulullah ﷺ adalah penyampai pesan terbaik sepanjang sejarah. Beliau sangat memperhatikan kejernihan kata, intonasi suara, hingga mimik wajah agar pesan kebaikan dapat diterima dengan benar.
 
 ### 1. Kejelasan & Pengulangan Kata (Artikulasi Jelas)
-Nabi tidak pernah berbicara terburu-buru atau menggunakan bahasa yang rumit untuk terlihat pintar. Kata-kata beliau teratur, lugas, dan mudah dipahami oleh siapa saja, dari tokoh masyarakat hingga rakyat biasa.
+Nabi tidak pernah berbicara terburu-buru atau menggunakan bahasa yang rumit agar terlihat pintar. Kata-kata beliau teratur, lugas, jelas dan mudah dipahami oleh siapa saja, dari tokoh intelektual hingga orang awam.
 
 > <p class="arabic">كَنَّ كَلَامُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَلَامًا فَصْلًا يَفْهَمُهُ كُلُّ مَنْ سَمِعَهُ</p>
 >
@@ -33,14 +33,14 @@ Nabi tidak pernah berbicara terburu-buru atau menggunakan bahasa yang rumit untu
 
 </div>
 ### 2. Memilih Nada Suara yang Tepat (Sesuai Konteks)
-Nabi tahu kapan harus melembutkan suara dan kapan harus menaikkan ketegasan. Beliau tidak selalu bersuara pelan, dan tidak pula berteriak-teriak tanpa alasan.
+Nabi tahu kapan harus melembutkan suara dan kapan harus tegas dan keras. Beliau tidak selalu bersuara pelan, dan tidak pula keras tanpa alasan.
 <div class="kisah-box">
 
 >  Ketika memberikan nasihat sehari-hari, Nabi berbicara dengan tenang dan penuh kehangatan. Namun, ketika menyampaikan khotbah Jumat yang berisi peringatan penting tentang keselamatan akhirat dan kondisi umat, mata beliau memerah, suaranya meninggi, dan semangatnya membara seolah-olah sedang memberi peringatan kepada pasukan perang (HR. Muslim no. 867). Nada suara beliau disesuaikan dengan tingkat urgensi pesan.
 
 </div>
 ### 3. Bahasa Tubuh & Ekspresi Wajah yang Menyenangkan
-Sebelum kata-kata keluar dari mulut, wajah dan gestur tubuh kita sudah berbicara terlebih dahulu. Rasulullah ﷺ selalu menampilkan ekspresi yang ramah dan terbuka.
+Sebelum kata-kata keluar dari mulut, wajah dan gestur tubuh kita sudah berbicara terlebih dahulu. Rasulullah ﷺ selalu menampilkan ekspresi yang ramah dan menyesuaikan dengan apa yang akan diungkapkan, dan selelau menampakan sikap menyenangkan lawan bicara.
 
 > <p class="arabic">تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ</p>
 >
