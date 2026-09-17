@@ -9,7 +9,7 @@ import { Tabs, TabItem } from '@astrojs/starlight/components';
 
 Selamat datang di web book **Komunikasi Efektif ala Nabi**. 
 
-Buku digital ini disusun sebagai panduan praktis bagi siapa saja mulai dari profesional, pemimpin tim, pendidik, hingga anggota keluarga yang ingin memperbaiki kualitas komunikasi sehari-hari melalui teladan lisan Rasulullah ﷺ dan prinsip-prinsip Al-Qur'an.
+Buku digital ini disusun sebagai panduan praktis bagi siapa saja—mulai dari profesional, pemimpin tim, pendidik, hingga anggota keluarga—yang ingin memperbaiki kualitas komunikasi sehari-hari melalui teladan lisan Rasulullah ﷺ dan prinsip-prinsip Al-Qur'an.
 
 ---
 
@@ -24,9 +24,9 @@ Rasulullah ﷺ adalah *uswatun hasanah* (suri teladan yang baik) dalam setiap as
 > *"Sungguh, telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu (yaitu) bagi orang yang mengharap (rahmat) Allah dan (kedatangan) hari Kiamat dan yang banyak mengingat Allah."*  
 > — **QS. Al-Ahzab [33]: 21**
 
-Keberhasilan beliau dalam membangun peradaban yang mulia dari masyarakat jahiliah tidak hanya diakui oleh umat Islam, tetapi juga oleh para sejarawan dunia. Michael H. Hart, misalnya, menempatkan Rasulullah ﷺ di urutan pertama dalam daftar manusia paling berpengaruh dalam sejarah dunia. Salah satu kekuatan kunci di balik kesuksesan tersebut adalah kemahiran beliau dalam berkomunikasi bagaimana beliau menyentuh hati, meyakinkan lawan, dan memimpin umat dengan kata-kata yang penuh hikmah, kejujuran, dan kelembutan.
+Keberhasilan beliau dalam membangun peradaban yang mulia tidak hanya diakui oleh umat Islam, tetapi juga oleh para sejarawan dunia. Michael H. Hart, misalnya, menempatkan Rasulullah ﷺ di urutan pertama dalam daftar manusia paling berpengaruh dalam sejarah. Salah satu kekuatan kunci di balik kesuksesan tersebut adalah kemahiran beliau dalam berkomunikasi—bagaimana beliau menyentuh hati, meyakinkan lawan, dan memimpin umat dengan kata-kata yang penuh hikmah, kejujuran, dan kelembutan.
 
-Islam tidak hanya mengajarkan *apa* yang harus disampaikan (kebenaran), tetapi juga *bagaimana* cara menyampaikannya (akhlak dan retorika). Buku ini hadir agar kaum muslimin mampu mempelajari, meniru, dan mempraktikkan kekuatan komunikasi tersebut di tengah kompleksitas dunia modern. Melalui 10 bab interaktif, buku ini menghubungkan ayat Al-Qur'an dan riwayat hadis dengan situasi nyata kehidupan modern.
+Buku ini hadir agar kita mampu mempelajari, meniru, dan mempraktikkan kekuatan komunikasi tersebut di tengah kompleksitas dunia modern. Melalui 10 bab interaktif, buku ini menghubungkan riwayat hadis dan ayat Al-Qur'an dengan situasi nyata kehidupan modern.
 
 ---
 
@@ -35,7 +35,7 @@ Islam tidak hanya mengajarkan *apa* yang harus disampaikan (kebenaran), tetapi j
 Agar materi mudah dipahami dan langsung bisa dipraktikkan, setiap bab dalam buku ini disusun dengan struktur yang seragam:
 
 1. *Konsep Utama & Dalil:* Pembahasan fondasi komunikasi beserta teks Arab dan terjemahan resmi Al-Qur'an atau hadis.
-2. *Kisah & Teladan Sirah:* Cerita singkat pengalaman Rasulullah ﷺ dan para sahabat sebagai contoh nyata penerapan.
+2. *Kisah & Teladan Sirah:* Contoh nyata penerapan gaya bertutur kata Nabi ﷺ dan para sahabat.
 3. *Komparasi Studi Kasus (`<Tabs>`):* Perbandingan antara cara berkomunikasi yang kurang tepat dengan pendekatan ala Nabi dalam situasi sehari-hari.
 4. *Checklist & Evaluasi Diri (`:::tip`):* Pertanyaan ringkas untuk refleksi diri sebelum melontarkan ucapan atau pesan tulisan.
 
@@ -50,9 +50,9 @@ Agar materi mudah dipahami dan langsung bisa dipraktikkan, setiap bab dalam buku
 
   <TabItem label="Membaca Sesuai Kebutuhan">
     Jika Anda menghadapi situasi spesifik, Anda bisa langsung melompat ke bab yang relevan melalui menu navigasi samping:
-    * Konflik di Rumah:*Baca Bab 4 (Pasangan & Anak)*.
-    * Diskusi Tim & Rapat:*Baca Bab 5 (Sahabat & Tim Kerja)*.
-    * Menegur Kekeliruan:*Baca Bab 10 (Menyampaikan Kritik)*.
+    * *Konflik di Rumah:* Baca Bab 4 (Pasangan & Anak).
+    * *Diskusi Tim & Rapat:* Baca Bab 5 (Sahabat & Tim Kerja).
+    * *Menegur Kekeliruan:* Baca Bab 10 (Menyampaikan Kritik).
   </TabItem>
 </Tabs>
 
@@ -64,6 +64,14 @@ Agar materi mudah dipahami dan langsung bisa dipraktikkan, setiap bab dalam buku
 *Gunakan Tombol 'Next/Previous':* Di bagian bawah setiap halaman untuk berpindah ke bab berikutnya.
 *Salin Kode/Teks:* Seluruh dalil dan contoh kalimat dalam bab siap untuk Anda pelajari atau bagikan kembali sebagai materi edukasi.
 :::
+
+---
+
+## Catatan Penulis & Ruang Koreksi
+
+Buku digital ini hanyalah sebuah **karya sederhana** dari seorang hamba yang terus belajar. Harapan terbesar saya sebagai penulis adalah agar lembaran-lembaran ini dapat menjadi jembatan kecil bagi siapa saja yang merindukan dan ingin **berkenalan lebih dekat dengan sosok Nabi Muhammad ﷺ** melalui kelembutan lisan dan keindahan akhlak beliau.
+
+Tentu saja, sebagai karya manusia biasa, penyusunan buku ini tak luput dari keterbatasan dan kekurangan. Oleh karena itu, saya sangat **membuka diri atas segala bentuk koreksi, masukan, maupun saran konstruktif** dari para pembaca, ustadz, dan pembimbing ilmu sekalian. Jika Anda menemukan kekeliruan dalam penafsiran, pengutipan riwayat, maupun kesalahan ketik, sudi kiranya untuk memberikan teguran dan masukan agar karya ini bisa terus disempurnakan.
 
 > **Selamat Membaca & Mempraktikkan!**  
 > Semoga setiap bab dalam buku ini menjadi langkah awal untuk menjadikan lisan kita sebagai penyejuk hati dan jalan kebaikan bagi sesama.
