@@ -23,8 +23,10 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Panduan Awal',
-          autogenerate: { directory: '' },
+          label: 'Daftar Isi',
+          items: [
+            { autogenerate: { directory: '' } }
+          ],
         },
       ],
     }),
