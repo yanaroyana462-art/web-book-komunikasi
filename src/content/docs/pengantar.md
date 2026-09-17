@@ -9,7 +9,7 @@ import { Tabs, TabItem } from '@astrojs/starlight/components';
 
 Selamat datang di web book **Komunikasi Efektif ala Nabi**. 
 
-Buku digital ini disusun sebagai panduan praktis bagi siapa saja—mulai dari profesional, pemimpin tim, pendidik, hingga anggota keluarga—yang ingin memperbaiki kualitas komunikasi sehari-hari melalui teladan lisan Rasulullah ﷺ dan prinsip-prinsip Al-Qur'an.
+Buku digital ini disusun sebagai panduan praktis bagi siapa saja mulai dari profesional, pemimpin tim, pendidik, hingga anggota keluarga yang ingin memperbaiki kualitas komunikasi sehari-hari melalui teladan lisan Rasulullah ﷺ dan prinsip-prinsip Al-Qur'an.
 
 ---
 
@@ -24,7 +24,7 @@ Rasulullah ﷺ adalah *uswatun hasanah* (suri teladan yang baik) dalam setiap as
 > *"Sungguh, telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu (yaitu) bagi orang yang mengharap (rahmat) Allah dan (kedatangan) hari Kiamat dan yang banyak mengingat Allah."*  
 > — **QS. Al-Ahzab [33]: 21**
 
-Keberhasilan beliau dalam membangun peradaban yang mulia dari masyarakat jahiliah tidak hanya diakui oleh umat Islam, tetapi juga oleh para sejarawan dunia. Michael H. Hart, misalnya, menempatkan Rasulullah ﷺ di urutan pertama dalam daftar manusia paling berpengaruh dalam sejarah dunia. Salah satu kekuatan kunci di balik kesuksesan tersebut adalah kemahiran beliau dalam berkomunikasi—bagaimana beliau menyentuh hati, meyakinkan lawan, dan memimpin umat dengan kata-kata yang penuh hikmah, kejujuran, dan kelembutan.
+Keberhasilan beliau dalam membangun peradaban yang mulia dari masyarakat jahiliah tidak hanya diakui oleh umat Islam, tetapi juga oleh para sejarawan dunia. Michael H. Hart, misalnya, menempatkan Rasulullah ﷺ di urutan pertama dalam daftar manusia paling berpengaruh dalam sejarah dunia. Salah satu kekuatan kunci di balik kesuksesan tersebut adalah kemahiran beliau dalam berkomunikasi bagaimana beliau menyentuh hati, meyakinkan lawan, dan memimpin umat dengan kata-kata yang penuh hikmah, kejujuran, dan kelembutan.
 
 Islam tidak hanya mengajarkan *apa* yang harus disampaikan (kebenaran), tetapi juga *bagaimana* cara menyampaikannya (akhlak dan retorika). Buku ini hadir agar kaum muslimin mampu mempelajari, meniru, dan mempraktikkan kekuatan komunikasi tersebut di tengah kompleksitas dunia modern. Melalui 10 bab interaktif, buku ini menghubungkan ayat Al-Qur'an dan riwayat hadis dengan situasi nyata kehidupan modern.
 

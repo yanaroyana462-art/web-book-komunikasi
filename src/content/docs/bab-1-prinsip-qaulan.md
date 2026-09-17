@@ -9,9 +9,9 @@ sidebar:
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
 
-Pernahkah Anda mengecek kembali riwayat chat di WhatsApp atau mengingat obrolan di kantor tadi siang, lalu membatin: *"Duh, tadi saya ngomongnya ketinggian ya?"* atau *"Tadi kata-kata saya menyinggung dia nggak ya?"*
+Pernahkah Anda mengecek kembali riwayat chat di WhatsApp atau mengingat obrolan tadi siang, lalu dalam batin kita : *"Duh, tadi saya ngomongnya ketinggian ya?"* atau *"Tadi kata-kata saya menyinggung dia nggak ya?"*, *"Kenapa tadi saya mesti mgomongin itu?"*
 
-Di zaman sekarang, kita sering bicara asal bunyi (asbun), berdebat hanya ingin menang sendiri, atau sibuk pamer di media sosial. Padahal, dalam Islam, lisan bukan cuma alat komunikasi. Apa yang keluar dari mulut kita—bahkan apa yang kita ketik di keyboard—adalah cermin dari apa yang ada di dalam hati kita.
+kita kadang  bicara asal bunyi (asbun) tanpa proses berpikir mendalam, tanpa berpikir dampaknya bagi lawan bicara, atau terlibat dalam perdebatan hanya ingin mendapat kemenangan dan kebanggaan, atau sibuk pamer di media sosial. Padahal, dalam Islam, lisan bukan sekedar  media komunikasi. Apa yang keluar dari mulut kita bahkan apa yang kita ketik di keyboard adalah cermin dari apa yang ada di dalam pikiran dan perasaan kita, juga menunjukan seperti apa kita
 
 > <p class="arabic">مَا يَلْفِظُ مِنْ قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ</p>
 >
@@ -22,7 +22,7 @@ Di zaman sekarang, kita sering bicara asal bunyi (asbun), berdebat hanya ingin m
 
 ## Lisan: Cermin Diri Kita
 
-Menjaga ucapan itu bukan berarti kita jadi pendiam atau tidak boleh berpendapat. Menjaga ucapan adalah cara kita menghargai diri sendiri dan orang lain. Rasulullah ﷺ memberikan tips paling sederhana buat kita:
+Menjaga ucapan itu bukan berarti kita jadi pendiam atau tidak boleh bicara. Menjaga ucapan adalah cara kita menghargai diri sendiri dan orang lain. Rasulullah ﷺ memberikan tips paling sederhana buat kita:
 
 > <p class="arabic">مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ</p>
 >
@@ -31,9 +31,9 @@ Menjaga ucapan itu bukan berarti kita jadi pendiam atau tidak boleh berpendapat.
 
 Kalau kita mencoba mempraktikkan ini, akan ada tiga hal besar yang berubah:
 
-1. **Satu kalimat bisa berdampak besar.** Satu pujian tulus bisa bikin orang semangat seharian, tapi satu ejekan bisa bikin orang sakit hati bertahun-tahun.
-2. **Bikin orang lain nyaman.** Orang bakal betah dekat kita kalau mereka merasa aman dari omongan pedas atau nyinyiran kita.
-3. **Gak ikut campur urusan orang.** Kita jadi lebih fokus pada hal yang bermanfaat daripada sibuk mengomentari hidup orang lain yang bukan urusan kita.
+1. **Daya Ubah Sebuah Kata.** Lisan adalah benih; satu pujian tulus bisa tumbuh menjadi pohon harapan yang menyemangati seseorang seumur hidup, namun satu ejekan bisa menjadi luka dalam yang sulit terhapus oleh waktu.
+2. **Menjadi "Oase" yang Menenangkan.** Kita menciptakan ruang aman bagi orang lain. Saat lisan terjaga, orang-orang di sekitar akan merasa nyaman dekat kita juga menghormati, karena mereka tahu kita akan menjaga perasaan dan harga diri mereka.
+3. **Meraih Kualitas Islam yang Sempurna.** Kita belajar untuk memusatkan energi pada hal-hal yang bermanfaat dan bernilai ibadah, alih-alih menghabiskan waktu mengomentari kehidupan orang lain atau bicara tentang hal yang tidak penting.
 
 ---
 
@@ -49,7 +49,7 @@ Artinya bicara apa adanya, tidak berbelit-belit, dan tidak bohong. Prinsip ini d
 > *"Wahai orang-orang yang beriman! Bertakwalah kamu kepada Allah dan ucapkanlah perkataan yang benar."*  
 > — **QS. Al-Ahzab [33]: 70**
 
-Rasulullah ﷺ dikenal sebagai *Al-Amin* (yang terpercaya) karena kejujurannya ini.
+Rasulullah ﷺ dikenal sebagai *Al-Amin* (yang terpercaya) karena beliau senantiasa menjaga lisan dan prilakunya.
 <div class="kisah-box">
 
 > Suatu hari ada seorang nenek tua bertanya, *"Ya Rasulullah, apakah orang tua seperti saya bisa masuk surga?"* Nabi menjawab sambil tersenyum, *"Di surga nanti tidak ada orang tua."* Nenek itu sedih dan menangis. Lalu Nabi menjelaskan dengan jujur namun menenangkan, *"Maksudnya, semua orang yang masuk surga akan diubah menjadi muda kembali."* Nabi tetap bicara benar (jujur) meski sedang bercanda (HR. Tirmidzi dalam *Syama'il Muhammadiyah*).
@@ -125,7 +125,7 @@ Bicara yang penuh penghormatan dan memuliakan lawan bicara.
 > *"Dan ucapkanlah kepada mereka berdua perkataan yang mulia."*  
 > — **QS. Al-Isra [17]: 23**
 
-Nabi tidak pernah meremehkan siapa pun. Beliau selalu membuat orang yang bicara dengannya merasa jadi orang paling penting di dunia.
+Nabi tidak pernah meremehkan siapa pun. Beliau selalu membuat orang yang bicara dengannya merasa jadi orang paling penting dan berharga.
 <div class="kisah-box">
 
 > Kalau diajak bicara, Nabi tidak cuma menolehkan kepala, tapi memutar seluruh badannya menghadap orang tersebut. Beliau mendengarkan dengan penuh perhatian. Pernah ada seorang wanita tua yang curhat sangat lama di pinggir jalan, Nabi tetap berdiri mendengarkannya sampai selesai tanpa memotong sedikit pun, meskipun beliau adalah pemimpin besar.
