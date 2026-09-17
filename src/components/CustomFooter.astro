@@ -7,6 +7,15 @@ import Default from '@astrojs/starlight/components/Footer.astro';
 
 <div class="custom-footer-link">
   <a href="/referensi/">📖 Lihat Referensi & Daftar Pustaka</a>
+
+  <div class="footer-meta">
+    <p>&copy; {new Date().getFullYear()} Komunikasi Efektif ala Nabi. Hak Cipta Dilindungi.</p>
+    <div class="social-links">
+      <a href="https://github.com/yanaroyana462-art" target="_blank" rel="noopener noreferrer">GitHub</a>
+      <span class="separator">•</span>
+      <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a>
+    </div>
+  </div>
 </div>
 
 <style>
@@ -24,5 +33,20 @@ import Default from '@astrojs/starlight/components/Footer.astro';
   }
   .custom-footer-link a:hover {
     text-decoration: underline;
+  }
+  .footer-meta {
+    margin-top: 1.2rem;
+    font-size: 0.85rem;
+    color: var(--sl-color-gray-3);
+  }
+  .footer-meta p {
+    margin: 0;
+  }
+  .social-links {
+    margin-top: 0.5rem;
+  }
+  .separator {
+    margin: 0 0.5rem;
+    color: var(--sl-color-gray-5);
   }
 </style>
