@@ -9,13 +9,13 @@ import { Tabs, TabItem } from '@astrojs/starlight/components';
 
 Selamat datang di web book **Komunikasi Efektif ala Nabi**. 
 
-Buku digital ini disusun sebagai panduan praktis bagi siapa saja—mulai dari profesional, pemimpin tim, pendidik, hingga anggota keluarga—yang ingin memperbaiki kualitas komunikasi sehari-hari melalui teladan lisan Rasulullah ﷺ dan prinsip-prinsip Al-Qur'an.
+Buku digital ini disusun sebagai panduan praktis bagi siapa saja mulai dari profesional, pemimpin tim, pendidik, hingga anggota keluarga yang ingin memperbaiki kualitas komunikasi sehari-hari melalui teladan lisan Rasulullah ﷺ dan prinsip-prinsip Al-Qur'an.
 
 ---
 
 ## Mengapa Buku Ini Hadir?
 
-Di era digital dan tingginya mobilitas saat ini, komunikasi sering kali terjadi begitu cepat tanpa jeda untuk berpikir. Kesalahpahaman, konflik di tempat kerja, hingga perpecahan di media sosial kerap bersumber dari cara kita menyampaikan pesan. Namun, jauh sebelum teknologi hadir, Islam telah meletakkan standar komunikasi yang paripurna melalui sosok Nabi Muhammad ﷺ.
+Di era digital dan tingginya mobilitas saat ini, komunikasi sering kali terjadi begitu cepat tanpa jeda untuk berpikir. Kesalahpahaman, konflik di tempat kerja, keluarga, hingga perpecahan di media sosial kerap bersumber dari cara kita menyampaikan pesan. Namun, jauh sebelum teknologi hadir, Islam telah meletakkan standar komunikasi yang paripurna melalui sosok Nabi Muhammad ﷺ.
 
 Rasulullah ﷺ adalah *uswatun hasanah* (suri teladan yang baik) dalam setiap aspek kehidupan, termasuk dalam bertutur kata. Allah SWT menegaskan hal ini dalam Al-Qur'an:
 
@@ -75,3 +75,6 @@ Tentu saja, sebagai karya manusia biasa, penyusunan buku ini tak luput dari kete
 
 > **Selamat Membaca & Mempraktikkan!**  
 > Semoga setiap bab dalam buku ini menjadi langkah awal untuk menjadikan lisan kita sebagai penyejuk hati dan jalan kebaikan bagi sesama.
+
+Salam
+Yana Abu Fillah
