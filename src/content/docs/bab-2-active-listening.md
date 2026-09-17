@@ -5,9 +5,9 @@ description: "Belajar menjadi pendengar yang baik melalui teladan Rasulullah ﷺ
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Di era media sosial saat ini, semua orang berlomba-lomba untuk didengar. Kita sibuk menyiapkan jawaban saat orang lain sedang bicara, memotong pembicaraan, atau malah fokus menatap layar HP saat teman sedang curhat.
+Di era media sosial saat ini, semua orang berlomba-lomba untuk didengar dan mendapat perhatian. Kita sibuk menyiapkan jawaban saat orang lain sedang bicara, sering memotong pembicaraan, atau malah fokus menatap layar HP saat bersama teman atau saat ngobrol.
 
-Padahal, menjadi pendengar yang baik (*Active Listening*) adalah kunci utama membangun hubungan yang harmonis. Dalam Islam, mendengarkan bukan sekadar diam menunggu giliran bicara, melainkan bentuk penghormatan, empati, dan ibadah.
+Padahal, menjadi pendengar yang baik (*Active Listening*) adalah kunci utama membangun hubungan yang harmonis. Dalam Islam, mendengarkan bukan sekadar diam menunggu giliran bicara, melainkan bentuk penghormatan, empati, dan juga bernilai ibadah.
 
 > <p class="arabic">الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ فَيَتَّبِعُونَ أَحْسَنَهُ ۚ أُولَٰئِكَ الَّذِينَ هَدَاهُمُ اللَّهُ ۖ وَأُولَٰئِكَ هُمْ أُولُو الْأَلْبَابِ</p>
 > *"Mereka yang mendengarkan perkataan lalu mengikuti apa yang paling baik di antaranya. Mereka itulah orang-orang yang telah diberi Allah hidayah dan mereka itulah orang-orang yang mempunyai akal."*  
@@ -17,7 +17,7 @@ Padahal, menjadi pendengar yang baik (*Active Listening*) adalah kunci utama mem
 
 ## Teladan Rasulullah ﷺ dalam Mendengarkan
 
-Rasulullah ﷺ adalah sosok komunikator ulung. Salah satu rahasia mengapa beliau sangat dicintai oleh para sahabat dan disegani oleh lawan adalah kemampuannya dalam **menyimak dengan sepenuh hati**.
+Rasulullah ﷺ adalah sosok komunikator ulung. Salah satu rahasia mengapa beliau sangat dicintai oleh para sahabat dan disegani oleh kawan maupun lawan adalah kemampuannya dalam **Mendengarkan**.
 
 Imam Al-Hasan bin Ali radhiyallahu 'anhu pernah menceritakan bagaimana sikap Rasulullah ﷺ saat berbicara dengan orang lain:
 
@@ -28,26 +28,32 @@ Imam Al-Hasan bin Ali radhiyallahu 'anhu pernah menceritakan bagaimana sikap Ras
 
 ## 4 Pilar Mendengarkan Ala Nabi ﷺ
 
-Untuk mempraktikkan *Active Listening* yang diridhai Allah, kita bisa meniru 4 kebiasaan Rasulullah ﷺ berikut:
+Untuk mempraktikkan dan melatih diri agar mampu menjadi *Active Listening* ini, kita bisa meniru 4 kebiasaan Rasulullah ﷺ berikut:
 
 ### 1. Memutar Seluruh Tubuh (Hadir Sepenuhnya)
-Saat ada orang yang mengajak bicara, Rasulullah ﷺ tidak hanya menolehkan kepala atau melirik. Beliau memutar seluruh badannya menghadap orang tersebut (*Aqbala 'alaihi bi wajhihi*). Ini memberi sinyal: *"Kamu penting, dan saya fokus mendengarkanmu."*
+Saat ada yang mengajak bicara, Rasulullah ﷺ tidak pernah menoleh separuh badan, apalagi sekadar melirik sambil lalu. Beliau memutar seluruh tubuhnya menghadap orang tersebut (*Aqbala 'alaihi bi wajhihi*). Ini adalah bentuk penghormatan tertinggi yang menyampaikan pesan tanpa kata: *"Kamu adalah prioritas saya saat ini."*
+
 <div class="kisah-box">
 
->  Utbah bin Rabi'ah, seorang tokoh Quraisy yang belum beriman, pernah mendatangi Nabi untuk membujuk beliau agar berhenti berdakwah dengan tawaran harta, tahta, dan wanita. Meskipun isinya adalah bujukan dan penolakan, Nabi duduk mendengarkan setiap kalimat Utbah sampai selesai tanpa memotong sedikit pun. Setelah Utbah selesai, Nabi bertanya dengan lembut: *"Apakah engkau sudah selesai, wahai Abul Walid?"* Barulah Nabi menyampaikan balasannya dengan membacakan Al-Qur'an (HR. Al-Baihaqi).
+> Amr bin Al-Aas RA pernah bercerita tentang betapa hangatnya cara Nabi berinteraksi. Beliau senantiasa mengarahkan wajah dan seluruh perhatiannya secara penuh kepada lawan bicaranya, bahkan kepada orang yang paling rendah sekalipun. Amr sampai merasa diri beliaulah orang yang paling dicintai oleh Nabi, hingga ia bertanya: *"Wahai Rasulullah, siapakah manusia yang paling engkau cintai?"* (HR. Tirmidzi & Ahmad).  
+> 
+> *Pengasuhan lisan dan sikap fisik Nabi yang memutus rasa diabaikan ini membuat setiap orang yang berada di dekat beliau merasa sangat dihargai.*
 
 </div>
 
 ### 2. Tidak Memotong Pembicaraan
-Memotong omongan orang lain membuat lawan bicara merasa tidak dihargai. Nabi senantiasa membiarkan orang lain menyelesaikan kalimatnya terlebih dahulu.
+Menyimak hingga tuntas adalah bentuk kesabaran dan etika lisan. Nabi ﷺ tidak pernah merebut giliran bicara orang lain, memotong di tengah kalimat, atau terburu-buru menghakimi sebelum pesan lawan bicara tersampaikan secara utuh.
+
 <div class="kisah-box">
 
-> Seorang Arab Baduy pernah masuk ke masjid lalu kencing di salah satu sudut masjid. Para sahabat langsung membentak dan ingin menghentikannya. Namun Nabi melarang mereka: *"Jangan hentikan dia, biarkan dia menyelesaikan kencingnya."* Setelah selesai, Nabi memanggilnya dan menasihatinya dengan lembut bahwa masjid dibangun untuk salat dan zikir, bukan untuk kotoran (HR. Bukhari no. 221). Nabi mengajarkan untuk bersabar dan tidak terburu-buru bereaksi.
+> Ketika Utbah bin Rabi'ah mendatangi Nabi untuk membujuk beliau berhenti berdakwah dengan berbagai penawaran harta, tahta, dan wanita, Nabi tidak sedikit pun menyela atau memotongnya. Beliau duduk tenang menyimak seluruh argumen Utbah hingga selesai.  
+> 
+> Saat Utbah diam, Nabi tidak langsung mendebatnya, melainkan bertanya terlebih dahulu dengan santun: *"Apakah engkau sudah selesai, wahai Abul Walid?"* Setelah Utbah menjawab "Sudah", barulah Nabi meresponsnya dengan tenang (HR. Al-Baihaqi & Ibnu Hisham).
 
 </div>
 
 ### 3. Tidak Meremehkan Curhatan Orang Lain
-Siapa pun yang bicara—baik sahabat senior, anak kecil, maupun masyarakat awam—selalu didengarkan dengan kesungguhan yang sama oleh Nabi.
+Siapa pun yang bicara baik sahabat senior, anak kecil, maupun masyarakat awam ,nabi selalu didengarkan dengan kesungguhan yang sama tanpa membeda bedakan sikap.
 <div class="kisah-box">
 
 >  Nabi pernah memiliki sahabat kecil bernama Abu Umair yang memiliki burung pipit kesayangan (Nughair). Suatu hari burung itu mati dan Abu Umair sangat sedih. Nabi khusus meluangkan waktu datang menghiburnya dan bertanya dengan empati: *"Wahai Abu Umair, apa yang dilakukan oleh si Nughair?"* (HR. Bukhari no. 6129). Nabi tidak menganggap remeh kesedihan seorang anak kecil.
@@ -55,7 +61,7 @@ Siapa pun yang bicara—baik sahabat senior, anak kecil, maupun masyarakat awam�
 </div>
 
 ### 4. Mengonfirmasi & Empati (Menyelaraskan Perasaan)
-Mendengarkan aktif berarti mencoba memahami perasaan di balik kata-kata.
+Mendengarkan aktif berarti mencoba memahami perasaan di balik kata-kata, berusaha memperhatikan sikap dan juga ekspresi lawan bicara 
 
 > <p class="arabic">الْمُؤْمِنُ مِرْآةُ الْمُؤْمِنِ</p>
 >
