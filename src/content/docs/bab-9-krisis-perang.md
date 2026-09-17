@@ -5,9 +5,9 @@ description: "Meneladani keteguhan, kontrol diri, dan keanggunan lisan Rasululla
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Tekanan tinggi, krisis finansial, tenggat waktu (*deadline*) yang amat ketat, atau konflik terbuka sering kali menjadi pemicu utamanya seseorang kehilangan kendali atas lisannya. Dalam keadaan stres atau terdesak, benteng kesabaran kita sering runtuh dan keluar kata-kata yang destruktif, emosional, atau memicu kepanikan massal.
+Tekanan tinggi, krisis finansial, tenggat waktu (*deadline*) yang amat ketat, atau konflik terbuka sering kali menjadi pemicu utamanya seseorang kehilangan kendali atas lisannya. Dalam keadaan stres atau terdesak, benteng kesabaran kita sering runtuh dan keluar kata-kata yang destruktif, emosional, atau memicu kepanikan.
 
-Namun, Islam mengajarkan bahwa ukuran kekuatan lisan seseorang yang sesungguhnya terlihat justru ketika ia berada dalam situasi paling genting. Rasulullah ﷺ memberikan teladan nyata bagaimana menjaga kejernihan pikiran dan keanggunan ucapan bahkan di tengah kepungan musuh dan ancaman jiwa.
+Namun, Islam mengajarkan bahwa ukuran kekuatan lisan seseorang yang sesungguhnya terlihat justru ketika ia berada dalam situasi genting. Rasulullah ﷺ memberikan teladan nyata bagaimana menjaga kejernihan pikiran dan keanggunan ucapan bahkan di tengah kepungan musuh dan ancaman jiwa.
 
 > **الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ**
 >
@@ -29,7 +29,7 @@ Di bawah tekanan tinggi, ucapan yang asal bunyi hanya akan memicu histeria. Nabi
 </div>
 
 ### 2. Mengontrol Emosi Diri (*Self-Regulation*) saat Terdesak
-Orang yang kuat bukanlah orang yang jago berkelahi atau berteriak paling lantang saat tertekan, melainkan orang yang mampu mengendalikan dirinya saat amarah atau rasa takut memuncak.
+Orang yang kuat bukanlah orang yang jago berkelahi atau berteriak paling lantang, melainkan orang yang mampu mengendalikan dirinya saat amarah atau rasa takut memuncak.
 
 > **لَيْسَ الشَّدِيدُ بِالصُُّرَعَةِ إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ**
 >
