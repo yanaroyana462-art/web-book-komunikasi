@@ -20,21 +20,20 @@ kita kadang  bicara asal bunyi (asbun) tanpa proses berpikir mendalam, tanpa ber
 
 ---
 
-## Lisan: Cermin Diri Kita
+## Lisan: Cermin Kedalaman Jiwa
 
-Menjaga ucapan itu bukan berarti kita jadi pendiam atau tidak boleh bicara. Menjaga ucapan adalah cara kita menghargai diri sendiri dan orang lain. Rasulullah ﷺ memberikan tips paling sederhana buat kita:
+Menjaga lisan bukan berarti kita harus menjadi sosok yang pasif atau pasrah tanpa suara. Menjaga lisan adalah bentuk kesadaran penuh atas dampak dari setiap kata yang kita keluarkan. Rasulullah ﷺ memberikan standar dasar dalam bertutur kata melalui sabdanya:
 
 > <p class="arabic">مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ</p>
 >
-> *"Barangsiapa beriman kepada Allah dan hari akhir, hendaklah dia berkata yang baik atau diam."*  
+> *"Barangsiapa yang beriman kepada Allah dan hari akhir, hendaklah dia berkata yang baik atau diam."*  
 > — **HR. Bukhari no. 6018 & Muslim no. 47**
 
-Kalau kita mencoba mempraktikkan ini, akan ada tiga hal besar yang berubah:
+Ketika prinsip ini diresapi, cara kita berinteraksi akan bertransformasi melalui tiga kesadaran utama:
 
-1. **Daya Ubah Sebuah Kata.** Lisan adalah benih; satu pujian tulus bisa tumbuh menjadi pohon harapan yang menyemangati seseorang seumur hidup, namun satu ejekan bisa menjadi luka dalam yang sulit terhapus oleh waktu.
-2. **Menjadi "Oase" yang Menenangkan.** Kita menciptakan ruang aman bagi orang lain. Saat lisan terjaga, orang-orang di sekitar akan merasa nyaman dekat kita juga menghormati, karena mereka tahu kita akan menjaga perasaan dan harga diri mereka.
-3. **Meraih Kualitas Islam yang Sempurna.** Kita belajar untuk memusatkan energi pada hal-hal yang bermanfaat dan bernilai ibadah, alih-alih menghabiskan waktu mengomentari kehidupan orang lain atau bicara tentang hal yang tidak penting.
-
+1. **Kata-kata Adalah Investasi, Bukan Sekadar Emosi.** Setiap ucapan memiliki bobot; satu kalimat yang dibangun dengan niat baik dapat memberi arah dan semangat bagi seseorang, sementara ucapan asal-asalan yang lahir dari emosi sesaat kerap meninggalkan bekas luka yang panjang.
+2. **Menciptakan Rasa Aman bagi Sesama.** Orang lain akan merasa aman dan dihormati di dekat kita. Ketika lisan kita bersih dari ghibah, celaan, dan provokasi, hadirnya kita akan membawa ketenangan, bukan kecemasan.
+3. **Fokus pada Hal yang Bernilai dan Berdampak.** Kesempurnaan Islam seseorang tercermin dari kemampuannya menyaring percakapan. Kita belajar mengalokasikan energi untuk ucapan yang membawa manfaat nyata, ketimbang larut dalam perdebatan kosong yang tak berujung.
 ---
 
 ## Meniru 6 Gaya Bicara Rasulullah ﷺ
