@@ -4,17 +4,25 @@ import Default from '@astrojs/starlight/components/Footer.astro';
 ---
 
 <Default {...Astro.props} />
-<footer class="custom-footer">
-  <p>Komunikasi Efektif ala Nabi.<br>Oleh: Yana Abu Fillah ©2026</p>
-</footer>
+
+<div class="custom-footer-link">
+  <a href="/referensi/">📖 Lihat Referensi & Daftar Pustaka</a>
+</div>
 
 <style>
-  .custom-footer {
-    margin-top: 2rem;
-    padding-top: 1rem;
-    border-top: 1px solid var(--sl-color-gray-5);
+  .custom-footer-link {
     text-align: center;
-    font-size: 0.875rem;
-    color: var(--sl-color-gray-3);
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px dashed var(--sl-color-hairline);
+  }
+  .custom-footer-link a {
+    color: var(--sl-color-accent-high);
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+  }
+  .custom-footer-link a:hover {
+    text-decoration: underline;
   }
 </style>
