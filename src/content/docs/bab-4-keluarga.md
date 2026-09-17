@@ -5,7 +5,7 @@ description: "Meneladani kelembutan, kehangatan, dan pola komunikasi Rasulullah 
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Kadang kita bisa sangat ramah, sabar, dan penuh senyum kepada teman kantor atau orang asing di luar sana. Namun, saat melangkah masuk ke dalam rumah, kita justru mudah terbawa emosi, bernada tinggi, dan hemat pujian kepada pasangan serta anak-anak sendiri.
+Kadang kita bisa sangat ramah, sabar, dan penuh senyum kepada teman atau orang asing di luar sana. Namun, saat melangkah masuk ke dalam rumah, kita justru mudah terbawa emosi, bernada tinggi, dan jarang sekali memberikan pujian atau bentuk menghargai kepada pasangan serta anak-anak sendiri.
 
 Padahal, rumah adalah medan ujian komunikasi yang sesungguhnya. Kualitas iman dan akhlak seseorang dapat diukur dari bagaimana ia memperlakukan keluarganya di saat tidak ada orang lain yang melihat.
 
@@ -18,10 +18,10 @@ Padahal, rumah adalah medan ujian komunikasi yang sesungguhnya. Kualitas iman da
 
 ## 4 Prinsip Komunikasi Keluarga Ala Rasulullah ﷺ
 
-Rasulullah ﷺ adalah sosok suami dan ayah yang sangat hangat. Beliau tidak pernah memposisikan dirinya sebagai sosok yang kaku atau menakutkan di dalam rumah.
+Rasulullah ﷺ adalah sosok suami dan ayah yang sangat hangat. Beliau tidak pernah memposisikan dirinya sebagai sosok yang kaku atau tegang di dalam rumah.
 
 ### 1. Memanggil dengan Panggilan Kesayangan
-Memanggil pasangan atau anak dengan sebutan yang menyenangkan dapat mencairkan suasana dan menumbuhkan rasa dicintai.
+Memanggil pasangan atau anak dengan lembut dan menyenangkan dapat mencairkan suasana dan menumbuhkan suasana harmonis di rumah,melahirkan sikap saling peduli dan saling menghargai
 <div class="kisah-box">
 
 >  Rasulullah ﷺ sering memanggil Ibunda Aisyah radhiyallahu 'anha dengan panggilan mesra *"Ya Aisy"* atau *"Ya Humaira"* (yang kemerah-merahan pipinya) untuk menggoda dan menyenangkan hatinya (HR. Muslim no. 2440). Beliau mengajarkan bahwa kata-kata manis di dalam rumah adalah salah satu bahan bakar keharmonisan.
@@ -29,7 +29,7 @@ Memanggil pasangan atau anak dengan sebutan yang menyenangkan dapat mencairkan s
 </div>
 
 ### 2. Bercanda & Mengajak Berinteraksi
-Nabi tidak membuat suasana rumah terasa tegang atau penuh dengan perintah semata. Beliau senantiasa meluangkan waktu untuk bercanda dan bermain bersama pasangan maupun cucu-cucunya.
+Nabi tidak membuat suasana rumah terasa tegang. Beliau senantiasa meluangkan waktu untuk bercanda dan bermain bersama pasangan maupun cucu-cucunya.
 <div class="kisah-box">
 
 > Rasulullah ﷺ pernah mengajak Ibunda Aisyah berlomba lari saat mereka sedang dalam suatu perjalanan. Pada perlombaan pertama Aisyah menang. Beberapa tahun kemudian saat Aisyah sudah agak gemuk, Nabi mengajak lomba lari lagi dan kali ini Nabi menang. Beliau tertawa sambil bersabda dengan hangat: *"Kemenangan ini untuk membalas kekalahanku yang dulu!"* (HR. Abu Dawud no. 2578).
@@ -37,7 +37,7 @@ Nabi tidak membuat suasana rumah terasa tegang atau penuh dengan perintah semata
 </div>
 
 ### 3. Tidak Mencela Makanan atau Hasil Kerja Rumah
-Banyak konflik rumah tangga dipicu oleh hal-hal sepele, seperti masakan yang kurang asin atau rumah yang berantakan. Nabi memberikan teladan luar biasa dalam menjaga perasaan anggota keluarga.
+Kadang konflik rumah tangga dipicu oleh hal-hal sepele, seperti masakan yang kurang enak atau rumah berantakan. Nabi memberikan teladan luar biasa dalam menjaga perasaan anggota keluarga.
 
 > <p class="arabic">مَا عَابَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ طَعَامًا قَطُّ إِنِ اشْتَهَاهُ أَكَلَهُ وَإِلَّا تَرَكَهُ</p>
 >
