@@ -23,9 +23,15 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Daftar Isi',
+          label: 'Pendahuluan',
           items: [
-            { autogenerate: { directory: '' } }
+            { label: 'Pengantar', slug: 'pengantar' },
+          ],
+        },
+        {
+          label: 'Bagian 1: Fondasi & Etika Lisan',
+          items: [
+            { label: 'Bab 1: Prinsip Qaulan', slug: 'bab-1-prinsip-qaulan' },
           ],
         },
       ],
