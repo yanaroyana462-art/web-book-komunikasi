@@ -5,7 +5,7 @@ description: "Meneladani keanggunan lisan Rasulullah ﷺ dalam menghadapi krisis
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Ujian tertinggi dari sebuah karakter dan kematangan lisan bukan terjadi saat kita dipuji oleh teman, melainkan saat kita diserang, dikritik, atau dimusuhi oleh orang lain. Sangat mudah untuk bersikap manis kepada mereka yang sejalan dengan kita, namun dibutuhkan keteguhan iman dan kontrol diri yang luar biasa untuk tetap berakhlak di hadapan oposisi.
+Ujian tertinggi dari sebuah karakter dan kematangan pemikiran bukan terjadi saat kita dipuji, melainkan saat kita diserang, dikritik, atau dimusuhi dan disepelekan. Sangat mudah untuk bersikap manis kepada mereka yang sejalan dengan kita, namun dibutuhkan keteguhan iman dan kontrol diri yang luar biasa untuk tetap berakhlak di hadapan orang orang seperti itu.
 
 Di zaman sekarang, perbedaan pandangan politik, ideologi, atau argumen di media sosial sering kali berujung pada saling caci, membongkar aib, hingga melontarkan umpatan kasar. Islam mengajarkan bahwa kebencian pihak lain tidak boleh membuat kita kehilangan keadilan dan keanggunan dalam bertutur kata.
 
@@ -34,7 +34,7 @@ Nabi tidak pernah mengotori lisannya untuk membalas caci maki dengan hal serupa.
 </div>
 
 ### 2. Mendoakan Hidayah, Bukan Mendoakan Kehancuran
-Di saat orang lain sibuk mengutuk musuh, Rasulullah ﷺ justru melihat oposisi sebagai orang-orang yang belum tahu dan butuh didoakan agar hatinya terbuka.
+Di saat orang lain sibuk mengutuk musuh, Rasulullah ﷺ justru melihat penentang sebagai orang-orang yang belum tahu dan butuh didoakan agar hatinya terbuka.
 
 > **إِنِّي لَمْ أُبْعَثْ لَعَّانًا وَإِنَّمَا بُعِثْتُ رَحْمَةً**
 >
@@ -47,7 +47,7 @@ Di saat orang lain sibuk mengutuk musuh, Rasulullah ﷺ justru melihat oposisi s
 </div>
 
 ### 3. Memaafkan dari Posisi Menang (*Fathu Makkah*)
-Keagungan lisan ditunjukkan saat kita memiliki kekuatan untuk membalas dendam, namun kita memilih untuk memaafkan dan membebaskan.
+Keagungan sikap dan lisan ditunjukkan saat kita memiliki kekuatan untuk membalas, namun kita memilih untuk memaafkan dan membebaskan.
 <div class="kisah-box">
 
 >  Saat peristiwa pembebasan Kota Mekkah (*Fathu Makkah*), puluhan ribu pasukan muslimin berhasil menguasai kota. Tokoh-tokoh Quraisy yang dulu menyiksa dan mengusir Nabi berdiri ketakutan menunggu hukuman balasan. Nabi bertanya kepada mereka: *"Menurut kalian, apa yang akan aku lakukan terhadap kalian?"* Mereka menjawab pasrah: *"Engkau adalah saudara yang mulia."* Nabi bersabda: *"Hari ini aku katakan kepada kalian sebagaimana Yusuf berkata kepada saudara-saudaranya: 'Tidak ada cercaan bagi kalian hari ini.' Pergilah, kalian semua bebas!"* (HR. Al-Baihaqi).
