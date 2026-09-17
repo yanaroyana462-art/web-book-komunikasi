@@ -5,7 +5,7 @@ description: "Meneladani seni komunikasi kepemimpinan Rasulullah ﷺ dalam menya
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Seorang pemimpin bukan hanya diukur dari seberapa matang rencana operasinya, melainkan dari seberapa mahir ia menyampaikan arah dan tujuan tersebut kepada tim serta masyarakat luas. Komunikasi kepemimpinan bukan sekadar memberi perintah, melainkan seni membangun kepercayaan, mengobarkan semangat, dan memberikan ketenangan di tengah situasi krisis.
+Seorang pemimpin bukan hanya diukur dari seberapa matang rencana operasinya, melainkan dari seberapa mahir ia menyampaikan arah dan tujuan tersebut kepada tim serta masyarakat luas. Komunikasi kepemimpinan bukan sekadar memberi perintah, melainkan seni membangun kepercayaan, kebersamaan, mengobarkan semangat, dan memberikan ketenangan di tengah situasi krisis.
 
 Rasulullah ﷺ adalah sosok pemimpin tertinggi baik secara spiritual, sosial, politik, maupun militer. Narasi yang beliau bangun tidak pernah berorientasi pada kepentingan pribadi, melainkan senantiasa memprioritaskan kemaslahatan bersama, keadilan, dan visi jangka panjang.
 
@@ -37,7 +37,7 @@ Di saat panik, seorang pemimpin harus menjadi jangkar. Narasi yang dikeluarkan d
 </div>
 
 ### 3. Transparansi dan Menjelaskan Alasan di Balik Keputusan Pahit
-Ketika harus mengambil keputusan strategis yang tidak populer, seorang pemimpin perlu memberikan penjelasan secara transparan agar tidak menimbulkan kecurigaan atau kekecewaan mendalam.
+Ketika harus mengambil keputusan strategis yang tidak populer, seorang pemimpin perlu memberikan penjelasan secara transparan dan meyakinkan agar tidak menimbulkan kecurigaan atau kekecewaan dan penentangan.
 <div class="kisah-box">
 
 >  Usai Perang Hunain, Nabi membagikan harta rampasan perang (*ghanimah*) dalam jumlah besar kepada kaum mualaf Quraisy untuk melembutkan hati mereka, sementara kaum Anshar tidak diberi bagian harta sama sekali. Kaum Anshar merasa sedih dan kecewa. Nabi tidak mengabaikan perasaan mereka. Beliau mengumpulkan seluruh kaum Anshar dan menjelaskan dengan lisan yang sangat menyentuh: *"Apakah kalian tidak rida wahai orang-orang Anshar, jika orang-orang pulang membawa kambing dan unta, sedangkan kalian pulang bersama Rasulullah ke rumah kalian?"* Kaum Anshar pun menangis haru dan menerima keputusan itu dengan lapang dada (HR. Bukhari no. 4330).

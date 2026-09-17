@@ -31,7 +31,7 @@ Imam Al-Hasan bin Ali radhiyallahu 'anhu pernah menceritakan bagaimana sikap Ras
 Untuk mempraktikkan dan melatih diri agar mampu menjadi *Active Listening* ini, kita bisa meniru 4 kebiasaan Rasulullah ﷺ berikut:
 
 ### 1. Memutar Seluruh Tubuh (Hadir Sepenuhnya)
-Saat ada yang mengajak bicara, Rasulullah ﷺ tidak pernah menoleh separuh badan, apalagi sekadar melirik sambil lalu. Beliau memutar seluruh tubuhnya menghadap orang tersebut (*Aqbala 'alaihi bi wajhihi*). Ini adalah bentuk penghormatan tertinggi yang menyampaikan pesan tanpa kata: *"Kamu adalah prioritas saya saat ini."*
+Saat ada yang mengajak bicara, Rasulullah ﷺ tidak pernah menoleh separuh badan, apalagi sekadar melirik sambil lalu. Beliau memutar seluruh tubuhnya menghadap orang tersebut (*Aqbala 'alaihi bi wajhihi*). Ini adalah bentuk penghormatan tertinggi yang menyampaikan pesan tanpa kata: *"Kamu terhormat dan ucapanmu penting bagi saya."*
 
 <div class="kisah-box">
 
@@ -42,7 +42,7 @@ Saat ada yang mengajak bicara, Rasulullah ﷺ tidak pernah menoleh separuh badan
 </div>
 
 ### 2. Tidak Memotong Pembicaraan
-Menyimak hingga tuntas adalah bentuk kesabaran dan etika lisan. Nabi ﷺ tidak pernah merebut giliran bicara orang lain, memotong di tengah kalimat, atau terburu-buru menghakimi sebelum pesan lawan bicara tersampaikan secara utuh.
+Menyimak hingga tuntas adalah bentuk kesabaran dan adab. Nabi ﷺ tidak pernah merebut giliran bicara orang lain, memotong di tengah kalimat, atau terburu-buru menghakimi sebelum pesan lawan bicara tersampaikan secara utuh.
 
 <div class="kisah-box">
 

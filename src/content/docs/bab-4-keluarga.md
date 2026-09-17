@@ -5,7 +5,7 @@ description: "Meneladani kelembutan, kehangatan, dan pola komunikasi Rasulullah 
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Kadang kita bisa sangat ramah, sabar, dan penuh senyum kepada teman atau orang asing di luar sana. Namun, saat melangkah masuk ke dalam rumah, kita justru mudah terbawa emosi, bernada tinggi, dan jarang sekali memberikan pujian atau bentuk menghargai kepada pasangan serta anak-anak sendiri.
+Kadang kita bisa sangat ramah, sabar, dan penuh senyum kepada teman atau orang asing di luar sana. Namun, saat melangkah masuk ke dalam rumah, kita justru mudah terbawa emosi, bicara dngan nada tinggi, dan jarang sekali memberikan pujian atau  menghargai pasangan serta anak-anak sendiri.
 
 Padahal, rumah adalah medan ujian komunikasi yang sesungguhnya. Kualitas iman dan akhlak seseorang dapat diukur dari bagaimana ia memperlakukan keluarganya di saat tidak ada orang lain yang melihat.
 
@@ -29,7 +29,7 @@ Memanggil pasangan atau anak dengan lembut dan menyenangkan dapat mencairkan sua
 </div>
 
 ### 2. Bercanda & Mengajak Berinteraksi
-Nabi tidak membuat suasana rumah terasa tegang. Beliau senantiasa meluangkan waktu untuk bercanda dan bermain bersama pasangan maupun cucu-cucunya.
+Nabi tidak membuat suasana rumah terasa tegang. Beliau senantiasa meluangkan waktu untuk bercanda dan bermain bersama pasangan maupun cucu-cucunya, hingga terbangun suasana yang ceria dan menyenangkan anggota keluarga.
 <div class="kisah-box">
 
 > Rasulullah ﷺ pernah mengajak Ibunda Aisyah berlomba lari saat mereka sedang dalam suatu perjalanan. Pada perlombaan pertama Aisyah menang. Beberapa tahun kemudian saat Aisyah sudah agak gemuk, Nabi mengajak lomba lari lagi dan kali ini Nabi menang. Beliau tertawa sambil bersabda dengan hangat: *"Kemenangan ini untuk membalas kekalahanku yang dulu!"* (HR. Abu Dawud no. 2578).

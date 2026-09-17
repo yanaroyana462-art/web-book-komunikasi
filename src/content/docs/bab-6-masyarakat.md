@@ -5,9 +5,9 @@ description: "Etika berkomunikasi dengan masyarakat luas, meredam prasangka, dan
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Saat berinteraksi di ruang publik mulai dari tetangga, pedagang di pasar, pengguna jalan, hingga netizen di media sosial kita akan bertemu dengan berbagai macam latar belakang, budaya, kebiasaan, tingkat pendidikan, dan karakter. 
+Saat berinteraksi di ruang publik mulai dari pertemanan,tetangga, pedagang di pasar, pengguna jalan, hingga netizen di media sosial kita akan bertemu dengan berbagai macam latar belakang, budaya, kebiasaan, tingkat pendidikan, dan karakter. 
 
-Tidak semua orang memahami sudut pandang kita, dan tidak semua orang memiliki pemahaman atau etika yang sama. Di sinilah ujian kesabaran lisan kita yang sesungguhnya: apakah kita akan bersikap patronizing (meremehkan) dan gampang menghakimi, atau justru merangkul dan menyampaikan kebaikan dengan cara yang mudah dicerna?
+Tidak semua orang memahami sudut pandang kita, dan tidak semua orang memiliki pemahaman atau etika yang sama. Di sinilah ujian kesabaran  kita yang sesungguhnya: apakah kita akan bersikap patronizing (meremehkan) dan gampang menghakimi, atau justru merangkul dengan sabar dan menyampaikan kebaikan dengan cara yang mudah dicerna?
 
 > **ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ**
 >
@@ -18,10 +18,10 @@ Tidak semua orang memahami sudut pandang kita, dan tidak semua orang memiliki pe
 
 ## 4 Prinsip Komunikasi Publik Ala Rasulullah ﷺ
 
-Rasulullah ﷺ tidak pernah membatasi kebaikan hanya untuk kalangan dekatnya. Beliau berinteraksi dengan masyarakat awam, orang asing, hingga orang yang memusuhinya dengan standar akhlak yang sangat tinggi.
+Rasulullah ﷺ tidak pernah membatasi kebaikan hanya untuk kalangan dekatnya. Beliau berinteraksi dengan masyarakat awam, orang asing, hingga orang yang memusuhinya dengan akhlak yang sangat mulia.
 
 ### 1. Memudahkan, Bukan Mempersulit
-Saat menyampaikan ajaran atau norma sosial kepada masyarakat umum, Nabi selalu memilih pendekatan yang paling sederhana dan mudah dipahami, bukan bahasa yang rumit atau membebankan.
+Saat menyampaikan ajaran atau norma kepada masyarakat umum, Nabi selalu memilih pendekatan yang paling sederhana dan mudah dipahami, bukan bahasa yang rumit atau membebankan.
 
 > **يَسِّرُوا وَلَا تُعَسِّرُوا وَبَشِّرُوا وَلَا تُنَفِّرُوا**
 >
@@ -47,7 +47,7 @@ Bicara dengan akademisi tentu berbeda dengan bicara dengan orang awam. Nabi tida
 </div>
 
 ### 3. Merespons Ketidaktahuan dengan Edukasi, Bukan Makian
-Masyarakat awam sering kali berbuat salah bukan karena niat jahat, melainkan karena belum tahu. Nabi tidak pernah membalas ketidaktahuan dengan amarah.
+Masyarakat awam sering kali berbuat salah bukan karena niat jahat, melainkan karena belum tahu. Nabi selalu memahami kekeliruan akibat ketidaktahuan dan tidak pernah membalas kekeliruan/ kesalahan orang lain dengan amarah.
 <div class="kisah-box">
 
 >  Seorang pemuda mendatangi Nabi dan berkata dengan jujur di depan umum: *"Wahai Rasulullah, izinkan aku berzina!"* Para sahabat langsung gempar dan ingin memukul pemuda itu. Namun Nabi menahan mereka dan memanggil pemuda itu duduk di dekatnya. Beliau bertanya dengan lembut: *"Apakah kamu suka jika hal itu terjadi pada ibumu? Putrimu? Saudara perempuannmu?"* Pemuda itu menjawab: *"Tidak, demi Allah."* Nabi lalu memegang dadanya dan mendoakannya. Pemuda itu keluar dalam keadaan benci pada perbuatan zina (HR. Ahmad).
@@ -55,7 +55,7 @@ Masyarakat awam sering kali berbuat salah bukan karena niat jahat, melainkan kar
 </div>
 
 ### 4. Menjaga Kesantunan di Ruang Publik (Termasuk Media Sosial)
-Di ruang umum, lisan yang baik adalah lisan yang memberikan rasa aman bagi orang lain, bukan memprovokasi atau menyebar hoaks.
+Di ruang umum, lisan yang baik adalah lisan yang memberikan rasa nyaman bagi orang lain, bukan memprovokasi, kebohongan atau menyebar permusuhan.
 
 > **الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ**
 >

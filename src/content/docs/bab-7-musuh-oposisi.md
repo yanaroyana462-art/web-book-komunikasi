@@ -5,7 +5,7 @@ description: "Meneladani keanggunan lisan Rasulullah ﷺ dalam menghadapi krisis
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Ujian tertinggi dari sebuah karakter dan kematangan pemikiran bukan terjadi saat kita dipuji, melainkan saat kita diserang, dikritik, atau dimusuhi dan disepelekan. Sangat mudah untuk bersikap manis kepada mereka yang sejalan dengan kita, namun dibutuhkan keteguhan iman dan kontrol diri yang luar biasa untuk tetap berakhlak di hadapan orang orang seperti itu.
+Ujian tertinggi dari sebuah karakter dan kematangan pemikiran bukan pada saat kita dipuji, melainkan saat kita diserang, dikritik, atau dimusuhi dan disepelekan. Sangat mudah untuk bersikap manis kepada mereka yang menghormati dan sejalan dengan kita, namun dibutuhkan keteguhan iman dan kontrol diri yang luar biasa untuk tetap menjaga adab di hadapan orang orang seperti itu.
 
 Di zaman sekarang, perbedaan pandangan politik, ideologi, atau argumen di media sosial sering kali berujung pada saling caci, membongkar aib, hingga melontarkan umpatan kasar. Islam mengajarkan bahwa kebencian pihak lain tidak boleh membuat kita kehilangan keadilan dan keanggunan dalam bertutur kata.
 
@@ -18,7 +18,7 @@ Di zaman sekarang, perbedaan pandangan politik, ideologi, atau argumen di media 
 
 ## 4 Prinsip Komunikasi Ala Rasulullah ﷺ dalam Menghadapi Oposisi
 
-Rasulullah ﷺ berulang kali berhadapan dengan fitnah, hinaan, bahkan ancaman pembunuhan dari pihak musuh. Namun, beliau senantiasa menjaga lisan beliau dari kata-kata kotor dan dendam pribadi.
+Rasulullah ﷺ berulang kali berhadapan dengan fitnah, hinaan, bahkan ancaman pembunuhan dari pihak musuh. Namun, beliau senantiasa menjaga lisan beliau dari kata-kata kotor dan dendam pribadi serta sikap menyakiti.
 
 ### 1. Tidak Membalas Hinaan dengan Caci Maki
 Nabi tidak pernah mengotori lisannya untuk membalas caci maki dengan hal serupa. Beliau membedakan dengan tegas antara membela kebenaran dan melampiaskan kekesalan emosional.
@@ -34,7 +34,7 @@ Nabi tidak pernah mengotori lisannya untuk membalas caci maki dengan hal serupa.
 </div>
 
 ### 2. Mendoakan Hidayah, Bukan Mendoakan Kehancuran
-Di saat orang lain sibuk mengutuk musuh, Rasulullah ﷺ justru melihat penentang sebagai orang-orang yang belum tahu dan butuh didoakan agar hatinya terbuka.
+Di saat orang lain sibuk mengutuk musuh, Rasulullah ﷺ justru melihat penentang sebagai orang-orang yang belum tahu dan beliau justru  mendoakan agar hatinya terbuka.
 
 > **إِنِّي لَمْ أُبْعَثْ لَعَّانًا وَإِنَّمَا بُعِثْتُ رَحْمَةً**
 >
@@ -55,7 +55,7 @@ Keagungan sikap dan lisan ditunjukkan saat kita memiliki kekuatan untuk membalas
 </div>
 
 ### 4. Menolak Perdebatan yang Hanya Mencari Kemenangan Ego
-Berdebat sengit dengan oposisi yang hanya bertujuan menjatuhkan tidak akan menghasilkan kebaikan. Menahan diri dari perdebatan unfaedah adalah tanda kematangan akhlak.
+Berdebat sengit dengan mereka yang bersebrangan pendapat yang hanya bertujuan menjatuhkan tidak akan menghasilkan kebaikan. Menahan diri dari perdebatan unfaedah adalah tanda kematangan akhlak.
 
 > **أَنَا زَعِيمٌ بِبَيْتٍ فِي رَبَضِ الْجَنَّةِ لِمَنْ تَرَكَ الْمِرَاءَ وَإِنْ كَانَ مُحِقًّا**
 >

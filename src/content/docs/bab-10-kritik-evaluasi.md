@@ -52,7 +52,7 @@ Nabi memisahkan dengan tegas antara *orangnya* dan *perbuatannya*. Beliau memben
 </div>
 
 ### 4. Menawarkan Solusi, Bukan Sekadar Salahkan
-Kritik yang baik tidak berhenti pada kata "salah", melainkan memberikan alternatif cara yang benar. Nabi selalu membimbing orang yang salah ke arah perbaikan.
+Kritik yang baik tidak berhenti pada kata "salah", melainkan menunjukan alternatif cara yang benar. Nabi selalu membimbing orang yang salah ke arah perbaikan dengan sabar dan bijaksana.
 <div class="kisah-box">
 
 >  Seorang muazin bernama Mu'awiyah bin Al-Hakam radhiyallahu 'anhu pernah berbicara saat salat karena belum tahu hukumnya. Para sahabat menepuk paha mereka untuk menyuruhnya diam. Usai salat, Mu'awiyah menceritakan kelembutan Nabi: *"Demi ayah dan ibuku, aku tidak pernah melihat pengajar sebelum dan sesudahnya yang lebih baik bimbingannya daripada beliau. Demi Allah, beliau tidak membentakku, tidak memukulku, dan tidak mencelaku."* Beliau hanya bersabda dengan lembut: *"Sesungguhnya salat ini tidak boleh ada di dalamnya perkataan manusia..."* lalu mengajarkan tata cara salat yang benar (HR. Muslim no. 537).

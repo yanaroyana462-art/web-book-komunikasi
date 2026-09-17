@@ -5,7 +5,7 @@ description: "Memahami pentingnya intonasi, pengulangan kata, dan ekspresi non-v
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Pernahkah Anda mengalami salah paham saat membaca pesan singkat di WhatsApp? Niat bercanda, tapi justru malah orang lain marah atau tersinggung. Atau pernahkah Anda mendengar seseorang bicara sangat cepat sampai pesannya tidak tertangkap sama sekali?atau kita menyampaikan sesuatu namun orang lain malah bingung dan tidak faham apa yang kita sampaikan?
+Pernahkah Anda mengalami salah paham saat membaca pesan singkat di WhatsApp? Niat bercanda, tapi justru malah orang lain marah atau tersinggung. Atau pernahkah Anda mendengar seseorang bicara kurang jelas sangat cepat sampai pesannya tidak tertangkap sama sekali?atau kita menyampaikan sesuatu namun orang lain malah bingung dan tidak faham apa yang kita sampaikan?
 
 Komunikasi bukan hanya tentang *apa* yang kita katakan, melainkan *bagaimana* cara kita menyampaikannya. Kata-kata hanyalah sebagian kecil dari komunikasi, sisanya ditentukan oleh **nada suara (*vocal*)** dan **bahasa tubuh (*visual*)**.
 
@@ -21,7 +21,7 @@ Komunikasi bukan hanya tentang *apa* yang kita katakan, melainkan *bagaimana* ca
 Rasulullah ﷺ adalah penyampai pesan terbaik sepanjang sejarah. Beliau sangat memperhatikan kejernihan kata, intonasi suara, hingga mimik wajah agar pesan kebaikan dapat diterima dengan benar.
 
 ### 1. Kejelasan & Pengulangan Kata (Artikulasi Jelas)
-Nabi tidak pernah berbicara terburu-buru atau menggunakan bahasa yang rumit agar terlihat pintar. Kata-kata beliau teratur, lugas, jelas dan mudah dipahami oleh siapa saja, dari tokoh intelektual hingga orang awam.
+Nabi tidak pernah berbicara terburu-buru atau menggunakan bahasa yang rumit agar terlihat pintar. Kata-kata beliau teratur, lugas, jelas dan mudah dipahami oleh siapa saja, dari intelektual hingga orang awam.
 
 > <p class="arabic">كَنَّ كَلَامُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَلَامًا فَصْلًا يَفْهَمُهُ كُلُّ مَنْ سَمِعَهُ</p>
 >
@@ -40,7 +40,7 @@ Nabi tahu kapan harus melembutkan suara dan kapan harus tegas dan keras. Beliau 
 
 </div>
 ### 3. Bahasa Tubuh & Ekspresi Wajah yang Menyenangkan
-Sebelum kata-kata keluar dari mulut, wajah dan gestur tubuh kita sudah berbicara terlebih dahulu. Rasulullah ﷺ selalu menampilkan ekspresi yang ramah dan menyesuaikan dengan apa yang akan diungkapkan, dan selelau menampakan sikap menyenangkan lawan bicara.
+Sebelum kata-kata keluar dari mulut, wajah dan gestur tubuh kita sudah berbicara terlebih dahulu. Rasulullah ﷺ selalu menampilkan ekspresi yang ramah dan menyesuaikan dengan apa yang akan diungkapkan, dan selalu menampakan sikap menyenangkan lawan bicara.
 
 > <p class="arabic">تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ</p>
 >
@@ -55,7 +55,7 @@ Sebelum kata-kata keluar dari mulut, wajah dan gestur tubuh kita sudah berbicara
 
 ## Praktik Sederhana di Kehidupan Nyata
 
-Mari kita bandingkan penyampaian pesan dengan nada dan bahasa tubuh yang kurang tepat versus gaya yang dianjurkan:
+Mari kita bandingkan penyampaian pesan dengan nada dan bahasa tubuh yang kurang tepat versus gaya yang dicontohkan nabi:
 
 <Tabs>
   <TabItem label="Memberi Teguran atau Masukan">

@@ -5,9 +5,9 @@ description: "Meneladani keteguhan, kontrol diri, dan keanggunan lisan Rasululla
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Tekanan tinggi, krisis finansial, tenggat waktu (*deadline*) yang amat ketat, atau konflik terbuka sering kali menjadi pemicu utamanya seseorang kehilangan kendali atas lisannya. Dalam keadaan stres atau terdesak, benteng kesabaran kita sering runtuh dan keluar kata-kata yang destruktif, emosional, atau memicu kepanikan.
+Tekanan, krisis, tenggat waktu (*deadline*) yang amat ketat, atau konflik terbuka sering kali menjadi pemicu utamanya seseorang kehilangan kendali diri. Dalam keadaan stres atau terdesak, benteng kesabaran kita sering mudah runtuh dan keluar kata-kata yang destruktif, emosional, atau memicu kepanikan.
 
-Namun, Islam mengajarkan bahwa ukuran kekuatan lisan seseorang yang sesungguhnya terlihat justru ketika ia berada dalam situasi genting. Rasulullah ﷺ memberikan teladan nyata bagaimana menjaga kejernihan pikiran dan keanggunan ucapan bahkan di tengah kepungan musuh dan ancaman jiwa.
+Namun, Islam mengajarkan bahwa ukuran kekuatan seseorang yang sesungguhnya terlihat justru ketika ia berada dalam situasi genting. Rasulullah ﷺ memberikan teladan nyata bagaimana menjaga kejernihan pikiran dan keanggunan ucapan bahkan di tengah kepungan musuh dan ancaman jiwa.
 
 > **الَّذِينَ قَالَ لَهُمُ النَّاسُ إِنَّ النَّاسَ قَدْ جَمَعُوا لَكُمْ فَاخْشَوْهُمْ فَزَادَهُمْ إِيمَانًا وَقَالُوا حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ**
 >
@@ -18,10 +18,10 @@ Namun, Islam mengajarkan bahwa ukuran kekuatan lisan seseorang yang sesungguhnya
 
 ## 4 Prinsip Lisan Dalam Tekanan Tinggi Ala Rasulullah ﷺ
 
-Di tengah pertempuran dan krisis yang mengancam keselamatan umat, Rasulullah ﷺ senantiasa menjaga kedisiplinan bertutur kata melalui prinsip-prinsip berikut:
+Di tengah pertempuran dan krisis yang mengancam keselamatan umat, Rasulullah ﷺ senantiasa menjaga kedisiplinan melalui prinsip-prinsip berikut:
 
 ### 1. Menjaga Kejernihan Kalimat & Meredam Kepanikan
-Di bawah tekanan tinggi, ucapan yang asal bunyi hanya akan memicu histeria. Nabi selalu memilih kalimat-kalimat yang menguatkan mental dan mengembalikan fokus pada solusi serta perlindungan Allah.
+Di bawah tekanan tinggi, ucapan yang asal bunyi hanya akan memicu histeria. Nabi selalu memilih kalimat-kalimat yang menguatkan mental dan mengembalikan fokus pada solusi serta keimanan.
 <div class="kisah-box">
 
 >  Saat Rasulullah ﷺ dan Abu Bakar Ash-Shiddiq radhiyallahu 'anhu bersembunyi di Gua Tsur dalam perjalanan hijrah, para pengejar dari Quraisy sudah berdiri tepat di mulut gua. Abu Bakar sangat khawatir dan berbisik gemetar: *"Jika salah seorang dari mereka melihat ke bawah kakinya, pasti mereka akan melihat kita."* Nabi tidak ikut panik, dengan suara yang sangat tenang dan menyejukkan beliau bersabda: *"Wahai Abu Bakar, apa dugaanmu terhadap dua orang di mana Allah menjadi yang ketiganya? Janganlah engkau berduka cita, sesungguhnya Allah bersama kita."* (HR. Bukhari no. 3653).

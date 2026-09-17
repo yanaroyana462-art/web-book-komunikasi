@@ -5,7 +5,7 @@ description: "Pola komunikasi Rasulullah ﷺ dalam membangun kerja sama tim, mem
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Dalam dunia kerja dan lingkaran pertemanan, kita sering dihadapkan pada perbedaan pendapat, benturan ego, hingga perselisihan. Komunikasi yang buruk di tempat kerja dapat merusak profesionalisme, sementara nada bicara yang salah kepada teman bisa merusak hubungan yang sudah dibangun bertahun-tahun.
+Dalam dunia kerja dan lingkungan pertemanan, kita sering dihadapkan pada perbedaan pendapat, benturan ego, hingga perselisihan. Komunikasi yang tidak tepat di tempat kerja dapat merusak profesionalisme, sementara nada bicara yang salah kepada teman bisa merusak hubungan yang sudah dibangun bertahun-tahun.
 
 Islam tidak memisahkan antara etika beragama dan etika profesional/sosial. Cara kita berdiskusi, menegur rekan kerja, dan mengapresiasi kontribusi tim adalah cerminan dari kedewasaan akhlak kita.
 
@@ -29,7 +29,7 @@ Nabi tidak pernah bersikap otoriter atau merasa paling tahu dalam urusan teknis 
 </div>
 
 ### 2. Menegur Tanpa Mempermalukan (Privat & Edukatif)
-Menegur kesalahan rekan kerja di depan umum hanya akan membakar ego dan merusak mentalnya. Nabi selalu menjaga kehormatan lawan bicaranya saat memberikan koreksi.
+Menegur kesalahan rekan kerja di depan umum hanya akan membakar ego dan merusak mentalnya. Nabi selalu menjaga kehormatan lawan bicaranya saat memberikan koreksi, dan mencari saat yang tepat untuk menyampaikannya dengan cara yang santun
 <div class="kisah-box">
 
 >  Ketika Abu Dzarr Al-Ghifari radhiyallahu 'anhu secara tidak sengaja mencela seorang sahabat lain dengan membawa-bawa nama ibunya yang mantan budak, Nabi menegurnya secara langsung namun privat: *"Wahai Abu Dzarr, apakah engkau mencelanya dengan menghina ibunya? Sesungguhnya dalam dirimu masih ada sikap jahiliah."* Abu Dzarr langsung menyadari kesalahannya, menangis, dan meminta maaf (HR. Bukhari no. 30). Nabi menegur tindakannya, bukan menghancurkan orangnya.
@@ -37,7 +37,7 @@ Menegur kesalahan rekan kerja di depan umum hanya akan membakar ego dan merusak 
 </div>
 
 ### 3. Mengakui & Mengapresiasi Kontribusi Orang Lain
-Seorang pemimpin dan teman yang baik tidak memonopoli keberhasilan. Nabi senantiasa memuji keahlian dan kerja keras para sahabatnya secara adil.
+Seorang pemimpin dan teman yang baik tidak mau mengklaim keberhasilan. Nabi senantiasa menghargai kelebihan, kontribusi dan kerja keras para sahabatnya secara adil.
 
 > **لَا يَشْكُرُ اللَّهَ مَنْ لَا يَشْكُرُ النَّاسَ**
 >
@@ -50,7 +50,7 @@ Seorang pemimpin dan teman yang baik tidak memonopoli keberhasilan. Nabi senanti
 </div>
 
 ### 4. Tidak Menyimpan Dendam & Menjaga Kerahasiaan
-Konflik dalam tim adalah hal wajar, namun membicarakan keburukan rekan kerja di belakang (*ghibah*) atau membocorkan rahasia tim adalah perusak hubungan yang sangat fatal.
+Konflik dalam tim adalah hal wajar, namun membicarakan kekurangan/keburukannya di belakang (*ghibah*) atau membocorkan rahasia tim adalah perusak hubungan yang sangat fatal.
 
 > **إِذَا حَدَّثَ الرَّجُلُ بِالْحَدِيثِ ثُمَّ الْتَفَتَ فَهِيَ أَمَانَةٌ**
 >
@@ -91,9 +91,9 @@ Mari kita lihat perbedaan gaya komunikasi dalam lingkungan kerja atau organisasi
 
 :::tip[Refleksi Profesionalisme Lisan]
 Sebelum menyelesaikan pekerjaan hari ini, coba cek 3 hal ini:
-1. **Apakah saya sudah mengucapkan terima kasih kepada rekan kerja yang membantu saya hari ini?**
+1. **Apakah saya sudah mengucapkan terima kasih kepada siapapun yang membantu saya hari ini?**
 2. **Apakah saya menegur kesalahan teman secara pribadi atau di depan umum?**
-3. **Apakah ada perkataan saya dalam diskusi tadi yang menyinggung perasaan orang lain?**
+3. **Apakah ada perkataan saya tadi yang menyinggung perasaan orang lain?**
 :::
 
 > **Pesan Penutup:**  
