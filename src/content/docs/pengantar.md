@@ -15,9 +15,18 @@ Buku digital ini disusun sebagai panduan praktis bagi siapa saja—mulai dari pr
 
 ## Mengapa Buku Ini Hadir?
 
-Di era digital dan tingginya mobilitas saat ini, komunikasi sering kali terjadi begitu cepat tanpa jeda untuk berpikir. Kesalahpahaman, konflik di tempat kerja, hingga perpecahan di media sosial kerap bersumber dari cara kita menyampaikan pesan.
+Di era digital dan tingginya mobilitas saat ini, komunikasi sering kali terjadi begitu cepat tanpa jeda untuk berpikir. Kesalahpahaman, konflik di tempat kerja, hingga perpecahan di media sosial kerap bersumber dari cara kita menyampaikan pesan. Namun, jauh sebelum teknologi hadir, Islam telah meletakkan standar komunikasi yang paripurna melalui sosok Nabi Muhammad ﷺ.
 
-Islam tidak hanya mengajarkan *apa* yang harus disampaikan (kebenaran), tetapi juga *bagaimana* cara menyampaikannya (akhlak dan retorika). Melalui 10 bab interaktif, buku ini menghubungkan ayat Al-Qur'an dan riwayat hadis dengan situasi nyata kehidupan modern.
+Rasulullah ﷺ adalah *uswatun hasanah* (suri teladan yang baik) dalam setiap aspek kehidupan, termasuk dalam bertutur kata. Allah SWT menegaskan hal ini dalam Al-Qur'an:
+
+> <p class="arabic">لَّقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ لِّمَن كَانَ يَرْجُو اللَّهَ وَالْيَوْمَ الْآخِرَ وَذَكَرَ اللَّهَ كَثِيرًا</p>
+>
+> *"Sungguh, telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu (yaitu) bagi orang yang mengharap (rahmat) Allah dan (kedatangan) hari Kiamat dan yang banyak mengingat Allah."*  
+> — **QS. Al-Ahzab [33]: 21**
+
+Keberhasilan beliau dalam membangun peradaban yang mulia dari masyarakat jahiliah tidak hanya diakui oleh umat Islam, tetapi juga oleh para sejarawan dunia. Michael H. Hart, misalnya, menempatkan Rasulullah ﷺ di urutan pertama dalam daftar manusia paling berpengaruh dalam sejarah dunia. Salah satu kekuatan kunci di balik kesuksesan tersebut adalah kemahiran beliau dalam berkomunikasi—bagaimana beliau menyentuh hati, meyakinkan lawan, dan memimpin umat dengan kata-kata yang penuh hikmah, kejujuran, dan kelembutan.
+
+Islam tidak hanya mengajarkan *apa* yang harus disampaikan (kebenaran), tetapi juga *bagaimana* cara menyampaikannya (akhlak dan retorika). Buku ini hadir agar kaum muslimin mampu mempelajari, meniru, dan mempraktikkan kekuatan komunikasi tersebut di tengah kompleksitas dunia modern. Melalui 10 bab interaktif, buku ini menghubungkan ayat Al-Qur'an dan riwayat hadis dengan situasi nyata kehidupan modern.
 
 ---
 

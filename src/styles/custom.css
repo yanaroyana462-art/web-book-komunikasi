@@ -32,3 +32,26 @@ blockquote p {
 .starlight-aside p:last-child {
   margin-bottom: 0 !important;
 }
+/* 1. Import font khusus Arab dari Google Fonts */
+@import url('<https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&display=swap>');
+
+/* 2. Styling untuk class .arabic */
+.arabic {
+  font-family: 'Amiri', serif;
+  font-size: 2rem;          /* Ukuran font Arab perlu lebih besar dari teks Latin */
+  line-height: 2.2;         /* Memberi ruang agar harakat tidak bertumpuk */
+  direction: rtl;           /* Memastikan teks mengalir dari kanan ke kiri */
+  text-align: right;        /* Rata kanan */
+  margin: 1.5rem 0;
+  display: block;           /* Memastikan teks mengambil ruang baris sendiri */
+  color: var(--sl-color-accent-high); /* Memberikan warna aksen agar terlihat premium */
+  word-spacing: 2px;
+}
+
+/* 3. Penyesuaian opsional untuk kutipan (blockquote) agar lebih rapi */
+blockquote .arabic {
+  margin-top: 0.5rem;
+  border-right: 3px solid var(--sl-color-accent); /* Memberi garis di sisi kanan (RTL) */
+  padding-right: 1rem;
+  border-left: none; /* Menghilangkan garis kiri default blockquote */
+}
