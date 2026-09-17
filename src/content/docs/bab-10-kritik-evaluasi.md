@@ -1,6 +1,8 @@
 ---
 title: "Bab 10: Menyampaikan Kritik & Meluruskan Kesalahan"
 description: "Meneladani seni menegur, memberikan masukan, dan meluruskan Kekeliruan tanpa melukai perasaan ala Rasulullah ﷺ."
+sidebar:
+  order: 11
 ---
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';

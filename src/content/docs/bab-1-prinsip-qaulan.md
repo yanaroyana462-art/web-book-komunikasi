@@ -1,6 +1,8 @@
 ---
 title: "Bab 1: Fondasi Lisan & 6 Prinsip Qaulan"
 description: "Mengenal dasar-dasar bicara yang baik dan 6 gaya bicara Rasulullah ﷺ yang bisa kita tiru."
+sidebar:
+  order: 2
 ---
 
 {/* Baris di bawah ini adalah instruksi agar fitur 'Kotak Pilihan' (Tabs) di bagian bawah bisa muncul. Mohon jangan dihapus ya. */}

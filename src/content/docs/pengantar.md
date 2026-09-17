@@ -1,6 +1,8 @@
 ---
 title: "Pengantar & Cara Menggunakan Buku"
 description: "Panduan awal mempelajari etika dan retorika komunikasi ala Nabi."
+sidebar:
+  order: 1
 ---
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
@@ -34,7 +36,7 @@ Agar materi mudah dipahami dan langsung bisa dipraktikkan, setiap bab dalam buku
 
 <Tabs>
   <TabItem label="Membaca Berurutan (Rekomendasi)">
-    Jika Anda baru pertama kali membaca, disarankan memulai dari *Bab 1* hingga *Bab 10* secara berurutan. Ini membantu Anda membangun pemahaman dari fondasi lisan hingga situasi khusus seperti krisis dan kepemimpinan.
+    Jika Anda baru pertama kali membaca, disarankan memulai dari *Bab 1* hingga *Bab 10*, lalu diakhiri dengan halaman *Referensi*. Ini membantu Anda membangun pemahaman yang komprehensif.
   </TabItem>
 
   <TabItem label="Membaca Sesuai Kebutuhan">
