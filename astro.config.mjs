@@ -6,21 +6,6 @@ export default defineConfig({
     starlight({
       title: 'Komunikasi Efektif ala Nabi',
       defaultLocale: 'root',
-      locales: {
-        root: {
-          label: 'Bahasa Indonesia',
-          lang: 'id',
-        },
-        en: {
-          label: 'English',
-          lang: 'en',
-        },
-        ar: {
-          label: 'العربية',
-          lang: 'ar',
-          dir: 'rtl',
-        },
-      },
       sidebar: [
         {
           label: 'Pendahuluan',
