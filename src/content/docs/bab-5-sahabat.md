@@ -93,7 +93,7 @@ Mari kita lihat perbedaan gaya komunikasi dalam lingkungan kerja atau organisasi
 Sebelum menyelesaikan pekerjaan hari ini, coba cek 3 hal ini:
 1. **Apakah saya sudah mengucapkan terima kasih kepada rekan kerja yang membantu saya hari ini?**
 2. **Apakah saya menegur kesalahan teman secara pribadi atau di depan umum?**
-3. **Apakah ada perkataan saya dalam diskusi rapat tadi yang menyinggung perasaan orang lain?**
+3. **Apakah ada perkataan saya dalam diskusi tadi yang menyinggung perasaan orang lain?**
 :::
 
 > **Pesan Penutup:**  
