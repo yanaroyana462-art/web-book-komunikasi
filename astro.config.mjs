@@ -18,8 +18,8 @@ export default defineConfig({
           items: [
             { label: 'Bab 1: Prinsip Qaulan', slug: 'bab-1-prinsip-qaulan' },
             { label: 'Bab 2: Seni Mendengar', slug: 'bab-2-active-listening' },
-            { label: 'Bab 3: Gestur & Bahasa Tubuh', slug: 'bab-3-gestur' },
-            { label: 'Bab 4: Bahasa Emosi', slug: 'bab-4-bahasa-emosi' },
+            { label: 'Bab 3: Gestur & Bahasa Tubuh', slug: 'bab-3-bahasa-tubuh' },
+            { label: 'Bab 4: Dalam Rumah & Keluarga', slug: 'bab-4-keluarga' },
           ],
         },
         {
