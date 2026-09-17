@@ -24,7 +24,7 @@ Sebagai seorang pemimpin sekaligus sahabat, Rasulullah ﷺ mengelola tim (para s
 Nabi tidak pernah bersikap otoriter atau merasa paling tahu dalam urusan teknis duniawi. Beliau senantiasa mendengarkan ide dan masukan dari anggota timnya.
 <div class="kisah-box">
 
-> **Ceritanya:** Dalam Perang Khandaq, Madinah terancam diserang oleh pasukan koalisi. Nabi tidak langsung memutuskan strategi sendiri. Beliau bermusyawarah dengan para sahabat. Salman Al-Farisi, seorang sahabat dari Persia, memberikan ide yang belum pernah dikenal di Jazirah Arab: menggali parit besar di sekeliling kota. Nabi mendengarkan, mengapresiasi, dan langsung menjalankan ide tersebut hingga strategi itu berhasil menyelamatkan Madinah (HR. Ahmad).
+> Dalam Perang Khandaq, Madinah terancam diserang oleh pasukan koalisi. Nabi tidak langsung memutuskan strategi sendiri. Beliau bermusyawarah dengan para sahabat. Salman Al-Farisi, seorang sahabat dari Persia, memberikan ide yang belum pernah dikenal di Jazirah Arab: menggali parit besar di sekeliling kota. Nabi mendengarkan, mengapresiasi, dan langsung menjalankan ide tersebut hingga strategi itu berhasil menyelamatkan Madinah (HR. Ahmad).
 
 </div>
 
@@ -32,7 +32,7 @@ Nabi tidak pernah bersikap otoriter atau merasa paling tahu dalam urusan teknis 
 Menegur kesalahan rekan kerja di depan umum hanya akan membakar ego dan merusak mentalnya. Nabi selalu menjaga kehormatan lawan bicaranya saat memberikan koreksi.
 <div class="kisah-box">
 
-> **Ceritanya:** Ketika Abu Dzarr Al-Ghifari radhiyallahu 'anhu secara tidak sengaja mencela seorang sahabat lain dengan membawa-bawa nama ibunya yang mantan budak, Nabi menegurnya secara langsung namun privat: *"Wahai Abu Dzarr, apakah engkau mencelanya dengan menghina ibunya? Sesungguhnya dalam dirimu masih ada sikap jahiliah."* Abu Dzarr langsung menyadari kesalahannya, menangis, dan meminta maaf (HR. Bukhari no. 30). Nabi menegur tindakannya, bukan menghancurkan orangnya.
+>  Ketika Abu Dzarr Al-Ghifari radhiyallahu 'anhu secara tidak sengaja mencela seorang sahabat lain dengan membawa-bawa nama ibunya yang mantan budak, Nabi menegurnya secara langsung namun privat: *"Wahai Abu Dzarr, apakah engkau mencelanya dengan menghina ibunya? Sesungguhnya dalam dirimu masih ada sikap jahiliah."* Abu Dzarr langsung menyadari kesalahannya, menangis, dan meminta maaf (HR. Bukhari no. 30). Nabi menegur tindakannya, bukan menghancurkan orangnya.
 
 </div>
 
@@ -45,7 +45,7 @@ Seorang pemimpin dan teman yang baik tidak memonopoli keberhasilan. Nabi senanti
 > — **HR. Abu Dawud no. 4811**
 <div class="kisah-box">
 
-> **Ceritanya:** Nabi memberikan julukan apresiatif yang membakar semangat para sahabatnya sesuai keahlian mereka. Khalid bin Walid dijuluki *"Pedang Allah yang Terhunus"*, Abu Ubaidah bin Al-Jarrah dijuluki *"Kepercayaan Umat Ini"*, dan Ali bin Abi Thalib dijuluki *"Pintu Ilmu"*. Apresiasi ini membuat setiap anggota tim merasa berharga.
+>  Nabi memberikan julukan apresiatif yang membakar semangat para sahabatnya sesuai keahlian mereka. Khalid bin Walid dijuluki *"Pedang Allah yang Terhunus"*, Abu Ubaidah bin Al-Jarrah dijuluki *"Kepercayaan Umat Ini"*, dan Ali bin Abi Thalib dijuluki *"Pintu Ilmu"*. Apresiasi ini membuat setiap anggota tim merasa berharga.
 
 </div>
 

@@ -29,14 +29,14 @@ Nabi tidak pernah berbicara terburu-buru atau menggunakan bahasa yang rumit untu
 > — **HR. Abu Dawud no. 4839**
 <div class="kisah-box">
 
-> **Ceritanya:** Ibunda Aisyah radhiyallahu 'anha menceritakan bahwa Nabi tidak berbicara dengan cepat sebagaimana kebiasaan orang-orang pada umumnya. Jika ada hal penting yang merupakan fondasi hukum atau nilai kehidupan, beliau akan mengulanginya sebanyak **tiga kali** agar para sahabat dapat mencerna dan menghafalnya dengan sempurna (HR. Bukhari no. 95).
+>  Ibunda Aisyah radhiyallahu 'anha menceritakan bahwa Nabi tidak berbicara dengan cepat sebagaimana kebiasaan orang-orang pada umumnya. Jika ada hal penting yang merupakan fondasi hukum atau nilai kehidupan, beliau akan mengulanginya sebanyak **tiga kali** agar para sahabat dapat mencerna dan menghafalnya dengan sempurna (HR. Bukhari no. 95).
 
 </div>
 ### 2. Memilih Nada Suara yang Tepat (Sesuai Konteks)
 Nabi tahu kapan harus melembutkan suara dan kapan harus menaikkan ketegasan. Beliau tidak selalu bersuara pelan, dan tidak pula berteriak-teriak tanpa alasan.
 <div class="kisah-box">
 
-> **Ceritanya:** Ketika memberikan nasihat sehari-hari, Nabi berbicara dengan tenang dan penuh kehangatan. Namun, ketika menyampaikan khotbah Jumat yang berisi peringatan penting tentang keselamatan akhirat dan kondisi umat, mata beliau memerah, suaranya meninggi, dan semangatnya membara seolah-olah sedang memberi peringatan kepada pasukan perang (HR. Muslim no. 867). Nada suara beliau disesuaikan dengan tingkat urgensi pesan.
+>  Ketika memberikan nasihat sehari-hari, Nabi berbicara dengan tenang dan penuh kehangatan. Namun, ketika menyampaikan khotbah Jumat yang berisi peringatan penting tentang keselamatan akhirat dan kondisi umat, mata beliau memerah, suaranya meninggi, dan semangatnya membara seolah-olah sedang memberi peringatan kepada pasukan perang (HR. Muslim no. 867). Nada suara beliau disesuaikan dengan tingkat urgensi pesan.
 
 </div>
 ### 3. Bahasa Tubuh & Ekspresi Wajah yang Menyenangkan
@@ -48,7 +48,7 @@ Sebelum kata-kata keluar dari mulut, wajah dan gestur tubuh kita sudah berbicara
 > — **HR. Tirmidzi no. 1956**
 <div class="kisah-box">
 
-> **Ceritanya:** Jarir bin Abdillah radhiyallahu 'anhu menceritakan kesan mendalamnya selama bersahabat dengan Nabi: *"Rasulullah ﷺ tidak pernah menghalangiku untuk menemui beliau sejak aku masuk Islam, dan beliau tidak pernah memandangku melainkan dalam keadaan tersenyum."* (HR. Bukhari no. 3035). Wajah ceria dan senyuman Nabi membuat setiap orang merasa disambut dan dihargai.
+>  Jarir bin Abdillah radhiyallahu 'anhu menceritakan kesan mendalamnya selama bersahabat dengan Nabi: *"Rasulullah ﷺ tidak pernah menghalangiku untuk menemui beliau sejak aku masuk Islam, dan beliau tidak pernah memandangku melainkan dalam keadaan tersenyum."* (HR. Bukhari no. 3035). Wajah ceria dan senyuman Nabi membuat setiap orang merasa disambut dan dihargai.
 
 </div>
 ---

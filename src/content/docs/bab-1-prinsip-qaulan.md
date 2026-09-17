@@ -50,7 +50,7 @@ Artinya bicara apa adanya, tidak berbelit-belit, dan tidak bohong. Prinsip ini d
 Rasulullah ﷺ dikenal sebagai *Al-Amin* (yang terpercaya) karena kejujurannya ini.
 <div class="kisah-box">
 
-> **Ceritanya:** Suatu hari ada seorang nenek tua bertanya, *"Ya Rasulullah, apakah orang tua seperti saya bisa masuk surga?"* Nabi menjawab sambil tersenyum, *"Di surga nanti tidak ada orang tua."* Nenek itu sedih dan menangis. Lalu Nabi menjelaskan dengan jujur namun menenangkan, *"Maksudnya, semua orang yang masuk surga akan diubah menjadi muda kembali."* Nabi tetap bicara benar (jujur) meski sedang bercanda (HR. Tirmidzi dalam *Syama'il Muhammadiyah*).
+> Suatu hari ada seorang nenek tua bertanya, *"Ya Rasulullah, apakah orang tua seperti saya bisa masuk surga?"* Nabi menjawab sambil tersenyum, *"Di surga nanti tidak ada orang tua."* Nenek itu sedih dan menangis. Lalu Nabi menjelaskan dengan jujur namun menenangkan, *"Maksudnya, semua orang yang masuk surga akan diubah menjadi muda kembali."* Nabi tetap bicara benar (jujur) meski sedang bercanda (HR. Tirmidzi dalam *Syama'il Muhammadiyah*).
 
 </div>
 
@@ -65,7 +65,7 @@ Gaya bicara ini gunanya untuk meredam kemarahan dan menyentuh hati lawan bicara.
  Kelembutan Nabi itu bukan berarti beliau lemah, tapi justru menunjukkan beliau punya kontrol diri yang hebat.
 <div class="kisah-box">
 
-> **Ceritanya:** Pernah ada seorang Arab Baduy datang dan langsung menarik jubah Nabi dengan sangat keras sampai leher beliau memerah. Orang itu membentak, *"Hai Muhammad, kasih saya harta Allah yang kamu punya!"* Para sahabat Nabi sudah marah dan ingin memukul orang itu. Tapi apa reaksi Nabi? Beliau malah menoleh, tersenyum tenang, dan menyuruh sahabatnya memberi orang itu makanan and uang. Kelembutan beliau langsung memadamkan suasana tegang (HR. Bukhari no. 3149).
+> Pernah ada seorang Arab Baduy datang dan langsung menarik jubah Nabi dengan sangat keras sampai leher beliau memerah. Orang itu membentak, *"Hai Muhammad, kasih saya harta Allah yang kamu punya!"* Para sahabat Nabi sudah marah dan ingin memukul orang itu. Tapi apa reaksi Nabi? Beliau malah menoleh, tersenyum tenang, dan menyuruh sahabatnya memberi orang itu makanan and uang. Kelembutan beliau langsung memadamkan suasana tegang (HR. Bukhari no. 3149).
 
 </div>
 
@@ -81,7 +81,7 @@ Nabi selalu menjaga perasaan orang lain saat menegur.
 
 <div class="kisah-box">
 
-> **Ceritanya:** Kalau Nabi melihat ada sahabat yang salah dalam beribadah, beliau tidak pernah menunjuk orangnya langsung di depan umum seperti, *"Woi kamu, salah itu!"*. Beliau biasanya akan naik mimbar dan berkata secara umum:
+>  Kalau Nabi melihat ada sahabat yang salah dalam beribadah, beliau tidak pernah menunjuk orangnya langsung di depan umum seperti, *"Woi kamu, salah itu!"*. Beliau biasanya akan naik mimbar dan berkata secara umum:
 >
 > <p class="arabic">مَا بَالُ أَقْوَامٍ يَقُولُونَ كَذَا وَكَذَا</p>
 >
@@ -104,7 +104,7 @@ Nabi kalau bicara itu singkat tapi maknanya sangat dalam. Tidak memakai kata-kat
 
 <div class="kisah-box">
 
-> **Ceritanya:** Ada seorang sahabat (Sufyan bin Abdillah) yang meminta nasihat singkat agar mudah diamalkan. Nabi tidak memberikan kuliah panjang lebar, melainkan bersabda:
+>  Ada seorang sahabat (Sufyan bin Abdillah) yang meminta nasihat singkat agar mudah diamalkan. Nabi tidak memberikan kuliah panjang lebar, melainkan bersabda:
 >
 > <p class="arabic">قُلْ آمَنْتُ بِاللَّهِ ثُمَّ اسْتَقِمْ</p>
 >

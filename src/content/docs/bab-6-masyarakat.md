@@ -29,7 +29,7 @@ Saat menyampaikan ajaran atau norma sosial kepada masyarakat umum, Nabi selalu m
 > — **HR. Bukhari no. 69**
 <div class="kisah-box">
 
-> **Ceritanya:** Ketika Nabi mengutus Mu'adz bin Jabal dan Abu Musa Al-Asy'ari radhiyallahu 'anhuma ke Yaman untuk berdakwah kepada masyarakat setempat, pesan utama yang beliau tekankan bukanlah ancaman atau kerumitan aturan, melainkan kemudahan dan pendekatan yang merangkul agar masyarakat merasa nyaman dengan Islam.
+>  Ketika Nabi mengutus Mu'adz bin Jabal dan Abu Musa Al-Asy'ari radhiyallahu 'anhuma ke Yaman untuk berdakwah kepada masyarakat setempat, pesan utama yang beliau tekankan bukanlah ancaman atau kerumitan aturan, melainkan kemudahan dan pendekatan yang merangkul agar masyarakat merasa nyaman dengan Islam.
 
 </div>
 
@@ -42,7 +42,7 @@ Bicara dengan akademisi tentu berbeda dengan bicara dengan orang awam. Nabi tida
 > — **HR. Al-Dailami**
 <div class="kisah-box">
 
-> **Ceritanya:** Seorang Arab Baduy dari pedalaman datang dan bertanya tentang Islam dengan gaya bahasa yang sangat polos dan kasar. Nabi tidak tersinggung atau menggunakan kalimat ilmiah yang abstrak. Beliau menjawab dengan sangat sederhana: *"Salat lima waktu, puasa Ramadhan, dan zakat."* Ketika orang itu berkata tidak akan menambah atau mengurangi aturan itu, Nabi tersenyum dan memvalidasinya tanpa memperrumit penjelasan (HR. Bukhari no. 46).
+>  Seorang Arab Baduy dari pedalaman datang dan bertanya tentang Islam dengan gaya bahasa yang sangat polos dan kasar. Nabi tidak tersinggung atau menggunakan kalimat ilmiah yang abstrak. Beliau menjawab dengan sangat sederhana: *"Salat lima waktu, puasa Ramadhan, dan zakat."* Ketika orang itu berkata tidak akan menambah atau mengurangi aturan itu, Nabi tersenyum dan memvalidasinya tanpa memperrumit penjelasan (HR. Bukhari no. 46).
 
 </div>
 
@@ -50,7 +50,7 @@ Bicara dengan akademisi tentu berbeda dengan bicara dengan orang awam. Nabi tida
 Masyarakat awam sering kali berbuat salah bukan karena niat jahat, melainkan karena belum tahu. Nabi tidak pernah membalas ketidaktahuan dengan amarah.
 <div class="kisah-box">
 
-> **Ceritanya:** Seorang pemuda mendatangi Nabi dan berkata dengan jujur di depan umum: *"Wahai Rasulullah, izinkan aku berzina!"* Para sahabat langsung gempar dan ingin memukul pemuda itu. Namun Nabi menahan mereka dan memanggil pemuda itu duduk di dekatnya. Beliau bertanya dengan lembut: *"Apakah kamu suka jika hal itu terjadi pada ibumu? Putrimu? Saudara perempuannmu?"* Pemuda itu menjawab: *"Tidak, demi Allah."* Nabi lalu memegang dadanya dan mendoakannya. Pemuda itu keluar dalam keadaan benci pada perbuatan zina (HR. Ahmad).
+>  Seorang pemuda mendatangi Nabi dan berkata dengan jujur di depan umum: *"Wahai Rasulullah, izinkan aku berzina!"* Para sahabat langsung gempar dan ingin memukul pemuda itu. Namun Nabi menahan mereka dan memanggil pemuda itu duduk di dekatnya. Beliau bertanya dengan lembut: *"Apakah kamu suka jika hal itu terjadi pada ibumu? Putrimu? Saudara perempuannmu?"* Pemuda itu menjawab: *"Tidak, demi Allah."* Nabi lalu memegang dadanya dan mendoakannya. Pemuda itu keluar dalam keadaan benci pada perbuatan zina (HR. Ahmad).
 
 </div>
 

@@ -24,7 +24,7 @@ Di tengah pertempuran dan krisis yang mengancam keselamatan umat, Rasulullah ﷺ
 Di bawah tekanan tinggi, ucapan yang asal bunyi hanya akan memicu histeria. Nabi selalu memilih kalimat-kalimat yang menguatkan mental dan mengembalikan fokus pada solusi serta perlindungan Allah.
 <div class="kisah-box">
 
-> **Ceritanya:** Saat Rasulullah ﷺ dan Abu Bakar Ash-Shiddiq radhiyallahu 'anhu bersembunyi di Gua Tsur dalam perjalanan hijrah, para pengejar dari Quraisy sudah berdiri tepat di mulut gua. Abu Bakar sangat khawatir dan berbisik gemetar: *"Jika salah seorang dari mereka melihat ke bawah kakinya, pasti mereka akan melihat kita."* Nabi tidak ikut panik, dengan suara yang sangat tenang dan menyejukkan beliau bersabda: *"Wahai Abu Bakar, apa dugaanmu terhadap dua orang di mana Allah menjadi yang ketiganya? Janganlah engkau berduka cita, sesungguhnya Allah bersama kita."* (HR. Bukhari no. 3653).
+>  Saat Rasulullah ﷺ dan Abu Bakar Ash-Shiddiq radhiyallahu 'anhu bersembunyi di Gua Tsur dalam perjalanan hijrah, para pengejar dari Quraisy sudah berdiri tepat di mulut gua. Abu Bakar sangat khawatir dan berbisik gemetar: *"Jika salah seorang dari mereka melihat ke bawah kakinya, pasti mereka akan melihat kita."* Nabi tidak ikut panik, dengan suara yang sangat tenang dan menyejukkan beliau bersabda: *"Wahai Abu Bakar, apa dugaanmu terhadap dua orang di mana Allah menjadi yang ketiganya? Janganlah engkau berduka cita, sesungguhnya Allah bersama kita."* (HR. Bukhari no. 3653).
 
 </div>
 
@@ -40,7 +40,7 @@ Orang yang kuat bukanlah orang yang jago berkelahi atau berteriak paling lantang
 Meskipun dalam keadaan perang terbuka, Nabi melarang keras penggunaan bahasa yang menghinakan, menyebar hoaks, atau memutarbalikkan fakta demi kepentingan sepihak. Ketegasan harus disampaikan dengan martabat, bukan dengan kekejian kata-kata.
 <div class="kisah-box">
 
-> **Ceritanya:** Dalam Perang Uhud, ketika kondisi pasukan muslimin terdesak hebat hingga wajah Nabi terluka dan gigi seri beliau tanggal, beberapa sahabat yang emosional memohon: *"Ya Rasulullah, doakanlah keburukan/laknat atas mereka!"* Namun Nabi menolak melontarkan umpatan atau doa kebinasaan. Beliau bersabda: *"Sesungguhnya aku tidak diutus untuk melaknat, tetapi aku diutus untuk menyeru pada kebaikan dan membagikan rahmat. Ya Allah, ampunilah kaumku karena sesungguhnya mereka tidak mengetahui."* (HR. Al-Baihaqi).
+>  Dalam Perang Uhud, ketika kondisi pasukan muslimin terdesak hebat hingga wajah Nabi terluka dan gigi seri beliau tanggal, beberapa sahabat yang emosional memohon: *"Ya Rasulullah, doakanlah keburukan/laknat atas mereka!"* Namun Nabi menolak melontarkan umpatan atau doa kebinasaan. Beliau bersabda: *"Sesungguhnya aku tidak diutus untuk melaknat, tetapi aku diutus untuk menyeru pada kebaikan dan membagikan rahmat. Ya Allah, ampunilah kaumku karena sesungguhnya mereka tidak mengetahui."* (HR. Al-Baihaqi).
 
 </div>
 

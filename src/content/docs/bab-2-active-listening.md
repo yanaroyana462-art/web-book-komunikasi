@@ -34,7 +34,7 @@ Untuk mempraktikkan *Active Listening* yang diridhai Allah, kita bisa meniru 4 k
 Saat ada orang yang mengajak bicara, Rasulullah ﷺ tidak hanya menolehkan kepala atau melirik. Beliau memutar seluruh badannya menghadap orang tersebut (*Aqbala 'alaihi bi wajhihi*). Ini memberi sinyal: *"Kamu penting, dan saya fokus mendengarkanmu."*
 <div class="kisah-box">
 
-> **Ceritanya:** Utbah bin Rabi'ah, seorang tokoh Quraisy yang belum beriman, pernah mendatangi Nabi untuk membujuk beliau agar berhenti berdakwah dengan tawaran harta, tahta, dan wanita. Meskipun isinya adalah bujukan dan penolakan, Nabi duduk mendengarkan setiap kalimat Utbah sampai selesai tanpa memotong sedikit pun. Setelah Utbah selesai, Nabi bertanya dengan lembut: *"Apakah engkau sudah selesai, wahai Abul Walid?"* Barulah Nabi menyampaikan balasannya dengan membacakan Al-Qur'an (HR. Al-Baihaqi).
+>  Utbah bin Rabi'ah, seorang tokoh Quraisy yang belum beriman, pernah mendatangi Nabi untuk membujuk beliau agar berhenti berdakwah dengan tawaran harta, tahta, dan wanita. Meskipun isinya adalah bujukan dan penolakan, Nabi duduk mendengarkan setiap kalimat Utbah sampai selesai tanpa memotong sedikit pun. Setelah Utbah selesai, Nabi bertanya dengan lembut: *"Apakah engkau sudah selesai, wahai Abul Walid?"* Barulah Nabi menyampaikan balasannya dengan membacakan Al-Qur'an (HR. Al-Baihaqi).
 
 </div>
 
@@ -42,7 +42,7 @@ Saat ada orang yang mengajak bicara, Rasulullah ﷺ tidak hanya menolehkan kepal
 Memotong omongan orang lain membuat lawan bicara merasa tidak dihargai. Nabi senantiasa membiarkan orang lain menyelesaikan kalimatnya terlebih dahulu.
 <div class="kisah-box">
 
-> **Ceritanya:** Seorang Arab Baduy pernah masuk ke masjid lalu kencing di salah satu sudut masjid. Para sahabat langsung membentak dan ingin menghentikannya. Namun Nabi melarang mereka: *"Jangan hentikan dia, biarkan dia menyelesaikan kencingnya."* Setelah selesai, Nabi memanggilnya dan menasihatinya dengan lembut bahwa masjid dibangun untuk salat dan zikir, bukan untuk kotoran (HR. Bukhari no. 221). Nabi mengajarkan untuk bersabar dan tidak terburu-buru bereaksi.
+> Seorang Arab Baduy pernah masuk ke masjid lalu kencing di salah satu sudut masjid. Para sahabat langsung membentak dan ingin menghentikannya. Namun Nabi melarang mereka: *"Jangan hentikan dia, biarkan dia menyelesaikan kencingnya."* Setelah selesai, Nabi memanggilnya dan menasihatinya dengan lembut bahwa masjid dibangun untuk salat dan zikir, bukan untuk kotoran (HR. Bukhari no. 221). Nabi mengajarkan untuk bersabar dan tidak terburu-buru bereaksi.
 
 </div>
 
@@ -50,7 +50,7 @@ Memotong omongan orang lain membuat lawan bicara merasa tidak dihargai. Nabi sen
 Siapa pun yang bicara—baik sahabat senior, anak kecil, maupun masyarakat awam—selalu didengarkan dengan kesungguhan yang sama oleh Nabi.
 <div class="kisah-box">
 
-> **Ceritanya:** Nabi pernah memiliki sahabat kecil bernama Abu Umair yang memiliki burung pipit kesayangan (Nughair). Suatu hari burung itu mati dan Abu Umair sangat sedih. Nabi khusus meluangkan waktu datang menghiburnya dan bertanya dengan empati: *"Wahai Abu Umair, apa yang dilakukan oleh si Nughair?"* (HR. Bukhari no. 6129). Nabi tidak menganggap remeh kesedihan seorang anak kecil.
+>  Nabi pernah memiliki sahabat kecil bernama Abu Umair yang memiliki burung pipit kesayangan (Nughair). Suatu hari burung itu mati dan Abu Umair sangat sedih. Nabi khusus meluangkan waktu datang menghiburnya dan bertanya dengan empati: *"Wahai Abu Umair, apa yang dilakukan oleh si Nughair?"* (HR. Bukhari no. 6129). Nabi tidak menganggap remeh kesedihan seorang anak kecil.
 
 </div>
 

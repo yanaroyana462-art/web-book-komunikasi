@@ -29,7 +29,7 @@ Nabi tidak pernah mengotori lisannya untuk membalas caci maki dengan hal serupa.
 > — **HR. Bukhari no. 6046**
 <div class="kisah-box">
 
-> **Ceritanya:** Rombongan kaum Yahudi pernah lewat di hadapan Nabi dan mendoakan keburukan dengan plesetan kata: *"As-Saamu 'alaikum"* (Kehancuran/kematian atasmu). Ibunda Aisyah radhiyallahu 'anha yang mendengarnya langsung marah dan membalas membentak: *"Bahkan kehancuran dan laknat Allah atas kalian!"* Nabi dengan tenang menegur Aisyah: *"Tenang wahai Aisyah, sesungguhnya Allah menyukai kelembutan dalam segala hal."* Nabi cukup membalasnya dengan ringkas: *"Wa 'alaikum"* (Dan atas kalian juga) tanpa menambah caci maki (HR. Bukhari no. 6024).
+>  Rombongan kaum Yahudi pernah lewat di hadapan Nabi dan mendoakan keburukan dengan plesetan kata: *"As-Saamu 'alaikum"* (Kehancuran/kematian atasmu). Ibunda Aisyah radhiyallahu 'anha yang mendengarnya langsung marah dan membalas membentak: *"Bahkan kehancuran dan laknat Allah atas kalian!"* Nabi dengan tenang menegur Aisyah: *"Tenang wahai Aisyah, sesungguhnya Allah menyukai kelembutan dalam segala hal."* Nabi cukup membalasnya dengan ringkas: *"Wa 'alaikum"* (Dan atas kalian juga) tanpa menambah caci maki (HR. Bukhari no. 6024).
 
 </div>
 
@@ -42,7 +42,7 @@ Di saat orang lain sibuk mengutuk musuh, Rasulullah ﷺ justru melihat oposisi s
 > — **HR. Muslim no. 2599**
 <div class="kisah-box">
 
-> **Ceritanya:** Ketika Nabi berdakwah ke Kota Tha'if, beliau dilempari batu oleh penduduk setempat hingga kaki beliau berdarah. Malaikat penjaga gunung mendatangi Nabi dan menawarkan untuk menimpakan dua gunung besar kepada penduduk Tha'if. Namun Nabi menolak dan malah berdoa: *"Tidak, justru aku berharap Allah akan mengeluarkan dari tulang sulbi mereka keturunan yang menyembah Allah semata."* (HR. Bukhari no. 3231).
+>  Ketika Nabi berdakwah ke Kota Tha'if, beliau dilempari batu oleh penduduk setempat hingga kaki beliau berdarah. Malaikat penjaga gunung mendatangi Nabi dan menawarkan untuk menimpakan dua gunung besar kepada penduduk Tha'if. Namun Nabi menolak dan malah berdoa: *"Tidak, justru aku berharap Allah akan mengeluarkan dari tulang sulbi mereka keturunan yang menyembah Allah semata."* (HR. Bukhari no. 3231).
 
 </div>
 
@@ -50,7 +50,7 @@ Di saat orang lain sibuk mengutuk musuh, Rasulullah ﷺ justru melihat oposisi s
 Keagungan lisan ditunjukkan saat kita memiliki kekuatan untuk membalas dendam, namun kita memilih untuk memaafkan dan membebaskan.
 <div class="kisah-box">
 
-> **Ceritanya:** Saat peristiwa pembebasan Kota Mekkah (*Fathu Makkah*), puluhan ribu pasukan muslimin berhasil menguasai kota. Tokoh-tokoh Quraisy yang dulu menyiksa dan mengusir Nabi berdiri ketakutan menunggu hukuman balasan. Nabi bertanya kepada mereka: *"Menurut kalian, apa yang akan aku lakukan terhadap kalian?"* Mereka menjawab pasrah: *"Engkau adalah saudara yang mulia."* Nabi bersabda: *"Hari ini aku katakan kepada kalian sebagaimana Yusuf berkata kepada saudara-saudaranya: 'Tidak ada cercaan bagi kalian hari ini.' Pergilah, kalian semua bebas!"* (HR. Al-Baihaqi).
+>  Saat peristiwa pembebasan Kota Mekkah (*Fathu Makkah*), puluhan ribu pasukan muslimin berhasil menguasai kota. Tokoh-tokoh Quraisy yang dulu menyiksa dan mengusir Nabi berdiri ketakutan menunggu hukuman balasan. Nabi bertanya kepada mereka: *"Menurut kalian, apa yang akan aku lakukan terhadap kalian?"* Mereka menjawab pasrah: *"Engkau adalah saudara yang mulia."* Nabi bersabda: *"Hari ini aku katakan kepada kalian sebagaimana Yusuf berkata kepada saudara-saudaranya: 'Tidak ada cercaan bagi kalian hari ini.' Pergilah, kalian semua bebas!"* (HR. Al-Baihaqi).
 
 </div>
 
