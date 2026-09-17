@@ -7,7 +7,7 @@ import { Tabs, TabItem } from '@astrojs/starlight/components';
 
 Seorang pemimpin bukan hanya diukur dari seberapa matang rencana operasinya, melainkan dari seberapa mahir ia menyampaikan arah dan tujuan tersebut kepada tim serta masyarakat luas. Komunikasi kepemimpinan bukan sekadar memberi perintah, melainkan seni membangun kepercayaan, mengobarkan semangat, dan memberikan ketenangan di tengah situasi krisis.
 
-Rasulullah ﷺ adalah sosok pemimpin tertinggi—baik secara spiritual, sosial, politik, maupun militer. Narasi yang beliau bangun tidak pernah berorientasi pada kepentingan pribadi, melainkan senantiasa memprioritaskan kemaslahatan bersama, keadilan, dan visi jangka panjang.
+Rasulullah ﷺ adalah sosok pemimpin tertinggi baik secara spiritual, sosial, politik, maupun militer. Narasi yang beliau bangun tidak pernah berorientasi pada kepentingan pribadi, melainkan senantiasa memprioritaskan kemaslahatan bersama, keadilan, dan visi jangka panjang.
 
 <p class="arabic">يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ۖ وَإِن لَّمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ</p>
 
