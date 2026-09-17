@@ -23,12 +23,8 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Pengantar',
-          translations: {
-            en: 'Introduction',
-            ar: 'المقدمة',
-          },
-          link: '/pengantar/',
+          label: 'Panduan Awal',
+          autogenerate: { directory: '' },
         },
       ],
     }),
