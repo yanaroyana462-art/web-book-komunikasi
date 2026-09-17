@@ -77,4 +77,9 @@ Tentu saja, sebagai karya manusia biasa, penyusunan buku ini tak luput dari kete
 > Semoga setiap bab dalam buku ini menjadi langkah awal untuk menjadikan lisan kita sebagai penyejuk hati dan jalan kebaikan bagi sesama.
 
 Salam
-Yana Abu Fillah
+
+<br/>
+<br/>
+**Yana Abu Fillah**
+
+[Hubungi via WhatsApp](https://wa.me/6285794506290)
