@@ -126,7 +126,7 @@ Bicara yang penuh penghormatan dan memuliakan lawan bicara.
 Nabi tidak pernah meremehkan siapa pun. Beliau selalu membuat orang yang bicara dengannya merasa jadi orang paling penting di dunia.
 <div class="kisah-box">
 
-> **Ceritanya:** Kalau diajak bicara, Nabi tidak cuma menolehkan kepala, tapi memutar seluruh badannya menghadap orang tersebut. Beliau mendengarkan dengan penuh perhatian. Pernah ada seorang wanita tua yang curhat sangat lama di pinggir jalan, Nabi tetap berdiri mendengarkannya sampai selesai tanpa memotong sedikit pun, meskipun beliau adalah pemimpin besar.
+> Kalau diajak bicara, Nabi tidak cuma menolehkan kepala, tapi memutar seluruh badannya menghadap orang tersebut. Beliau mendengarkan dengan penuh perhatian. Pernah ada seorang wanita tua yang curhat sangat lama di pinggir jalan, Nabi tetap berdiri mendengarkannya sampai selesai tanpa memotong sedikit pun, meskipun beliau adalah pemimpin besar.
 
 </div>
 
@@ -139,7 +139,7 @@ Ini dipakai saat kita tidak bisa membantu orang lain, menggunakan kata-kata yang
 > — **QS. Al-Isra [17]: 28**
 <div class="kisah-box">
 
-> **Ceritanya:** Kadang ada orang datang minta bantuan uang kepada Nabi, tapi saat itu Nabi benar-benar tidak punya apa-apa untuk diberikan. Nabi tidak mengusirnya. Beliau akan bicara dengan sangat lembut, mendoakan orang itu, dan berjanji kalau nanti ada rezeki pasti akan dibantu. Jadi, orang itu pulang meski tidak bawa uang, tapi hatinya merasa tenang karena diperlakukan dengan sangat baik.
+>  Kadang ada orang datang minta bantuan uang kepada Nabi, tapi saat itu Nabi benar-benar tidak punya apa-apa untuk diberikan. Nabi tidak mengusirnya. Beliau akan bicara dengan sangat lembut, mendoakan orang itu, dan berjanji kalau nanti ada rezeki pasti akan dibantu. Jadi, orang itu pulang meski tidak bawa uang, tapi hatinya merasa tenang karena diperlakukan dengan sangat baik.
 
 </div>
 
