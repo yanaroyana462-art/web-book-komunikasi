@@ -5,9 +5,9 @@ description: "Etika berkomunikasi dengan masyarakat luas, meredam prasangka, dan
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Saat berinteraksi di ruang publik—mulai dari tetangga, pedagang di pasar, pengguna jalan, hingga netizen di media sosial—kita akan bertemu dengan berbagai macam latar belakang, tingkat pendidikan, dan karakter. 
+Saat berinteraksi di ruang publik mulai dari tetangga, pedagang di pasar, pengguna jalan, hingga netizen di media sosial kita akan bertemu dengan berbagai macam latar belakang, budaya, kebiasaan, tingkat pendidikan, dan karakter. 
 
-Tidak semua orang memahami sudut pandang kita, dan tidak semua orang memiliki pemahaman agama atau etika yang sama. Di sinilah ujian kesabaran lisan kita yang sesungguhnya: apakah kita akan bersikap patronizing (meremehkan) dan gampang menghakimi, atau justru merangkul dan menyampaikan kebaikan dengan cara yang mudah dicerna?
+Tidak semua orang memahami sudut pandang kita, dan tidak semua orang memiliki pemahaman atau etika yang sama. Di sinilah ujian kesabaran lisan kita yang sesungguhnya: apakah kita akan bersikap patronizing (meremehkan) dan gampang menghakimi, atau justru merangkul dan menyampaikan kebaikan dengan cara yang mudah dicerna?
 
 > **ادْعُ إِلَىٰ سَبِيلِ رَبِّكَ بِالْحِكْمَةِ وَالْمَوْعِظَةِ الْحَسَنَةِ ۖ وَجَادِلْهُم بِالَّتِي هِيَ أَحْسَنُ**
 >
