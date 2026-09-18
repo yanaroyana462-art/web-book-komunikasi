@@ -23,22 +23,31 @@ Rasulullah ﷺ adalah penyampai pesan terbaik sepanjang sejarah. Beliau sangat m
 ### 1. Kejelasan & Pengulangan Kata (Artikulasi Jelas)
 Nabi tidak pernah berbicara terburu-buru atau menggunakan bahasa yang rumit agar terlihat pintar. Kata-kata beliau teratur, lugas, jelas dan mudah dipahami oleh siapa saja, dari intelektual hingga orang awam.
 
-> <p class="arabic">كَنَّ كَلَامُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَلَامًا فَصْلًا يَفْهَمُهُ كُلُّ مَنْ سَمِعَهُ</p>
+> <p class="arabic">كَانَ كَلَامُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَلَامًا فَصْلًا يَفْهَمُهُ كُلُّ مَنْ سَمِعَهُ</p>
 >
 > *"Perkataan Rasulullah ﷺ adalah perkataan yang jelas (perlahan-lahan), yang dapat dipahami oleh setiap orang yang mendengarnya."*  
 > — **HR. Abu Dawud no. 4839**
+
 <div class="kisah-box">
 
->  Ibunda Aisyah radhiyallahu 'anha menceritakan bahwa Nabi tidak berbicara dengan cepat sebagaimana kebiasaan orang-orang pada umumnya. Jika ada hal penting yang merupakan fondasi hukum atau nilai kehidupan, beliau akan mengulanginya sebanyak **tiga kali** agar para sahabat dapat mencerna dan menghafalnya dengan sempurna (HR. Bukhari no. 95).
+> Ibunda Aisyah radhiyallahu 'anha menceritakan bahwa Nabi tidak berbicara dengan cepat sebagaimana kebiasaan orang-orang pada umumnya. Jika ada hal penting yang merupakan fondasi hukum atau nilai kehidupan, beliau akan mengulanginya sebanyak **tiga kali** agar para sahabat dapat mencerna dan menghafalnya dengan sempurna (HR. Bukhari no. 95).
 
 </div>
-### 2. Memilih Nada Suara yang Tepat (Sesuai Konteks)
+
+### 2. Memilih Nada Suara yang Tepat (Sesuai Konteks)  
 Nabi tahu kapan harus melembutkan suara dan kapan harus tegas dan keras. Beliau tidak selalu bersuara pelan, dan tidak pula keras tanpa alasan.
+
+> <p class="arabic">كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا خَطَبَ احْمَرَّتْ عَيْنَاهُ وَعَلَا صَوْتُهُ وَاشْتَدَّ غَضَبُهُ كَأَنَّهُ مُنْذِرُ جَيْشٍ</p>
+>
+> *"Apabila Rasulullah ﷺ berkhotbah, kedua matanya memerah, suaranya meninggi, dan semangatnya membara seolah-olah beliau seorang panglima yang sedang memberi peringatan kepada pasukan perang."*  
+> — **HR. Muslim no. 867**
+
 <div class="kisah-box">
 
->  Ketika memberikan nasihat sehari-hari, Nabi berbicara dengan tenang dan penuh kehangatan. Namun, ketika menyampaikan khotbah Jumat yang berisi peringatan penting tentang keselamatan akhirat dan kondisi umat, mata beliau memerah, suaranya meninggi, dan semangatnya membara seolah-olah sedang memberi peringatan kepada pasukan perang (HR. Muslim no. 867). Nada suara beliau disesuaikan dengan tingkat urgensi pesan.
+> Ketika memberikan nasihat sehari-hari, Nabi berbicara dengan tenang dan penuh kehangatan. Namun, ketika menyampaikan khotbah Jumat yang berisi peringatan penting tentang keselamatan akhirat dan kondisi umat, nada suara beliau disesuaikan dengan tingkat urgensi pesan agar menghujam ke dalam hati pendengarnya.
 
 </div>
+
 ### 3. Bahasa Tubuh & Ekspresi Wajah yang Menyenangkan
 Sebelum kata-kata keluar dari mulut, wajah dan gestur tubuh kita sudah berbicara terlebih dahulu. Rasulullah ﷺ selalu menampilkan ekspresi yang ramah dan menyesuaikan dengan apa yang akan diungkapkan, dan selalu menampakan sikap menyenangkan lawan bicara.
 
@@ -46,9 +55,10 @@ Sebelum kata-kata keluar dari mulut, wajah dan gestur tubuh kita sudah berbicara
 >
 > *"Senyummu di hadapan saudaramu adalah sedekah bagimu."*  
 > — **HR. Tirmidzi no. 1956**
+
 <div class="kisah-box">
 
->  Jarir bin Abdillah radhiyallahu 'anhu menceritakan kesan mendalamnya selama bersahabat dengan Nabi: *"Rasulullah ﷺ tidak pernah menghalangiku untuk menemui beliau sejak aku masuk Islam, dan beliau tidak pernah memandangku melainkan dalam keadaan tersenyum."* (HR. Bukhari no. 3035). Wajah ceria dan senyuman Nabi membuat setiap orang merasa disambut dan dihargai.
+> Jarir bin Abdillah radhiyallahu 'anhu menceritakan kesan mendalamnya selama bersahabat dengan Nabi: *"Rasulullah ﷺ tidak pernah menghalangiku untuk menemui beliau sejak aku masuk Islam, dan beliau tidak pernah memandangku melainkan dalam keadaan tersenyum."* (HR. Bukhari no. 3035). Wajah ceria dan senyuman Nabi membuat setiap orang merasa disambut dan dihargai.
 
 </div>
 ---
