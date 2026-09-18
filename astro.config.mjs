@@ -6,9 +6,17 @@ export default defineConfig({
     starlight({
       title: 'Komunikasi Efektif ala Nabi',
       customCss: [
-        './src/styles/custom.css', // <-- Tambahkan baris ini!
+        './src/styles/custom.css',
       ],
       defaultLocale: 'root',
+      // Tambahkan tombol navigasi ke versi Bahasa Inggris di Navbar
+      social: [
+        { 
+          icon: 'translate', 
+          label: 'English Version', 
+          href: 'https://web-book-komunikasi-en.vercel.app' // <-- Ganti dengan URL Vercel/Domain versi Inggris milik Mas Yana
+        },
+      ],
       components: {
         Footer: './src/components/CustomFooter.astro',
       },
