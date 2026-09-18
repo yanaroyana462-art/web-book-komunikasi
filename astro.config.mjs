@@ -9,16 +9,10 @@ export default defineConfig({
         './src/styles/custom.css',
       ],
       defaultLocale: 'root',
-      // Tambahkan tombol navigasi ke versi Bahasa Inggris di Navbar
-      social: [
-        { 
-          icon: 'translate', 
-          label: 'English Version', 
-          href: 'https://web-book-komunikasi-en.vercel.app' // <-- Ganti dengan URL Vercel/Domain versi Inggris milik Mas Yana
-        },
-      ],
       components: {
         Footer: './src/components/CustomFooter.astro',
+        // Tambahkan baris ini untuk mengganti ikon social dengan tombol tulisan "Versi Inggris"
+        SocialIcons: './src/components/LanguageSwitch.astro',
       },
       sidebar: [
         {
