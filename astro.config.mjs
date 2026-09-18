@@ -5,6 +5,9 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Komunikasi Efektif ala Nabi',
+      customCss: [
+        './src/styles/custom.css', // <-- Tambahkan baris ini!
+      ],
       defaultLocale: 'root',
       components: {
         Footer: './src/components/CustomFooter.astro',
