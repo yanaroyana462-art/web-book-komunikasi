@@ -5,9 +5,9 @@ description: "Memahami pentingnya intonasi, pengulangan kata, dan ekspresi non-v
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Pernahkah Anda mengalami salah paham saat membaca pesan singkat di WhatsApp? Niat bercanda, tapi justru malah orang lain marah atau tersinggung. Atau pernahkah Anda mendengar seseorang bicara kurang jelas sangat cepat sampai pesannya tidak tertangkap sama sekali?atau kita menyampaikan sesuatu namun orang lain malah bingung dan tidak faham apa yang kita sampaikan?
+Pernahkah Anda mengalami salah paham saat membaca pesan singkat di WhatsApp? Niatnya ingin bercanda, tetapi lawan bicara justru tersinggung atau marah. Atau pernahkah Anda mendengarkan seseorang berbicara sangat cepat sampai poin utamanya tidak tertangkap sama sekali? Bahkan, mungkin kita sendiri pernah menyampaikan suatu maksud, namun orang lain justru bingung dan tidak paham dengan apa yang kita ucapkan.
 
-Komunikasi bukan hanya tentang *apa* yang kita katakan, melainkan *bagaimana* cara kita menyampaikannya. Kata-kata hanyalah sebagian kecil dari komunikasi, sisanya ditentukan oleh **nada suara (*vocal*)** dan **bahasa tubuh (*visual*)**.
+Kondisi tersebut membuktikan bahwa komunikasi bukan sekadar tentang **apa** yang kita katakan, melainkan tentang **bagaimana** cara kita menyampaikannya. Kata-kata yang keluar (*verbal*) hanyalah sebagian kecil dari pesan. Sebagian besar makna justru ditentukan oleh **nada suara (*vokal*)** dan **bahasa tubuh (*visual*)**.
 
 > <p class="arabic">وَاقْصِدْ فِي مَشْيِكَ وَاغْضُضْ مِن صَوْتِكَ ۚ إِنَّ أَنكَرَ الْأَصْوَاتِ لَصَوْتُ الْحَمِيرِ</p>
 >
@@ -18,10 +18,10 @@ Komunikasi bukan hanya tentang *apa* yang kita katakan, melainkan *bagaimana* ca
 
 ## 3 Dimensi Komunikasi ala Rasulullah ﷺ
 
-Rasulullah ﷺ adalah penyampai pesan terbaik sepanjang sejarah. Beliau sangat memperhatikan kejernihan kata, intonasi suara, hingga mimik wajah agar pesan kebaikan dapat diterima dengan benar.
+Rasulullah ﷺ adalah sosok komunikator terbaik sepanjang sejarah. Beliau tidak hanya fokus pada isi naskah atau pesan yang dibawakan, melainkan sangat memperhitungkan kejernihan artikulasi, dinamika intonasi, hingga mimik wajah dan gestur tubuh agar pesan kebaikan dapat diterima dengan tepat tanpa memicu salah paham.
 
 ### 1. Kejelasan & Pengulangan Kata (Artikulasi Jelas)
-Nabi tidak pernah berbicara terburu-buru atau menggunakan bahasa yang rumit agar terlihat pintar. Kata-kata beliau teratur, lugas, jelas dan mudah dipahami oleh siapa saja, dari intelektual hingga orang awam.
+Rasulullah ﷺ tidak pernah berbicara terburu-buru, bergumam, atau sengaja menggunakan istilah-istilah rumit agar terlihat pintar. Kalimat beliau senantiasa teratur, artikulasinya lugas, dan temponya terukur sehingga mudah dipahami oleh siapa saja mulai dari para sahabat terpelajar hingga masyarakat awam.
 
 > <p class="arabic">كَانَ كَلَامُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَلَامًا فَصْلًا يَفْهَمُهُ كُلُّ مَنْ سَمِعَهُ</p>
 >
@@ -30,12 +30,20 @@ Nabi tidak pernah berbicara terburu-buru atau menggunakan bahasa yang rumit agar
 
 <div class="kisah-box">
 
-> Ibunda Aisyah radhiyallahu 'anha menceritakan bahwa Nabi tidak berbicara dengan cepat sebagaimana kebiasaan orang-orang pada umumnya. Jika ada hal penting yang merupakan fondasi hukum atau nilai kehidupan, beliau akan mengulanginya sebanyak **tiga kali** agar para sahabat dapat mencerna dan menghafalnya dengan sempurna (HR. Bukhari no. 95).
+> Ibunda Aisyah radhiyallahu 'anha menceritakan bahwa Rasulullah ﷺ tidak pernah berbicara dengan tempo yang terlalu cepat sebagaimana kebiasaan rentetan ucapan orang-orang pada umumnya. 
+> 
+> Apabila ada hal penting yang sifatnya prinsipil, mendasar, atau berupa hukum agama, beliau biasa mengulanginya sebanyak **tiga kali** dengan tenang. Pengulangan ini memberi jeda bagi pikiran para sahabat untuk mencerna, memproses, dan merekam pesan tersebut dengan sempurna (HR. Bukhari no. 95).
 
 </div>
 
-### 2. Memilih Nada Suara yang Tepat (Sesuai Konteks)  
-Nabi tahu kapan harus melembutkan suara dan kapan harus tegas dan keras. Beliau tidak selalu bersuara pelan, dan tidak pula keras tanpa alasan.
+**Penerapan Sehari-hari:**
+* **Di Tempat Kerja:** Saat memberikan instruksi pengerjaan (*briefing*), gunakan kalimat yang teratur dan mintalah tim mengonfirmasi ulang poin utamanya (*check-back*).
+* **Di Rumah:** Ketika mengajarkan nilai atau kebiasaan baru kepada anak, ulangi pesan kunci tersebut dalam beberapa kesempatan berbeda dengan tenang.
+
+---
+
+### 2. Penyesuaian Nada Suara (Dinamika Intonasi Sesuai Konteks)
+Rasulullah ﷺ sangat mahir menempatkan nada suara sesuai konteks keadaan. Beliau tidak selalu bersuara pelan dan lembut, tetapi tidak pula berteriak tanpa alasan. Nada suara beliau secara fleksibel mengikuti urgensi dan bobot pesan yang disampaikan.
 
 > <p class="arabic">كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا خَطَبَ احْمَرَّتْ عَيْنَاهُ وَعَلَا صَوْتُهُ وَاشْتَدَّ غَضَبُهُ كَأَنَّهُ مُنْذِرُ جَيْشٍ</p>
 >
@@ -44,12 +52,20 @@ Nabi tahu kapan harus melembutkan suara dan kapan harus tegas dan keras. Beliau 
 
 <div class="kisah-box">
 
-> Ketika memberikan nasihat sehari-hari, Nabi berbicara dengan tenang dan penuh kehangatan. Namun, ketika menyampaikan khotbah Jumat yang berisi peringatan penting tentang keselamatan akhirat dan kondisi umat, nada suara beliau disesuaikan dengan tingkat urgensi pesan agar menghujam ke dalam hati pendengarnya.
+> Saat memberikan arahan harian atau berdiskusi santai, Rasulullah ﷺ berbicara dengan nada yang teduh, tenang, dan penuh kehangatan. 
+> 
+> Namun, ketika menyampaikan khotbah Jumat atau peringatan yang menyangkut keselamatan umat dan ketegasan hukum, intonasi beliau berubah menjadi tegas, bervolume, dan bersemangat. Penyesuaian nada ini bertujuan agar pendengar merasakan urgensi dari pesan yang dibawakan.
 
 </div>
 
+**Penerapan Sehari-hari:**
+* **Presentasi / Public Speaking:** Gunakan nada tegas dan optimis saat menyampaikan target proyek, namun gunakan nada empati dan ramah saat sesi tanya-jawab.
+* **Komunikasi Keluarga:** Bedakan nada suara ketika sedang bercanda dengan nada saat menegur kesalahan anak yang membahayakan dirinya.
+
+---
+
 ### 3. Bahasa Tubuh & Ekspresi Wajah yang Menyenangkan
-Sebelum kata-kata keluar dari mulut, wajah dan gestur tubuh kita sudah berbicara terlebih dahulu. Rasulullah ﷺ selalu menampilkan ekspresi yang ramah dan menyesuaikan dengan apa yang akan diungkapkan, dan selalu menampakan sikap menyenangkan lawan bicara.
+Bahkan sebelum sepatah kata pun keluar dari mulut, ekspresi wajah dan bahasa tubuh kita telah lebih dulu menyampaikan pesan. Rasulullah ﷺ senantiasa menampilkan mimik wajah yang hangat, terbuka, dan menyenangkan lawan bicara.
 
 > <p class="arabic">تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ</p>
 >
@@ -58,34 +74,46 @@ Sebelum kata-kata keluar dari mulut, wajah dan gestur tubuh kita sudah berbicara
 
 <div class="kisah-box">
 
-> Jarir bin Abdillah radhiyallahu 'anhu menceritakan kesan mendalamnya selama bersahabat dengan Nabi: *"Rasulullah ﷺ tidak pernah menghalangiku untuk menemui beliau sejak aku masuk Islam, dan beliau tidak pernah memandangku melainkan dalam keadaan tersenyum."* (HR. Bukhari no. 3035). Wajah ceria dan senyuman Nabi membuat setiap orang merasa disambut dan dihargai.
+> Jarir bin Abdillah radhiyallahu 'anhu menceritakan kesan mendalam yang selalu ia rasakan:
+> 
+> *"Rasulullah ﷺ tidak pernah menghalangiku untuk menemui beliau sejak aku masuk Islam, dan beliau tidak pernah memandangku melainkan dalam keadaan tersenyum."*  
+> — **HR. Bukhari no. 3035**
+> 
+> Wajah yang cerah dan senyuman tulus dari Rasulullah ﷺ membuat siapa saja yang berinteraksi dengan beliau merasa langsung diterima, dihargai, dan merasa nyaman.
 
 </div>
+
+**Penerapan Sehari-hari:**
+* **Kontak Mata & Senyum:** Sambut rekan kerja atau anggota keluarga yang baru datang dengan senyuman dan kontak mata yang hangat.
+* **Postur Terbuka:** Hindari melipat tangan di dada (*crossed arms*) atau berpaling saat orang lain sedang berbicara dengan Anda.
+
 ---
 
 ## Praktik Sederhana di Kehidupan Nyata
 
-Mari kita bandingkan penyampaian pesan dengan nada dan bahasa tubuh yang kurang tepat versus gaya yang dicontohkan nabi:
+Mari kita bandingkan perbedaan dampak penyampaian pesan antara gaya yang kurang tepat dengan gaya yang meneladani Rasulullah ﷺ:
 
 <Tabs>
-  <TabItem label="Memberi Teguran atau Masukan">
-    Cara Kurang Tepat (Defensif & Menakutkan):  
-    *(Muka cemberut, tangan bersedekap, nada tinggi)* "Ini kenapa kerjaannya bisa berantakan begini sih? Kan udah dibilangin berkali-kali!"
+  <TabItem label="Memberi Masukan / Evaluasi">
+    **Cara Kurang Tepat (Defensif & Menakutkan):**  
+    *(Muka cemberut, tangan bersedekap, nada suara tinggi)*  
+    "Ini kenapa kerjaannya bisa berantakan begini sih? Kan sudah dibilangin berkali-kali!"
 
     ---
 
-    Cara Ala Nabi (Jelas, Tenang & Terarah):  
-    *(Ekspresi tenang, duduk berhadapan, nada sedang)* "Ada beberapa bagian di bagian ini yang belum sesuai standar. Coba kita cek bagian A dan B ya, supaya bisa langsung kita perbaiki."
+    **Cara Ala Nabi (Jelas, Tenang & Terarah):**  
+    *(Ekspresi tenang, posisi duduk berhadapan, nada sedang & mantap)*  
+    "Ada beberapa bagian di laporan ini yang belum sesuai standar. Coba kita cek bagian A dan B bersama ya, supaya bisa langsung kita perbaiki."
   </TabItem>
 
   <TabItem label="Menjelaskan Hal Rumit">
-    Cara Kurang Tepat (Terburu-buru):  
-    Bicara sangat cepat tanpa jeda, menggunakan istilah-istilah tinggi agar terlihat keren, tanpa peduli pendengar paham atau tidak.
+    **Cara Kurang Tepat (Terburu-buru & Menghakimi):**  
+    Berbicara sangat cepat tanpa jeda, menggunakan jargon-jargon rumit agar terlihat cerdas, tanpa memedulikan apakah lawan bicara paham atau tidak.
 
     ---
 
-    Cara Ala Nabi (Artikulasi Teratur & Berjeda):  
-    Bicara dengan tempo sedang, memberikan jeda agar pendengar bisa mencerna, dan mengulangi poin inti jika memang diperlukan.
+    **Cara Ala Nabi (Artikulasi Teratur & Berjeda):**  
+    Berbicara dengan tempo sedang, memberikan jeda antar-kalimat agar lawan bicara sempat mencerna, dan mengulangi poin kunci jika diperlukan.
   </TabItem>
 </Tabs>
 
@@ -93,12 +121,13 @@ Mari kita bandingkan penyampaian pesan dengan nada dan bahasa tubuh yang kurang 
 
 ## Checklist Elemen Non-Verbal Sebelum Bicara
 
-:::tip[Cek 3 V Komunikasi Anda]
-Sebelum menyampaikan pesan penting kepada pasangan, rekan kerja, atau anak, periksa 3 elemen ini:
-1. **Verbal (Kata-kata):** Apakah kata-kata yang digunakan sudah sederhana dan tidak berbelit-belit?
-2. **Vokal (Nada Suara):** Apakah intonasi suara saya sudah pas? Tidak terlalu membentak, tidak juga terlalu berbisik?
-3. **Visual (Bahasa Tubuh):** Bagaimana mimik wajah saya? Apakah mata saya menatap lawan bicara dan senyum terpasang?
+:::tip[Cek Rumus 3V Komunikasi Anda]
+Sebelum menyampaikan pesan penting kepada pasangan, rekan kerja, bawahan, atau anak, periksa 3 elemen ini terlebih dahulu:
+
+1. **Verbal (Kata-kata):** Apakah pilihan kata yang saya gunakan sudah sederhana, jelas, dan bebas dari sindiran kasar?
+2. **Vokal (Nada Suara):** Apakah intonasi saya sudah sesuai? Tidak membentak, tidak terburu-buru, dan tidak terlalu pelan?
+3. **Visual (Bahasa Tubuh):** Bagaimana mimik wajah saya? Apakah postur tubuh saya terbuka, mata menatap hangat, dan senyuman sudah terpasang?
 :::
 
 > **Pesan Penutup:**  
-> Kebenaran yang disampaikan dengan nada kasar dan wajah ketus bisa ditolak oleh orang lain. Namun, masukan yang disampaikan dengan nada santun, kejelasan pesan, dan senyuman tulus akan mengalir masuk ke dalam hati.
+> Kebenaran yang disampaikan dengan nada kasar dan wajah ketus sangat berpotensi ditolak oleh orang lain. Sebaliknya, masukan yang disampaikan dengan nada yang santun, kejelasan pesan, dan senyuman yang tulus akan lebih mudah mengalir masuk dan diterima oleh hati.
