@@ -18,39 +18,76 @@ Padahal, rumah adalah medan ujian komunikasi yang sesungguhnya. Kualitas iman da
 
 ## 4 Prinsip Komunikasi Keluarga Ala Rasulullah ﷺ
 
-Rasulullah ﷺ adalah sosok suami dan ayah yang sangat hangat. Beliau tidak pernah memposisikan dirinya sebagai sosok yang kaku atau tegang di dalam rumah.
+Rasulullah ﷺ adalah sosok suami, ayah, dan kakek yang sangat hangat serta penuh kasih sayang. Beliau tidak pernah memposisikan dirinya sebagai kepala keluarga yang kaku, menakutkan, atau membuat suasana rumah terasa tegang dan penuh tekanan.
 
-### 1. Memanggil dengan Panggilan Kesayangan
-Memanggil pasangan atau anak dengan lembut dan menyenangkan dapat mencairkan suasana dan menumbuhkan suasana harmonis di rumah,melahirkan sikap saling peduli dan saling menghargai
+### 1. Memanggil dengan Panggilan Kesayangan & Penuh Penghormatan
+Memanggil pasangan atau anak dengan panggilan yang lembut dan menyenangkan dapat mencairkan suasana, menumbuhkan rasa saling memiliki, serta melahirkan sikap saling peduli dan menghargai di dalam rumah tangga.
+
 <div class="kisah-box">
 
->  Rasulullah ﷺ sering memanggil Ibunda Aisyah radhiyallahu 'anha dengan panggilan mesra *"Ya Aisy"* atau *"Ya Humaira"* (yang kemerah-merahan pipinya) untuk menggoda dan menyenangkan hatinya (HR. Muslim no. 2440). Beliau mengajarkan bahwa kata-kata manis di dalam rumah adalah salah satu bahan bakar keharmonisan.
+> Rasulullah ﷺ sering memanggil Ibunda Aisyah radhiyallahu 'anha dengan panggilan mesra *"Ya Aisy"* atau *"Ya Humaira"* (yang pipinya kemerah-merahan) untuk menggoda dan menyenangkan hatinya (HR. Muslim no. 2440). 
+> 
+> Beliau mengajarkan bahwa kata-kata manis dan sebutan khusus di dalam rumah merupakan salah satu "bahan bakar" utama untuk menjaga keharmonisan dan kehangatan hubungan.
 
 </div>
 
-### 2. Bercanda & Mengajak Berinteraksi
-Nabi tidak membuat suasana rumah terasa tegang. Beliau senantiasa meluangkan waktu untuk bercanda dan bermain bersama pasangan maupun cucu-cucunya, hingga terbangun suasana yang ceria dan menyenangkan anggota keluarga.
+**Penerapan Sehari-hari:**
+* **Untuk Pasangan:** Menggunakan sapaan kesayangan yang disukai pasangan alih-alih memanggil nama atau sebutan kaku.
+* **Untuk Anak:** Memanggil anak dengan sebutan pendorong yang membangkitkan rasa percaya dirinya, seperti *"Si Jagoan", "Anak Pintar",* atau *"Shalihah-nya Ayah"*.
+
+---
+
+### 2. Bercanda & Ciptakan Suasana yang Ceria
+Rasulullah ﷺ tidak membiarkan suasana rumah terasa suram atau penuh formalitas. Beliau senantiasa meluangkan waktu untuk bercanda, bersenda gurau, dan bermain bersama pasangan maupun cucu-cucunya hingga terbangun ikatan emosional yang erat.
+
 <div class="kisah-box">
 
-> Rasulullah ﷺ pernah mengajak Ibunda Aisyah berlomba lari saat mereka sedang dalam suatu perjalanan. Pada perlombaan pertama Aisyah menang. Beberapa tahun kemudian saat Aisyah sudah agak gemuk, Nabi mengajak lomba lari lagi dan kali ini Nabi menang. Beliau tertawa sambil bersabda dengan hangat: *"Kemenangan ini untuk membalas kekalahanku yang dulu!"* (HR. Abu Dawud no. 2578).
+> Rasulullah ﷺ pernah mengajak Ibunda Aisyah berlomba lari saat mereka sedang menyertai suatu perjalanan rombongan. Pada perlombaan pertama, Aisyah berhasil menang. 
+> 
+> Beberapa tahun kemudian, ketika kondisi tubuh Aisyah sudah lebih berisi, Nabi kembali mengajak lomba lari dan kali ini beliau yang menang. Beliau tertawa bahagia sambil bersabda dengan hangat: *"Kemenangan ini untuk membalas kekalahanku yang dulu!"* (HR. Abu Dawud no. 2578).
 
 </div>
+
+**Penerapan Sehari-hari:**
+* **Di Antara Kesibukan:** Menyisipkan humor atau permainan sederhana dengan pasangan dan anak setelah pulang bekerja untuk melupakan keletihan aktivitas harian.
+* **Menghilangkan Kekakuan:** Tidak memosisikan diri terlalu dominan sehingga anggota keluarga merasa bebas tertawa dan berbagi cerita di rumah.
+
+---
 
 ### 3. Tidak Mencela Makanan atau Hasil Kerja Rumah
-Kadang konflik rumah tangga dipicu oleh hal-hal sepele, seperti masakan yang kurang enak atau rumah berantakan. Nabi memberikan teladan luar biasa dalam menjaga perasaan anggota keluarga.
+Sering kali konflik atau pertengkaran dalam rumah tangga dipicu oleh hal-hal sepele, seperti rasa masakan yang kurang pas atau kondisi rumah yang kurang rapi. Rasulullah ﷺ memberikan teladan luar biasa dalam menjaga perasaan dan mengapresiasi usaha anggota keluarga.
 
 > <p class="arabic">مَا عَابَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ طَعَامًا قَطُّ إِنِ اشْتَهَاهُ أَكَلَهُ وَإِلَّا تَرَكَهُ</p>
 >
 > *"Nabi ﷺ tidak pernah mencela makanan sama sekali. Jika beliau menyukainya beliau memakannya, dan jika tidak menyukainya beliau meninggalkannya (tanpa memaki)."*  
 > — **HR. Bukhari no. 5409**
 
-### 4. Mengutarakan Kasih Sayang secara Ungkap (Apresiatif)
-Nabi tidak sungkan menunjukkan kasih sayang kepada anak-anak di depan umum dan memberikan apresiasi atas kehadiran mereka.
 <div class="kisah-box">
 
->  Suatu hari seorang sahabat bernama Al-Aqra' bin Habis melihat Nabi mencium cucunya, Al-Hasan. Al-Aqra' heran dan berkata: *"Aku punya 10 orang anak, tapi tak seorang pun dari mereka yang pernah kucium."* Nabi menatapnya lalu bersabda: *"Barangsiapa tidak menyayangi, maka dia tidak akan disayangi."* (HR. Bukhari no. 5997). Nabi menegaskan bahwa kelembutan kepada anak adalah bentuk rahmat Allah.
+> Apabila hidangan masakan kurang sesuai dengan selera beliau, Rasulullah ﷺ memilih untuk diam dan tidak melontarkan kritik pedas yang dapat melukai perasaan orang yang telah lelah memasakkannya. Beliau sangat menghargai proses dan usaha, bukan hanya hasil akhir.
 
 </div>
+
+**Penerapan Sehari-hari:**
+* **Apresiasi Usaha:** Mengucapkan terima kasih atas masakan atau kerapian rumah yang dikerjakan pasangan/anak, meskipun hasilnya belum sempurna.
+* **Menghindari Kritik Kasar:** Apabila ada kekecewaan, sampaikan masukan secara privat dengan kalimat yang santun tanpa nada menghakimi.
+
+---
+
+### 4. Mengutarakan Kasih Sayang secara Terbuka (*Expressive Affection*)
+Rasulullah ﷺ tidak pernah canggung atau malu menunjukkan kasih sayang, baik lewat kata-kata manis maupun sentuhan fisik (*physical touch*) kepada pasangan dan anak-anak—bahkan di depan umum sekalipun.
+
+<div class="kisah-box">
+
+> Suatu hari, seorang pemuka suku bernama Al-Aqra' bin Habis melihat Rasulullah ﷺ mencium cucunya, Al-Hasan. Al-Aqra' heran dan berkata: *"Aku memiliki 10 orang anak, tetapi tidak seorang pun dari mereka yang pernah kucium."* 
+> 
+> Rasulullah ﷺ menatapnya lalu bersabda dengan tegas: *"Barangsiapa yang tidak menyayangi, maka dia tidak akan disayangi."* (HR. Bukhari no. 5997). Beliau menegaskan bahwa kelembutan dan ekspresi kasih sayang kepada keluarga adalah tanda rahmat Allah di dalam hati seseorang.
+
+</div>
+
+**Penerapan Sehari-hari:**
+* **Ungkapan Kata (*Words of Affirmation*):** Terbiasa mengucapkan *"Ayah/Ibu sayang kamu"* atau *"Terima kasih ya sudah berjuang hari ini"* kepada pasangan dan anak.
+* **Bahasa Tubuh (*Physical Touch*):** Memeluk, mencium kening, atau menggenggam tangan pasangan dan anak secara hangat sebelum pergi dan sesudah pulang beraktivitas.
 
 ---
 
