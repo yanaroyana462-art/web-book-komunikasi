@@ -34,9 +34,7 @@ Rasulullah ﷺ tidak pernah mengotori lisannya untuk membalas caci maki dengan h
 <div class="kisah-box">
 
 > Rombongan kaum Yahudi pernah lewat di hadapan Rasulullah ﷺ dan mendoakan keburukan dengan plesetan kata: *"As-Saamu 'alaikum"* (Kehancuran atau kematian atasmu). 
-> 
 > Ibunda Aisyah radhiyallahu 'anha yang mendengarnya langsung marah dan membalas membentak: *"Bahkan kehancuran dan laknat Allah atas kalian!"* 
-> 
 > Rasulullah ﷺ dengan tenang menegur Aisyah: *"Tenang wahai Aisyah, sesungguhnya Allah menyukai kelembutan dalam segala hal."* Beliau cukup membalasnya dengan ringkas: *"Wa 'alaikum"* (Dan atas kalian juga) tanpa menambah caci maki (HR. Bukhari no. 6024).
 
 </div>

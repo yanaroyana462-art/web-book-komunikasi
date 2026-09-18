@@ -34,19 +34,21 @@ blockquote p {
 
 /* 4. Kotak Cerita Sirah (.kisah-box) */
 .kisah-box {
-  background-color: #f0fdf4;
-  border-left: 4px solid #16a34a;
-  padding: 1rem 1.25rem;
-  border-radius: 0.5rem;
+  text-align: left !important;
+  direction: ltr !important;
+  /* Tambahkan styling box sesuai kebutuhan */
+  background-color: rgba(16, 185, 129, 0.1);
+  border-left: 4px solid #10b981;
+  padding: 1rem;
   margin: 1.5rem 0;
+  border-radius: 0.5rem;
 }
 
-/* Reset style blockquote di dalam .kisah-box agar tidak bertumpuk */
-.kisah-box blockquote {
-  background: transparent !important;
-  border-left: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
+/* Pastikan paragraf di dalamnya tetap teratur */
+.kisah-box p {
+  text-align: left !important;
+  direction: ltr !important;
+  margin-bottom: 0.75rem;
 }
 
 /* Mode Gelap untuk .kisah-box */
