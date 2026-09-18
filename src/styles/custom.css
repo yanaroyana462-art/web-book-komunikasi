@@ -70,3 +70,15 @@ blockquote p {
 .starlight-aside p:last-child {
   margin-bottom: 0 !important;
 }
+/* Mengatur teks terjemahan di dalam blockquote agar rata kiri */
+blockquote p:not(.arabic) {
+    text-align: left;
+    direction: ltr; /* Memastikan arah baca dari kiri ke kanan */
+    font-style: italic; /* Opsional: mempertahankan gaya miring khas terjemahan */
+    color: var(--sl-color-gray-3); /* Menyesuaikan dengan variabel warna teks Starlight (opsional) */
+}
+
+/* Jika Anda ingin memberikan sedikit jarak antara teks Arab dan terjemahannya */
+blockquote p.arabic + p {
+    margin-top: 0.5rem;
+}
