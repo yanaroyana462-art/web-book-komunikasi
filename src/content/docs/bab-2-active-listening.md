@@ -5,7 +5,7 @@ description: "Belajar menjadi pendengar yang baik melalui teladan Rasulullah ﷺ
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
 
-Di era media sosial saat ini, semua orang berlomba-lomba untuk didengar dan mendapat perhatian. Kita sibuk menyiapkan jawaban saat orang lain sedang bicara, sering memotong pembicaraan, atau malah fokus menatap layar HP saat bersama teman atau saat ngobrol.
+Di era media sosial saat ini, semua orang berlomba-lomba untuk didengar dan mendapat perhatian. seringkali kita sibuk menyiapkan jawaban saat orang lain sedang bicara, sering memotong pembicaraan, atau malah fokus menatap layar HP saat bersama teman atau saat ngobrol.
 
 Padahal, menjadi pendengar yang baik (*Active Listening*) adalah kunci utama membangun hubungan yang harmonis. Dalam Islam, mendengarkan bukan sekadar diam menunggu giliran bicara, melainkan bentuk penghormatan, empati, dan juga bernilai ibadah.
 
@@ -37,12 +37,12 @@ Saat ada yang mengajak bicara, Rasulullah ﷺ tidak pernah menoleh separuh badan
 
 > Amr bin Al-Aas RA pernah bercerita tentang betapa hangatnya cara Nabi berinteraksi. Beliau senantiasa mengarahkan wajah dan seluruh perhatiannya secara penuh kepada lawan bicaranya, bahkan kepada orang yang paling rendah sekalipun. Amr sampai merasa diri beliaulah orang yang paling dicintai oleh Nabi, hingga ia bertanya: *"Wahai Rasulullah, siapakah manusia yang paling engkau cintai?"* (HR. Tirmidzi & Ahmad).  
 > 
-> *Pengasuhan lisan dan sikap fisik Nabi yang memutus rasa diabaikan ini membuat setiap orang yang berada di dekat beliau merasa sangat dihargai.*
+> *Fokus perhatian penuh yang diberikan Nabi berhasil membuang jauh-jauh rasa canggung dan diabaikan, membuat setiap orang di dekat beliau merasa sangat diistimewakan..*
 
 </div>
 
 ### 2. Tidak Memotong Pembicaraan
-Menyimak hingga tuntas adalah bentuk kesabaran dan adab. Nabi ﷺ tidak pernah merebut giliran bicara orang lain, memotong di tengah kalimat, atau terburu-buru menghakimi sebelum pesan lawan bicara tersampaikan secara utuh.
+Menyimak hingga tuntas adalah bentuk kesabaran, kedewasaan emosi, dan adab tertinggi dalam berkomunikasi. Rasulullah ﷺ tidak pernah merebut giliran bicara orang lain, memotong di tengah kalimat, atau terburu-buru menghakimi dan menyanggah sebelum pesan lawan bicaranya tersampaikan secara utuh
 
 <div class="kisah-box">
 
@@ -53,7 +53,7 @@ Menyimak hingga tuntas adalah bentuk kesabaran dan adab. Nabi ﷺ tidak pernah m
 </div>
 
 ### 3. Tidak Meremehkan Curhatan Orang Lain
-Siapa pun yang bicara baik sahabat senior, anak kecil, maupun masyarakat awam ,nabi selalu didengarkan dengan kesungguhan yang sama tanpa membeda bedakan sikap.
+Siapa pun yang berbicara baik sahabat senior, tokoh, anak kecil, maupun masyarakat awam selalu didengarkan oleh Nabi dengan kadar kesungguhan yang sama. Beliau tidak pernah membeda-bedakan sikap berdasarkan status sosial, usia, atau menganggap remeh masalah yang bagi orang lain terasa sepele..
 <div class="kisah-box">
 
 >  Nabi pernah memiliki sahabat kecil bernama Abu Umair yang memiliki burung pipit kesayangan (Nughair). Suatu hari burung itu mati dan Abu Umair sangat sedih. Nabi khusus meluangkan waktu datang menghiburnya dan bertanya dengan empati: *"Wahai Abu Umair, apa yang dilakukan oleh si Nughair?"* (HR. Bukhari no. 6129). Nabi tidak menganggap remeh kesedihan seorang anak kecil.
@@ -61,15 +61,14 @@ Siapa pun yang bicara baik sahabat senior, anak kecil, maupun masyarakat awam ,n
 </div>
 
 ### 4. Mengonfirmasi & Empati (Menyelaraskan Perasaan)
-Mendengarkan aktif berarti mencoba memahami perasaan di balik kata-kata, berusaha memperhatikan sikap dan juga ekspresi lawan bicara 
+Mendengarkan aktif bukan sekadar mendengar suara (hearing), melainkan memahami emosi dan beban perasaan di balik kata-kata tersebut. Rasulullah ﷺ mengarahkan kita untuk menjadi pendengar yang mampu memvalidasi emosi lawan bicara dengan bijak.
 
 > <p class="arabic">الْمُؤْمِنُ مِرْآةُ الْمُؤْمِنِ</p>
 >
 > *"Seorang mukmin adalah cermin bagi mukmin lainnya."*  
 > — **HR. Abu Dawud no. 4918**
 >
-> Seperti cermin, saat teman kita sedang bersedih, kita menunjukkan empati dan memvalidasi perasaannya, bukan malah memperkeruh suasana atau membanding-bandingkan penderitaan.
-
+> Sebagaimana fungsi cermin yang memantulkan bayangan secara jujur dan presisi, saat teman atau anggota tim kita sedang tertekan atau sedih, tugas kita adalah menunjukkan empati dan memvalidasi perasaannya. Kita tidak seharusnya membanding-bandingkan penderitaannya dengan masalah kita (toxic positivity) atau malah memperkeruh suasana.
 ---
 
 ## Praktik Sederhana di Kehidupan Nyata
