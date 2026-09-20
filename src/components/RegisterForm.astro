@@ -1,0 +1,156 @@
+---
+// src/components/RegisterForm.astro
+---
+
+<div class="register-container">
+  <!-- FORM PENDAFTARAN -->
+  <form id="register-form" style="display: block;">
+    <h2>Daftar untuk Membaca</h2>
+    <p class="description">Buat akun untuk mengakses e-book dan lakukan verifikasi via WhatsApp Admin.</p>
+    
+    <div class="form-group">
+      <label for="fullName">Nama Lengkap</label>
+      <input type="text" id="fullName" required placeholder="Masukkan nama lengkap Anda" />
+    </div>
+
+    <div class="form-group">
+      <label for="whatsappNumber">Nomor WhatsApp</label>
+      <input type="tel" id="whatsappNumber" required placeholder="Contoh: 0857xxxxxxx" />
+    </div>
+
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input type="email" id="email" required placeholder="nama@email.com" />
+    </div>
+
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" id="password" required minlength="6" placeholder="Minimal 6 karakter" />
+    </div>
+
+    <button type="submit" class="submit-btn">Daftar untuk Membaca</button>
+  </form>
+
+  <!-- STATUS MENUGGU VERIFIKASI -->
+  <div id="status-pending" class="status-box pending" style="display: none;">
+    <h3>⏳ Akun Anda Menunggu Verifikasi Admin</h3>
+    <p>Data Anda telah tersimpan. Silakan klik tombol di bawah jika Anda belum terarah otomatis ke WhatsApp Admin:</p>
+    <a id="wa-redirect-link" href="#" target="_blank" class="wa-btn">Hubungi WhatsApp Admin</a>
+  </div>
+
+  <!-- BADGE AKUN AKTIF -->
+  <div id="status-verified" class="status-box verified" style="display: none;">
+    <div class="badge">Akun Aktif ✅</div>
+    <p>Selamat! Akun Anda telah diverifikasi oleh Admin. Anda sekarang dapat mengakses seluruh materi.</p>
+    <a href="/pengantar" class="next-btn">Lanjut Membaca</a>
+  </div>
+</div>
+
+<style>
+  .register-container {
+    max-width: 450px;
+    margin: 3rem auto;
+    padding: 2rem;
+    border: 1px solid var(--sl-color-hairline, #e2e8f0);
+    border-radius: 12px;
+    background-color: var(--sl-color-bg-nav, #fff);
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  }
+  h2 { margin-bottom: 0.5rem; text-align: center; }
+  .description { text-align: center; font-size: 0.9rem; color: #64748b; margin-bottom: 1.5rem; }
+  .form-group { margin-bottom: 1.25rem; display: flex; flex-direction: column; gap: 0.5rem; }
+  .form-group label { font-weight: 500; font-size: 0.95rem; }
+  .form-group input { padding: 0.6rem; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 1rem; background: transparent; color: inherit; }
+  
+  button, .wa-btn, .next-btn {
+    display: block; width: 100%; padding: 0.75rem; text-align: center; border-radius: 6px;
+    font-weight: 600; font-size: 1rem; border: none; cursor: pointer; text-decoration: none;
+  }
+  .submit-btn { background-color: var(--sl-color-accent-high, #3b82f6); color: white; }
+  .wa-btn { background-color: #25D366; color: white; margin-top: 1rem; }
+  .next-btn { background-color: #0284c7; color: white; margin-top: 1rem; }
+  
+  .status-box { text-align: center; padding: 1rem; border-radius: 8px; }
+  .pending { border: 1px solid #eab308; background-color: rgba(234, 179, 8, 0.1); }
+  .verified { border: 1px solid #22c55e; background-color: rgba(34, 197, 94, 0.1); }
+  .badge { display: inline-block; background-color: #22c55e; color: white; padding: 0.25rem 0.75rem; border-radius: 50px; font-weight: bold; margin-bottom: 1rem; }
+</style>
+
+<script>
+  import { initializeApp } from "firebase/app";
+  import { getAuth, createUserWithEmailAndPassword, onAuthStateChanged } from "firebase/auth";
+  import { getFirestore, doc, setDoc, onSnapshot } from "firebase/firestore";
+
+  // Masukkan konfigurasi Firebase web app Anda di sini
+ const firebaseConfig = {
+  apiKey: "AIzaSyCg6eupoPoUVVdMcmFBdA4P8XomPOn019U",
+  authDomain: "landing-page-web-komunikasi.firebaseapp.com",
+  projectId: "landing-page-web-komunikasi",
+  storageBucket: "landing-page-web-komunikasi.firebasestorage.app",
+  messagingSenderId: "614908449393",
+  appId: "1:614908449393:web:632c82619784d69ed1c1d0",
+  measurementId: "G-7BKSRYT2JG"
+};
+
+  const app = initializeApp(firebaseConfig);
+  const auth = getAuth(app);
+  const db = getFirestore(app);
+
+  const form = document.getElementById("register-form");
+  const statusPending = document.getElementById("status-pending");
+  const statusVerified = document.getElementById("status-verified");
+  const waRedirectLink = document.getElementById("wa-redirect-link") as HTMLAnchorElement;
+
+  // 1. Logika submit form dan integrasi WhatsApp Admin
+  if (form) {
+    form.addEventListener("submit", async (e) => {
+      e.preventDefault();
+      const name = (document.getElementById("fullName") as HTMLInputElement).value;
+      const phone = (document.getElementById("whatsappNumber") as HTMLInputElement).value;
+      const email = (document.getElementById("email") as HTMLInputElement).value;
+      const password = (document.getElementById("password") as HTMLInputElement).value;
+
+      try {
+        const userCredential = await createUserWithEmailAndPassword(auth, email, password);
+        const uid = userCredential.user.uid;
+
+        await setDoc(doc(db, "users", uid), {
+          uid, name, phone, email, isVerified: false, createdAt: new Date()
+        });
+
+        const messageText = `Halo Admin, saya ingin melakukan verifikasi pendaftaran akun e-book:\n*Nama:* ${name}\n*Email:* ${email}\n*No. WA:* ${phone}\n*UID User:* ${uid}\n\nTolong ubah status akun saya menjadi aktif (true).`;
+        const waUrl = `https://wa.me/6285794506290?text=${encodeURIComponent(messageText)}`;
+        
+        window.location.href = waUrl;
+      } catch (error: any) {
+        alert("Registrasi Gagal: " + error.message);
+      }
+    });
+  }
+
+  // 2. Realtime listener auth dan status dokumen Firestore
+  let unsubscribeDoc: any = null;
+  onAuthStateChanged(auth, (user) => {
+    if (user) {
+      if (form) form.style.display = "none";
+      
+      unsubscribeDoc = onSnapshot(doc(db, "users", user.uid), (docSnap) => {
+        if (docSnap.exists()) {
+          const data = docSnap.data();
+          if (data.isVerified === true) {
+            if (statusPending) statusPending.style.display = "none";
+            if (statusVerified) statusVerified.style.display = "block";
+          } else {
+            if (statusPending) statusPending.style.display = "block";
+            if (statusVerified) statusVerified.style.display = "none";
+            const messageText = `Halo Admin, saya ingin melakukan verifikasi pendaftaran akun e-book:\n*Nama:* ${data.name}\n*Email:* ${data.email}\n*No. WA:* ${data.phone}\n*UID User:* ${user.uid}\n\nTolong ubah status akun saya menjadi aktif (true).`;
+            if (waRedirectLink) waRedirectLink.href = `https://wa.me/6285794506290?text=${encodeURIComponent(messageText)}`;
+          }
+        }
+      });
+    } else {
+      if (form) form.style.display = "block";
+      if (unsubscribeDoc) unsubscribeDoc();
+    }
+  });
+</script>

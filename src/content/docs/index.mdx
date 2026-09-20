@@ -7,8 +7,10 @@ hero:
 ---
 
 import { LinkButton } from '@astrojs/starlight/components';
+import RegisterForm from '../../components/RegisterForm.astro';
 
 ## 10 Bab Utama Komunikasi Efektif ala Nabi
+..
 
 - **Fondasi & Gaya Bicara:** Memahami etika lisan dan 6 prinsip *Qaulan* dalam Al-Qur'an.
 - **Seni Mendengarkan (*Active Listening*):** Meneladani perhatian penuh dan empati Rasulullah ﷺ saat menyimak.
@@ -25,3 +27,5 @@ import { LinkButton } from '@astrojs/starlight/components';
 <div style="display: flex; justify-content: center; margin-top: 3rem;">
   <LinkButton href="/pengantar" icon="right-arrow" variant="primary">Mulai Membaca</LinkButton>
 </div>
+
+<RegisterForm />
