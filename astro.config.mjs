@@ -46,6 +46,12 @@ export default defineConfig({
             { label: 'Bab 10: Kritik & Evaluasi', slug: 'bab-10-kritik-evaluasi' },
           ],
         },
+        {
+          label: 'Bagian 4: Referensi',
+          items: [
+            { label: 'Referensi & Daftar Pustaka', slug: 'referensi' },
+          ],
+        },
       ],
     }),
   ],
