@@ -149,6 +149,15 @@
         createdAt: new Date().toISOString()
       });
 
+      // Buat pesan WhatsApp otomatis
+      const adminNumber = "6285794506290";
+      const text = `Assalamualaikum, saya ingin meminta aktivasi akses E-Book Komunikasi Efektif ala Nabi.\n\nBerikut data saya:\nNama: ${name}\nWhatsApp: ${whatsapp}\nEmail: ${email}\n\nMohon bantuannya untuk aktifasi akses saya. Terima kasih.`;
+      
+      const waUrl = `https://wa.me/${adminNumber}?text=${encodeURIComponent(text)}`;
+      
+      // Buka WhatsApp di tab baru
+      window.open(waUrl, '_blank');
+
     } catch (err: any) {
       if (regError) {
         regError.textContent = "Gagal mendaftar: " + (err.message || "Terjadi kesalahan");
