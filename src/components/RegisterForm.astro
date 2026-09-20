@@ -99,6 +99,7 @@
   const form = document.getElementById("register-form");
   const statusPending = document.getElementById("status-pending");
   const statusVerified = document.getElementById("status-verified");
+  const mainCta = document.getElementById("start-reading-cta");
   const waRedirectLink = document.getElementById("wa-redirect-link") as HTMLAnchorElement;
 
   // 1. Logika submit form dan integrasi WhatsApp Admin
@@ -140,9 +141,11 @@
           if (data.isVerified === true) {
             if (statusPending) statusPending.style.display = "none";
             if (statusVerified) statusVerified.style.display = "block";
+            if (mainCta) mainCta.style.display = "flex";
           } else {
             if (statusPending) statusPending.style.display = "block";
             if (statusVerified) statusVerified.style.display = "none";
+            if (mainCta) mainCta.style.display = "none";
             const messageText = `Halo Admin, saya ingin melakukan verifikasi pendaftaran akun e-book:\n*Nama:* ${data.name}\n*Email:* ${data.email}\n*No. WA:* ${data.phone}\n*UID User:* ${user.uid}\n\nTolong ubah status akun saya menjadi aktif (true).`;
             if (waRedirectLink) waRedirectLink.href = `https://wa.me/6285794506290?text=${encodeURIComponent(messageText)}`;
           }
@@ -150,6 +153,7 @@
       });
     } else {
       if (form) form.style.display = "block";
+      if (mainCta) mainCta.style.display = "none";
       if (unsubscribeDoc) unsubscribeDoc();
     }
   });
