@@ -8,92 +8,111 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Admin Dashboard - Web Buku Komunikasi</title>
-  <script src="https://cdn.tailwindcss.com"></script>
   <style>
-    /* Custom scrollbar untuk tema gelap */
-    ::-webkit-scrollbar {
-      width: 8px;
-      height: 8px;
-    }
-    ::-webkit-scrollbar-track {
-      background: #0f172a;
-    }
-    ::-webkit-scrollbar-thumb {
-      background: #334155;
-      border-radius: 9999px;
-    }
-    ::-webkit-scrollbar-thumb:hover {
-      background: #475569;
-    }
-    /* Animasi transisi masuk */
-    .animate-fade-in {
-      animation: fadeIn 0.4s ease-out forwards;
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
+    /* Reset & Theme Modern Dark */
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; }
+    body { background-color: #0f172a; color: #f8fafc; min-height: 100vh; display: flex; flex-direction: column; align-items: center; padding: 2rem 1rem; }
+    
+    /* Login Card */
+    .login-card { background: #1e293b; border: 1px solid #334155; border-radius: 1rem; padding: 2.5rem; width: 100%; max-width: 400px; margin-top: 4rem; box-shadow: 0 20px 25px -5px rgba(0,0,0,0.5); }
+    .login-card h1 { color: #10b981; font-size: 1.5rem; text-align: center; font-weight: 700; margin-bottom: 0.25rem; }
+    .login-card p { color: #94a3b8; font-size: 0.85rem; text-align: center; margin-bottom: 1.5rem; }
+    .form-group { margin-bottom: 1rem; }
+    .form-group label { display: block; font-size: 0.8rem; font-weight: 600; color: #cbd5e1; margin-bottom: 0.4rem; }
+    .form-group input { width: 100%; background: #0f172a; border: 1px solid #334155; border-radius: 0.5rem; padding: 0.6rem 0.8rem; color: #fff; font-size: 0.9rem; outline: none; }
+    .form-group input:focus { border-color: #10b981; }
+    
+    /* Dashboard & Table */
+    .dashboard { width: 100%; max-width: 1000px; display: none; flex-direction: column; gap: 1.5rem; }
+    .header { background: #1e293b; border: 1px solid #334155; border-radius: 1rem; padding: 1.5rem; display: flex; justify-space-between; justify-content: space-between; align-items: center; }
+    .header h1 { font-size: 1.25rem; color: #fff; }
+    .header p { font-size: 0.8rem; color: #94a3b8; margin-top: 0.2rem; }
+    .header span { color: #34d399; font-family: monospace; }
+    
+    .table-container { background: #1e293b; border: 1px solid #334155; border-radius: 1rem; overflow: hidden; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.3); }
+    table { width: 100%; border-collapse: collapse; text-align: left; font-size: 0.9rem; }
+    th { background: #0f172a; color: #94a3b8; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; padding: 1rem; border-bottom: 1px solid #334155; }
+    td { padding: 1rem; border-bottom: 1px solid #334155; color: #cbd5e1; }
+    tr:hover { background: rgba(51, 65, 85, 0.4); }
+    
+    /* Buttons & Badges */
+    .btn { cursor: pointer; border: none; border-radius: 0.5rem; font-weight: 600; padding: 0.5rem 1rem; font-size: 0.85rem; transition: all 0.2s; }
+    .btn-primary { background: #059669; color: white; width: 100%; margin-top: 0.5rem; }
+    .btn-primary:hover { background: #10b981; }
+    .btn-logout { background: #334155; color: #f1f5f9; }
+    .btn-logout:hover { background: #475569; }
+    
+    .btn-toggle-active { background: #059669; color: white; padding: 0.35rem 0.75rem; font-size: 0.75rem; }
+    .btn-toggle-active:hover { background: #10b981; }
+    .btn-toggle-deactive { background: #d97706; color: white; padding: 0.35rem 0.75rem; font-size: 0.75rem; }
+    .btn-toggle-deactive:hover { background: #f59e0b; }
+    .btn-delete { background: #dc2626; color: white; padding: 0.35rem 0.75rem; font-size: 0.75rem; }
+    .btn-delete:hover { background: #ef4444; }
+    
+    .badge { display: inline-block; padding: 0.2rem 0.6rem; border-radius: 9999px; font-size: 0.75rem; font-weight: 600; }
+    .badge-active { background: rgba(16, 185, 129, 0.2); color: #34d399; border: 1px solid rgba(16, 185, 129, 0.4); }
+    .badge-deactive { background: rgba(245, 158, 11, 0.2); color: #fbbf24; border: 1px solid rgba(245, 158, 11, 0.4); }
+    
+    .wa-link { color: #34d399; text-decoration: none; font-weight: 500; }
+    .wa-link:hover { text-decoration: underline; }
+    
+    .error-box { background: rgba(225, 29, 72, 0.2); border: 1px solid #f43f5e; color: #fecdd3; font-size: 0.8rem; padding: 0.6rem; border-radius: 0.5rem; margin-bottom: 1rem; text-align: center; display: none; }
+    .actions { display: flex; gap: 0.5rem; justify-content: center; }
   </style>
 </head>
-<body class="bg-slate-900 text-slate-100 min-h-screen antialiased selection:bg-emerald-500 selection:text-slate-900">
+<body>
 
-  <!-- CONTAINER LOGIN ADMIN -->
-  <div id="admin-login-card" class="max-w-md mx-auto mt-20 p-8 bg-slate-800 rounded-2xl shadow-xl border border-slate-700 animate-fade-in">
-    <h1 class="text-2xl font-bold text-center text-emerald-400 mb-2">Login Admin</h1>
-    <p class="text-xs text-slate-400 text-center mb-6">Akses khusus pengelola web</p>
+  <!-- LOGIN CONTAINER -->
+  <div id="admin-login-card" class="login-card">
+    <h1>Login Admin</h1>
+    <p>Akses khusus pengelola web</p>
     
-    <div id="login-error" class="hidden bg-rose-500/20 border border-rose-500 text-rose-300 text-xs p-3 rounded-lg mb-4 text-center"></div>
+    <div id="login-error" class="error-box"></div>
 
-    <form id="admin-login-form" class="space-y-4">
-      <div>
-        <label class="block text-xs font-semibold text-slate-300 mb-1">Email Admin</label>
-        <input type="email" id="admin-email" required class="w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-emerald-500" placeholder="admin@domain.com">
+    <form id="admin-login-form">
+      <div class="form-group">
+        <label>Email Admin</label>
+        <input type="email" id="admin-email" required placeholder="admin@domain.com">
       </div>
-      <div>
-        <label class="block text-xs font-semibold text-slate-300 mb-1">Password</label>
-        <input type="password" id="admin-password" required class="w-full bg-slate-900 border border-slate-700 rounded-lg px-3 py-2 text-sm text-white focus:outline-none focus:border-emerald-500" placeholder="••••••••">
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" id="admin-password" required placeholder="••••••••">
       </div>
-      <button type="submit" id="btn-login" class="w-full bg-emerald-600 hover:bg-emerald-500 text-white font-semibold py-2 rounded-lg text-sm transition">
-        Masuk Dashboard
-      </button>
+      <button type="submit" class="btn btn-primary">Masuk Dashboard</button>
     </form>
   </div>
 
-  <!-- CONTAINER DASHBOARD ADMIN -->
-  <div id="admin-dashboard" class="hidden max-w-6xl mx-auto py-10 px-4 animate-fade-in">
-    <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-8 bg-slate-800 p-6 rounded-2xl border border-slate-700">
+  <!-- DASHBOARD CONTAINER -->
+  <div id="admin-dashboard" class="dashboard">
+    <div class="header">
       <div>
-        <h1 class="text-2xl font-bold text-white">Kelola Pendaftar E-Book</h1>
-        <p class="text-xs text-slate-400 mt-1">Admin terhubung: <span id="current-admin-email" class="text-emerald-400 font-mono"></span></p>
+        <h1>Kelola Pendaftar E-Book</h1>
+        <p>Admin terhubung: <span id="current-admin-email"></span></p>
       </div>
-      <button id="btn-logout" class="bg-slate-700 hover:bg-slate-600 text-slate-200 px-4 py-2 rounded-lg text-xs font-semibold transition">
-        Keluar (Logout)
-      </button>
+      <button id="btn-logout" class="btn btn-logout">Keluar (Logout)</button>
     </div>
 
-    <!-- TABEL USER -->
-    <div class="bg-slate-800 rounded-2xl border border-slate-700 overflow-hidden shadow-xl">
-      <div class="overflow-x-auto">
-        <table class="w-full text-left text-sm text-slate-300">
-          <thead class="bg-slate-900/80 text-xs uppercase text-slate-400 border-b border-slate-700">
-            <tr>
-              <th class="px-6 py-4">Nama Lengkap</th>
-              <th class="px-6 py-4">No. WhatsApp</th>
-              <th class="px-6 py-4">Email</th>
-              <th class="px-6 py-4">Status Akses</th>
-              <th class="px-6 py-4 text-center">Aksi (Kontrol)</th>
-            </tr>
-          </thead>
-          <tbody id="user-table-body" class="divide-y divide-slate-700">
-            <tr>
-              <td colspan="5" class="px-6 py-8 text-center text-slate-500">Memuat data pendaftar...</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
+    <div class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Nama Lengkap</th>
+            <th>No. WhatsApp</th>
+            <th>Email</th>
+            <th>Status Akses</th>
+            <th style="text-align: center;">Aksi (Kontrol)</th>
+          </tr>
+        </thead>
+        <tbody id="user-table-body">
+          <tr>
+            <td colspan="5" style="text-align: center; color: #64748b; padding: 2rem;">Memuat data pendaftar...</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </div>
 
+  <!-- SCRIPT FIREBASE -->
   <script>
     import { initializeApp } from "firebase/app";
     import { 
@@ -139,7 +158,7 @@
 
     loginForm?.addEventListener("submit", async (e) => {
       e.preventDefault();
-      loginError?.classList.add("hidden");
+      if(loginError) loginError.style.display = "none";
       
       const email = (document.getElementById("admin-email") as HTMLInputElement).value.trim();
       const password = (document.getElementById("admin-password") as HTMLInputElement).value;
@@ -159,20 +178,20 @@
 
     onAuthStateChanged(auth, (user) => {
       if (user && ADMIN_EMAILS.includes(user.email || "")) {
-        loginCard?.classList.add("hidden");
-        dashboard?.classList.remove("hidden");
-        if (currentAdminEmail) currentAdminEmail.textContent = user.email;
+        if(loginCard) loginCard.style.display = "none";
+        if(dashboard) dashboard.style.display = "flex";
+        if (currentAdminEmail) currentAdminEmail.textContent = user.email || "";
         loadUsersRealtime();
       } else {
-        dashboard?.classList.add("hidden");
-        loginCard?.classList.remove("hidden");
+        if(dashboard) dashboard.style.display = "none";
+        if(loginCard) loginCard.style.display = "block";
       }
     });
 
     function showError(msg: string) {
       if (loginError) {
         loginError.textContent = msg;
-        loginError.classList.remove("hidden");
+        loginError.style.display = "block";
       }
     }
 
@@ -182,7 +201,7 @@
       onSnapshot(usersRef, (snapshot) => {
         if (snapshot.empty) {
           if (userTableBody) {
-            userTableBody.innerHTML = `<tr><td colspan="5" class="px-6 py-8 text-center text-slate-500">Belum ada pendaftar.</td></tr>`;
+            userTableBody.innerHTML = `<tr><td colspan="5" style="text-align: center; color: #64748b; padding: 2rem;">Belum ada pendaftar.</td></tr>`;
           }
           return;
         }
@@ -192,35 +211,34 @@
           const data = userDoc.data();
           const uid = userDoc.id;
           const isVerified = data.isVerified === true;
-          const whatsappNum = data.phone || data.whatsapp || '-';
 
           html += `
-            <tr class="hover:bg-slate-700/50 transition">
-              <td class="px-6 py-4 font-semibold text-white">${data.name || '-'}</td>
-              <td class="px-6 py-4">
-                <a href="https://wa.me/${formatWaNumber(whatsappNum)}" target="_blank" class="text-emerald-400 hover:underline font-mono">
-                  ${whatsappNum}
+            <tr>
+              <td style="font-weight: 600; color: #fff;">${data.name || '-'}</td>
+              <td>
+                <a href="https://wa.me/${formatWaNumber(data.whatsapp)}" target="_blank" class="wa-link">
+                  ${data.whatsapp || '-'}
                 </a>
               </td>
-              <td class="px-6 py-4 text-slate-400">${data.email || '-'}</td>
-              <td class="px-6 py-4">
+              <td style="color: #94a3b8;">${data.email || '-'}</td>
+              <td>
                 ${
                   isVerified 
-                    ? `<span class="bg-emerald-500/20 text-emerald-400 border border-emerald-500/40 text-xs px-2.5 py-1 rounded-full font-medium">Aktif</span>`
-                    : `<span class="bg-amber-500/20 text-amber-400 border border-amber-500/40 text-xs px-2.5 py-1 rounded-full font-medium">Non-Aktif</span>`
+                    ? `<span class="badge badge-active">Aktif</span>`
+                    : `<span class="badge badge-deactive">Non-Aktif</span>`
                 }
               </td>
-              <td class="px-6 py-4 text-center">
-                <div class="flex justify-center items-center gap-2">
+              <td>
+                <div class="actions">
                   <button 
                     onclick="toggleStatus('${uid}', ${!isVerified})"
-                    class="${isVerified ? 'bg-amber-600 hover:bg-amber-500' : 'bg-emerald-600 hover:bg-emerald-500'} text-white text-xs px-3 py-1.5 rounded-lg font-medium transition"
+                    class="btn ${isVerified ? 'btn-toggle-deactive' : 'btn-toggle-active'}"
                   >
                     ${isVerified ? 'Non-Aktifkan' : 'Aktifkan'}
                   </button>
                   <button 
                     onclick="deleteUserRecord('${uid}')"
-                    class="bg-rose-600/80 hover:bg-rose-600 text-white text-xs px-3 py-1.5 rounded-lg font-medium transition"
+                    class="btn btn-delete"
                   >
                     Hapus
                   </button>
