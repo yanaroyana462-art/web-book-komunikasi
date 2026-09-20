@@ -34,7 +34,7 @@
     </form>
   </div>
 
-  <!-- CONTAINER DASHBOARD ADMIN (DITAMPILKAN JIKA LOGIN ADMIN BERHASIL) -->
+  <!-- CONTAINER DASHBOARD ADMIN -->
   <div id="admin-dashboard" class="hidden max-w-6xl mx-auto py-10 px-4">
     <div class="flex justify-between items-center mb-8 bg-slate-800 p-6 rounded-2xl border border-slate-700">
       <div>
@@ -60,7 +60,6 @@
             </tr>
           </thead>
           <tbody id="user-table-body" class="divide-y divide-slate-700">
-            <!-- Data user akan dimuat secara realtime dari Firestore di sini -->
             <tr>
               <td colspan="5" class="px-6 py-8 text-center text-slate-500">Memuat data pendaftar...</td>
             </tr>
@@ -70,7 +69,6 @@
     </div>
   </div>
 
-  <!-- FIREBASE CLIENT-SIDE LOGIC -->
   <script>
     import { initializeApp } from "firebase/app";
     import { 
@@ -102,10 +100,7 @@
     const auth = getAuth(app);
     const db = getFirestore(app);
 
-    // MASUKKAN EMAIL ADMIN ANDA DI SINI UNTUK MEMBATASI AKSES
-    const ADMIN_EMAILS = [
-      "yanaroyana462@gmail.com", // ganti/sesuaikan dengan email akun admin Anda
-    ];
+    const ADMIN_EMAILS = ["yanaroyana462@gmail.com"];
 
     const loginCard = document.getElementById("admin-login-card");
     const dashboard = document.getElementById("admin-dashboard");
@@ -115,11 +110,9 @@
     const userTableBody = document.getElementById("user-table-body");
     const currentAdminEmail = document.getElementById("current-admin-email");
 
-    // Process Login Form
     loginForm?.addEventListener("submit", async (e) => {
       e.preventDefault();
       loginError?.classList.add("hidden");
-      
       const email = (document.getElementById("admin-email") as HTMLInputElement).value.trim();
       const password = (document.getElementById("admin-password") as HTMLInputElement).value;
 
@@ -130,25 +123,19 @@
           showError("Akses ditolak. Email Anda bukan akun Admin.");
         }
       } catch (err: any) {
-        showError("Gagal login: " + (err.message || "Email atau password salah."));
+        showError("Email atau password salah.");
       }
     });
 
-    // Process Logout
     btnLogout?.addEventListener("click", () => signOut(auth));
 
-    // Monitor Auth State
     onAuthStateChanged(auth, (user) => {
       if (user && ADMIN_EMAILS.includes(user.email || "")) {
-        // Logged in as Admin
         loginCard?.classList.add("hidden");
         dashboard?.classList.remove("hidden");
         if (currentAdminEmail) currentAdminEmail.textContent = user.email;
-
-        // Load Users Realtime
         loadUsersRealtime();
       } else {
-        // Not logged in or not admin
         dashboard?.classList.add("hidden");
         loginCard?.classList.remove("hidden");
       }
@@ -161,93 +148,34 @@
       }
     }
 
-    // Load User Data from Firestore in Realtime
     function loadUsersRealtime() {
-      const usersRef = collection(db, "users");
-      
-      onSnapshot(usersRef, (snapshot) => {
+      onSnapshot(collection(db, "users"), (snapshot) => {
         if (snapshot.empty) {
-          if (userTableBody) {
-            userTableBody.innerHTML = `<tr><td colspan="5" class="px-6 py-8 text-center text-slate-500">Belum ada pendaftar.</td></tr>`;
-          }
+          if (userTableBody) userTableBody.innerHTML = `<tr><td colspan="5" class="px-6 py-8 text-center text-slate-500">Belum ada pendaftar.</td></tr>`;
           return;
         }
-
         let html = "";
         snapshot.forEach((userDoc) => {
           const data = userDoc.data();
           const uid = userDoc.id;
           const isVerified = data.isVerified === true;
-
           html += `
             <tr class="hover:bg-slate-700/50 transition">
               <td class="px-6 py-4 font-semibold text-white">${data.name || '-'}</td>
-              <td class="px-6 py-4">
-                <a href="https://wa.me/${formatWaNumber(data.whatsapp)}" target="_blank" class="text-emerald-400 hover:underline">
-                  ${data.whatsapp || '-'}
-                </a>
-              </td>
+              <td class="px-6 py-4 text-emerald-400">${data.whatsapp || '-'}</td>
               <td class="px-6 py-4 text-slate-400">${data.email || '-'}</td>
-              <td class="px-6 py-4">
-                ${
-                  isVerified 
-                    ? `<span class="bg-emerald-500/20 text-emerald-400 border border-emerald-500/40 text-xs px-2.5 py-1 rounded-full font-medium">Aktif</span>`
-                    : `<span class="bg-amber-500/20 text-amber-400 border border-amber-500/40 text-xs px-2.5 py-1 rounded-full font-medium">Non-Aktif</span>`
-                }
-              </td>
+              <td class="px-6 py-4">${isVerified ? 'Aktif' : 'Non-Aktif'}</td>
               <td class="px-6 py-4 text-center">
-                <div class="flex justify-center items-center gap-2">
-                  <button 
-                    onclick="toggleStatus('${uid}', ${!isVerified})"
-                    class="${isVerified ? 'bg-amber-600 hover:bg-amber-500' : 'bg-emerald-600 hover:bg-emerald-500'} text-white text-xs px-3 py-1.5 rounded-lg font-medium transition"
-                  >
-                    ${isVerified ? 'Non-Aktifkan' : 'Aktifkan'}
-                  </button>
-                  <button 
-                    onclick="deleteUserRecord('${uid}')"
-                    class="bg-rose-600/80 hover:bg-rose-600 text-white text-xs px-3 py-1.5 rounded-lg font-medium transition"
-                  >
-                    Hapus
-                  </button>
-                </div>
+                <button onclick="toggleStatus('${uid}', ${!isVerified})" class="bg-emerald-600 px-3 py-1 rounded text-xs">${isVerified ? 'Non-Aktifkan' : 'Aktifkan'}</button>
               </td>
-            </tr>
-          `;
+            </tr>`;
         });
-
         if (userTableBody) userTableBody.innerHTML = html;
       });
     }
 
-    // Helper formatting WA Number
-    function formatWaNumber(phone: string) {
-      if (!phone) return "";
-      let cleaned = phone.replace(/\D/g, '');
-      if (cleaned.startsWith('0')) {
-        cleaned = '62' + cleaned.slice(1);
-      }
-      return cleaned;
-    }
-
-    // Attach actions to window scope for inline onclicks
     (window as any).toggleStatus = async (uid: string, nextStatus: boolean) => {
-      try {
-        const userRef = doc(db, "users", uid);
-        await updateDoc(userRef, { isVerified: nextStatus });
-      } catch (err) {
-        alert("Gagal mengubah status: " + err);
-      }
-    };
-
-    (window as any).deleteUserRecord = async (uid: string) => {
-      if (confirm("Apakah Anda yakin ingin menghapus pendaftar ini dari Firestore?")) {
-        try {
-          const userRef = doc(db, "users", uid);
-          await deleteDoc(userRef);
-        } catch (err) {
-          alert("Gagal menghapus data: " + err);
-        }
-      }
+      await updateDoc(doc(db, "users", uid), { isVerified: nextStatus });
     };
   </script>
 </body>
