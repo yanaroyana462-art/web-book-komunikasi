@@ -1,8 +1,6 @@
 ---
 title: "Referensi & Daftar Pustaka"
 description: "Daftar sumber rujukan ayat Al-Qur'an, kitab hadis, dan literatur pendukung dalam buku Komunikasi Efektif ala Nabi."
-sidebar:
-  order: 12
 ---
 
 Buku digital ini disusun dengan merujuk pada sumber-sumber otentik untuk memastikan setiap pesan yang disampaikan memiliki dasar yang kuat. Berikut adalah daftar referensi utama yang digunakan:
