@@ -1,160 +1,163 @@
----
-// src/components/RegisterForm.astro
----
-
-<div class="register-container">
-  <!-- FORM PENDAFTARAN -->
-  <form id="register-form" style="display: block;">
-    <h2>Daftar untuk Membaca</h2>
-    <p class="description">Buat akun untuk mengakses e-book dan lakukan verifikasi via WhatsApp Admin.</p>
+<div class="register-wrapper">
+  <!-- FORM UNTUK USER BARU -->
+  <div id="form-container" class="form-box">
+    <h3>Akses Gratis E-Book Komunikasi Nabi</h3>
+    <p class="subtitle">Isi data diri untuk mulai membaca seluruh materi</p>
     
-    <div class="form-group">
-      <label for="fullName">Nama Lengkap</label>
-      <input type="text" id="fullName" required placeholder="Masukkan nama lengkap Anda" />
-    </div>
+    <div id="reg-error" class="error-msg"></div>
 
-    <div class="form-group">
-      <label for="whatsappNumber">Nomor WhatsApp</label>
-      <input type="tel" id="whatsappNumber" required placeholder="Contoh: 0857xxxxxxx" />
-    </div>
-
-    <div class="form-group">
-      <label for="email">Email</label>
-      <input type="email" id="email" required placeholder="nama@email.com" />
-    </div>
-
-    <div class="form-group">
-      <label for="password">Password</label>
-      <input type="password" id="password" required minlength="6" placeholder="Minimal 6 karakter" />
-    </div>
-
-    <button type="submit" class="submit-btn">Daftar untuk Membaca</button>
-  </form>
-
-  <!-- STATUS MENUGGU VERIFIKASI -->
-  <div id="status-pending" class="status-box pending" style="display: none;">
-    <h3>⏳ Akun Anda Menunggu Verifikasi Admin</h3>
-    <p>Data Anda telah tersimpan. Silakan klik tombol di bawah jika Anda belum terarah otomatis ke WhatsApp Admin:</p>
-    <a id="wa-redirect-link" href="#" target="_blank" class="wa-btn">Hubungi WhatsApp Admin</a>
+    <form id="register-form">
+      <div class="field">
+        <label>Nama Lengkap</label>
+        <input type="text" id="user-name" required placeholder="Contoh: Ahmad Abdullah" />
+      </div>
+      <div class="field">
+        <label>Nomor WhatsApp</label>
+        <input type="tel" id="user-wa" required placeholder="08123456789" />
+      </div>
+      <div class="field">
+        <label>Email</label>
+        <input type="email" id="user-email" required placeholder="nama@email.com" />
+      </div>
+      <button type="submit" id="btn-submit" class="submit-btn">Dapatkan Akses Sekarang</button>
+    </form>
   </div>
 
-  <!-- BADGE AKUN AKTIF -->
-  <div id="status-verified" class="status-box verified" style="display: none;">
-    <div class="badge">Akun Aktif ✅</div>
-    <p>Selamat! Akun Anda telah diverifikasi oleh Admin. Anda sekarang dapat mengakses seluruh materi.</p>
-    <a href="/pengantar" class="next-btn">Lanjut Membaca</a>
+  <!-- TAMPILAN JIKA MENUNGGU VERIFIKASI ADMIN -->
+  <div id="pending-container" class="form-box hidden">
+    <div class="status-icon">⏳</div>
+    <h3>Pendaftaran Berhasil!</h3>
+    <p class="pending-text">
+      Terima kasih <strong id="pending-name"></strong>. Akun Anda sedang ditinjau oleh Admin.<br>
+      Akses e-book akan aktif otomatis setelah disetujui.
+    </p>
+    <button id="btn-refresh" class="submit-btn outline">Cek Status Akses</button>
+  </div>
+
+  <!-- TAMPILAN JIKA TERVERIFIKASI -->
+  <div id="verified-container" class="form-box hidden">
+    <div class="status-icon">✅</div>
+    <h3>Akses Diberikan!</h3>
+    <p class="pending-text">Selamat membaca e-book Komunikasi Efektif ala Nabi.</p>
+    <a href="/pengantar" class="submit-btn">Lanjut Membaca E-Book &rarr;</a>
   </div>
 </div>
 
 <style>
-  .register-container {
-    max-width: 450px;
-    margin: 3rem auto;
-    padding: 2rem;
-    border: 1px solid var(--sl-color-hairline, #e2e8f0);
-    border-radius: 12px;
-    background-color: var(--sl-color-bg-nav, #fff);
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-  }
-  h2 { margin-bottom: 0.5rem; text-align: center; }
-  .description { text-align: center; font-size: 0.9rem; color: #64748b; margin-bottom: 1.5rem; }
-  .form-group { margin-bottom: 1.25rem; display: flex; flex-direction: column; gap: 0.5rem; }
-  .form-group label { font-weight: 500; font-size: 0.95rem; }
-  .form-group input { padding: 0.6rem; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 1rem; background: transparent; color: inherit; }
-  
-  button, .wa-btn, .next-btn {
-    display: block; width: 100%; padding: 0.75rem; text-align: center; border-radius: 6px;
-    font-weight: 600; font-size: 1rem; border: none; cursor: pointer; text-decoration: none;
-  }
-  .submit-btn { background-color: var(--sl-color-accent-high, #3b82f6); color: white; }
-  .wa-btn { background-color: #25D366; color: white; margin-top: 1rem; }
-  .next-btn { background-color: #0284c7; color: white; margin-top: 1rem; }
-  
-  .status-box { text-align: center; padding: 1rem; border-radius: 8px; }
-  .pending { border: 1px solid #eab308; background-color: rgba(234, 179, 8, 0.1); }
-  .verified { border: 1px solid #22c55e; background-color: rgba(34, 197, 94, 0.1); }
-  .badge { display: inline-block; background-color: #22c55e; color: white; padding: 0.25rem 0.75rem; border-radius: 50px; font-weight: bold; margin-bottom: 1rem; }
+  .register-wrapper { max-width: 480px; margin: 2rem auto; }
+  .form-box { background: #1e293b; border: 1px solid #334155; padding: 2rem; border-radius: 1rem; color: #f8fafc; text-align: left; }
+  .form-box h3 { font-size: 1.2rem; color: #fff; margin-bottom: 0.2rem; text-align: center; }
+  .subtitle { font-size: 0.8rem; color: #94a3b8; text-align: center; margin-bottom: 1.5rem; }
+  .field { margin-bottom: 1rem; }
+  .field label { display: block; font-size: 0.8rem; color: #cbd5e1; margin-bottom: 0.4rem; }
+  .field input { width: 100%; background: #0f172a; border: 1px solid #334155; border-radius: 0.5rem; padding: 0.6rem; color: #fff; outline: none; }
+  .field input:focus { border-color: #10b981; }
+  .submit-btn { display: block; width: 100%; text-align: center; background: #059669; color: white; padding: 0.75rem; border-radius: 0.5rem; font-weight: 600; border: none; cursor: pointer; text-decoration: none; margin-top: 1rem; }
+  .submit-btn:hover { background: #10b981; }
+  .submit-btn.outline { background: transparent; border: 1px solid #059669; color: #34d399; }
+  .submit-btn.outline:hover { background: rgba(16, 185, 129, 0.1); }
+  .hidden { display: none !important; }
+  .error-msg { background: rgba(225,29,72,0.2); border: 1px solid #f43f5e; color: #fecdd3; font-size: 0.8rem; padding: 0.5rem; border-radius: 0.5rem; margin-bottom: 1rem; display: none; }
+  .status-icon { font-size: 3rem; text-align: center; margin-bottom: 0.5rem; }
+  .pending-text { font-size: 0.85rem; color: #cbd5e1; text-align: center; line-height: 1.5; }
 </style>
 
 <script>
   import { initializeApp } from "firebase/app";
-  import { getAuth, createUserWithEmailAndPassword, onAuthStateChanged } from "firebase/auth";
+  import { getAuth, signInAnonymously, onAuthStateChanged } from "firebase/auth";
   import { getFirestore, doc, setDoc, onSnapshot } from "firebase/firestore";
 
-  // Masukkan konfigurasi Firebase web app Anda di sini
- const firebaseConfig = {
-  apiKey: "AIzaSyCg6eupoPoUVVdMcmFBdA4P8XomPOn019U",
-  authDomain: "landing-page-web-komunikasi.firebaseapp.com",
-  projectId: "landing-page-web-komunikasi",
-  storageBucket: "landing-page-web-komunikasi.firebasestorage.app",
-  messagingSenderId: "614908449393",
-  appId: "1:614908449393:web:632c82619784d69ed1c1d0",
-  measurementId: "G-7BKSRYT2JG"
-};
+  const firebaseConfig = {
+    apiKey: "AIzaSyCg6eupoPoUVVdMcmFBdA4P8XomPOn019U",
+    authDomain: "landing-page-web-komunikasi.firebaseapp.com",
+    projectId: "landing-page-web-komunikasi",
+    storageBucket: "landing-page-web-komunikasi.firebasestorage.app",
+    messagingSenderId: "614908449393",
+    appId: "1:614908449393:web:632c82619784d69ed1c1d0"
+  };
 
   const app = initializeApp(firebaseConfig);
   const auth = getAuth(app);
   const db = getFirestore(app);
 
-  const form = document.getElementById("register-form");
-  const statusPending = document.getElementById("status-pending");
-  const statusVerified = document.getElementById("status-verified");
-  const mainCta = document.getElementById("start-reading-cta");
-  const waRedirectLink = document.getElementById("wa-redirect-link") as HTMLAnchorElement;
+  const formContainer = document.getElementById("form-container");
+  const pendingContainer = document.getElementById("pending-container");
+  const verifiedContainer = document.getElementById("verified-container");
+  const registerForm = document.getElementById("register-form");
+  const regError = document.getElementById("reg-error");
+  const pendingName = document.getElementById("pending-name");
+  const btnRefresh = document.getElementById("btn-refresh");
 
-  // 1. Logika submit form dan integrasi WhatsApp Admin
-  if (form) {
-    form.addEventListener("submit", async (e) => {
-      e.preventDefault();
-      const name = (document.getElementById("fullName") as HTMLInputElement).value;
-      const phone = (document.getElementById("whatsappNumber") as HTMLInputElement).value;
-      const email = (document.getElementById("email") as HTMLInputElement).value;
-      const password = (document.getElementById("password") as HTMLInputElement).value;
-
-      try {
-        const userCredential = await createUserWithEmailAndPassword(auth, email, password);
-        const uid = userCredential.user.uid;
-
-        await setDoc(doc(db, "users", uid), {
-          uid, name, phone, email, isVerified: false, createdAt: new Date()
-        });
-
-        const messageText = `Halo Admin, saya ingin melakukan verifikasi pendaftaran akun e-book:\n*Nama:* ${name}\n*Email:* ${email}\n*No. WA:* ${phone}\n*UID User:* ${uid}\n\nTolong ubah status akun saya menjadi aktif (true).`;
-        const waUrl = `https://wa.me/6285794506290?text=${encodeURIComponent(messageText)}`;
-        
-        window.location.href = waUrl;
-      } catch (error: any) {
-        alert("Registrasi Gagal: " + error.message);
-      }
-    });
-  }
-
-  // 2. Realtime listener auth dan status dokumen Firestore
-  let unsubscribeDoc: any = null;
+  // Pengecekan Sesi Login Realtime
   onAuthStateChanged(auth, (user) => {
     if (user) {
-      if (form) form.style.display = "none";
-      
-      unsubscribeDoc = onSnapshot(doc(db, "users", user.uid), (docSnap) => {
+      // Dengarkan perubahan data user dari Firestore secara realtime
+      onSnapshot(doc(db, "users", user.uid), (docSnap) => {
         if (docSnap.exists()) {
           const data = docSnap.data();
           if (data.isVerified === true) {
-            if (statusPending) statusPending.style.display = "none";
-            if (statusVerified) statusVerified.style.display = "block";
-            if (mainCta) mainCta.style.display = "flex";
+            // User sudah diverifikasi Admin
+            formContainer?.classList.add("hidden");
+            pendingContainer?.classList.add("hidden");
+            verifiedContainer?.classList.remove("hidden");
           } else {
-            if (statusPending) statusPending.style.display = "block";
-            if (statusVerified) statusVerified.style.display = "none";
-            if (mainCta) mainCta.style.display = "none";
-            const messageText = `Halo Admin, saya ingin melakukan verifikasi pendaftaran akun e-book:\n*Nama:* ${data.name}\n*Email:* ${data.email}\n*No. WA:* ${data.phone}\n*UID User:* ${user.uid}\n\nTolong ubah status akun saya menjadi aktif (true).`;
-            if (waRedirectLink) waRedirectLink.href = `https://wa.me/6285794506290?text=${encodeURIComponent(messageText)}`;
+            // User sudah mendaftar tapi masih diawasi Admin
+            formContainer?.classList.add("hidden");
+            verifiedContainer?.classList.add("hidden");
+            pendingContainer?.classList.remove("hidden");
+            if (pendingName) pendingName.textContent = data.name || "Pembaca";
           }
+        } else {
+          // Belum daftar (Dokumen Firestore tidak ada)
+          showRegisterForm();
         }
+      }, (err) => {
+        showRegisterForm();
       });
     } else {
-      if (form) form.style.display = "block";
-      if (mainCta) mainCta.style.display = "none";
-      if (unsubscribeDoc) unsubscribeDoc();
+      showRegisterForm();
     }
+  });
+
+  function showRegisterForm() {
+    formContainer?.classList.remove("hidden");
+    pendingContainer?.classList.add("hidden");
+    verifiedContainer?.classList.add("hidden");
+  }
+
+  // Proses Pendaftaran
+  registerForm?.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    if (regError) regError.style.display = "none";
+
+    const name = (document.getElementById("user-name") as HTMLInputElement).value;
+    const whatsapp = (document.getElementById("user-wa") as HTMLInputElement).value;
+    const email = (document.getElementById("user-email") as HTMLInputElement).value;
+
+    try {
+      let currentUser = auth.currentUser;
+      if (!currentUser) {
+        const cred = await signInAnonymously(auth);
+        currentUser = cred.user;
+      }
+
+      await setDoc(doc(db, "users", currentUser.uid), {
+        name,
+        whatsapp,
+        email,
+        isVerified: false,
+        createdAt: new Date().toISOString()
+      });
+
+    } catch (err: any) {
+      if (regError) {
+        regError.textContent = "Gagal mendaftar: " + (err.message || "Terjadi kesalahan");
+        regError.style.display = "block";
+      }
+    }
+  });
+
+  btnRefresh?.addEventListener("click", () => {
+    window.location.reload();
   });
 </script>
