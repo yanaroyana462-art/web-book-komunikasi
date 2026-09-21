@@ -1,0 +1,79 @@
+---
+// src/components/AuthGuard.astro
+---
+<div id="auth-loading-overlay" class="auth-overlay">
+  <div class="spinner"></div>
+  <p>Memeriksa Hak Akses E-Book...</p>
+</div>
+
+<style>
+  .auth-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: #0f172a;
+    z-index: 99999;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #f8fafc;
+    font-family: sans-serif;
+  }
+  .spinner {
+    width: 40px;
+    height: 40px;
+    border: 4px solid rgba(255, 255, 255, 0.1);
+    border-left-color: #10b981;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 1rem;
+  }
+  @keyframes spin {
+    to { transform: rotate(360deg); }
+  }
+</style>
+
+<script>
+  import { initializeApp } from "firebase/app";
+  import { getAuth, onAuthStateChanged } from "firebase/auth";
+  import { getFirestore, doc, getDoc } from "firebase/firestore";
+
+  const firebaseConfig = {
+    apiKey: "AIzaSyCg6eupoPoUVVdMcmFBdA4P8XomPOn019U",
+    authDomain: "landing-page-web-komunikasi.firebaseapp.com",
+    projectId: "landing-page-web-komunikasi",
+    storageBucket: "landing-page-web-komunikasi.firebasestorage.app",
+    messagingSenderId: "614908449393",
+    appId: "1:614908449393:web:632c82619784d69ed1c1d0"
+  };
+
+  const app = initializeApp(firebaseConfig);
+  const auth = getAuth(app);
+  const db = getFirestore(app);
+
+  onAuthStateChanged(auth, async (user) => {
+    if (!user) {
+      // Jika belum login / belum daftar, tendang balik ke Bab 1
+      window.location.href = "/bab-1-prinsip-qaulan";
+      return;
+    }
+
+    try {
+      const userDoc = await getDoc(doc(db, "users", user.uid));
+      if (userDoc.exists() && userDoc.data().isVerified === true) {
+        // Jika terverifikasi, hilangkan overlay loading dan izinkan membaca
+        const overlay = document.getElementById("auth-loading-overlay");
+        if (overlay) overlay.style.display = "none";
+      } else {
+        // Jika belum terverifikasi oleh Admin, lempar kembali ke Bab 1
+        alert("Akses Terkunci: Anda harus terverifikasi oleh Admin untuk membaca bab ini.");
+        window.location.href = "/bab-1-prinsip-qaulan";
+      }
+    } catch (err) {
+      window.location.href = "/bab-1-prinsip-qaulan";
+    }
+  });
+</script>

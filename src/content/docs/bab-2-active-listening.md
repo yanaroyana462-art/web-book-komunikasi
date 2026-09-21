@@ -4,6 +4,9 @@ description: "Belajar menjadi pendengar yang baik melalui teladan Rasulullah ﷺ
 ---
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
+import AuthGuard from '../../components/AuthGuard.astro';
+
+<AuthGuard client:load />
 
 Di era media sosial saat ini, semua orang berlomba-lomba untuk didengar dan mendapat perhatian. seringkali kita sibuk menyiapkan jawaban saat orang lain sedang bicara, sering memotong pembicaraan, atau malah fokus menatap layar HP saat bersama teman atau saat ngobrol.
 
