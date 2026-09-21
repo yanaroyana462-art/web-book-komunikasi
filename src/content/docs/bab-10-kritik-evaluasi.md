@@ -6,6 +6,9 @@ sidebar:
 ---
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
+import AuthGuard from '../../components/AuthGuard.astro';
+
+<AuthGuard client:load />
 
 Menegur kesalahan orang lain adalah salah satu wujud kepedulian. Namun, cara kita menyampaikan kritik sering kali menentukan apakah masukan tersebut akan diterima dengan lapang dada atau justru ditolak mentah-mentah. 
 

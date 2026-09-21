@@ -4,6 +4,9 @@ description: "Meneladani keanggunan lisan Rasulullah ﷺ dalam menghadapi krisis
 ---
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
+import AuthGuard from '../../components/AuthGuard.astro';
+
+<AuthGuard client:load />
 
 Ujian tertinggi dari karakter dan kematangan pemikiran seseorang bukanlah saat ia dipuji, melainkan saat ia diserang, dikritik, dimusuhi, atau disepelekan. Sangat mudah untuk bersikap manis kepada mereka yang menghormati dan sejalan dengan kita. Namun, dibutuhkan keteguhan iman dan kontrol diri yang luar biasa untuk tetap menjaga adab serta keadilan lisan di hadapan pihak yang berseberangan.
 

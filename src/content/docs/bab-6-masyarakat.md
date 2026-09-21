@@ -4,6 +4,9 @@ description: "Etika berkomunikasi dengan masyarakat luas, meredam prasangka, dan
 ---
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
+import AuthGuard from '../../components/AuthGuard.astro';
+
+<AuthGuard client:load />
 
 Saat berinteraksi di ruang publik mulai dari tetangga, teman, pedagang di pasar, sesama pengguna jalan, hingga interaksi dengan netizen di media sosial kita akan bertemu dengan berbagai latar belakang budaya, kebiasaan, tingkat pendidikan, dan karakter yang beragam.
 

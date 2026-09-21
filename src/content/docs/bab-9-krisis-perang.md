@@ -4,6 +4,9 @@ description: "Meneladani keteguhan, kontrol diri, dan keanggunan lisan Rasululla
 ---
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
+import AuthGuard from '../../components/AuthGuard.astro';
+
+<AuthGuard client:load />
 
 Tekanan, krisis, tenggat waktu (*deadline*) yang amat ketat, atau konflik terbuka sering kali menjadi pemicu utamanya seseorang kehilangan kendali diri. Dalam keadaan stres atau terdesak, benteng kesabaran kita sering mudah runtuh dan keluar kata-kata yang destruktif, emosional, atau memicu kepanikan.
 

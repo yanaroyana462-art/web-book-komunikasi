@@ -4,6 +4,9 @@ description: "Pola komunikasi Rasulullah ﷺ dalam membangun kerja sama tim, mem
 ---
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
+import AuthGuard from '../../components/AuthGuard.astro';
+
+<AuthGuard client:load />
 
 Dalam dunia kerja, organisasi, maupun lingkungan pertemanan, kita sering dihadapkan pada perbedaan pendapat, benturan ego, hingga perselisihan. Komunikasi yang kaku dan arogan di tempat kerja dapat merusak profesionalisme serta iklim kerja tim. Sementara itu, nada bicara yang salah kepada sahabat bisa merusak hubungan erat yang telah dibangun bertahun-tahun.
 

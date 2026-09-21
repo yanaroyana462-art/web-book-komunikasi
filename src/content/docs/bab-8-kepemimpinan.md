@@ -4,6 +4,9 @@ description: "Meneladani seni komunikasi kepemimpinan Rasulullah ﷺ dalam menya
 ---
 
 import { Tabs, TabItem } from '@astrojs/starlight/components';
+import AuthGuard from '../../components/AuthGuard.astro';
+
+<AuthGuard client:load />
 
 Seorang pemimpin bukan hanya diukur dari seberapa matang rencana operasinya, melainkan dari seberapa mahir ia menyampaikan arah dan tujuan tersebut kepada tim serta masyarakat luas. Komunikasi kepemimpinan bukan sekadar memberi perintah, melainkan seni membangun kepercayaan, mengobarkan semangat kebersamaan, dan memberikan rasa tenang di tengah situasi krisis.
 
