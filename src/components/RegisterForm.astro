@@ -1,8 +1,8 @@
 <div class="register-wrapper">
   <!-- FORM UNTUK USER BARU -->
   <div id="form-container" class="form-box">
-    <h3>Akses  E-Book Komunikasi efektif ala Nabi</h3>
-    <p class="subtitle">Isi data diri untuk mulai membaca seluruh materi</p>
+    <h3>Akses Bab Lanjutan E-Book</h3>
+    <p class="subtitle">Isi data diri untuk membuka akses Bab 2 sampai Bab 10</p>
     
     <div id="reg-error" class="error-msg"></div>
 
@@ -19,7 +19,7 @@
         <label>Email</label>
         <input type="email" id="user-email" required placeholder="nama@email.com" />
       </div>
-      <button type="submit" id="btn-submit" class="submit-btn">Dapatkan Akses Sekarang</button>
+      <button type="submit" id="btn-submit" class="submit-btn">Dapatkan Akses Penuh Sekarang</button>
     </form>
   </div>
 
@@ -29,7 +29,7 @@
     <h3>Pendaftaran Berhasil!</h3>
     <p class="pending-text">
       Terima kasih <strong id="pending-name"></strong>. Akun Anda sedang ditinjau oleh Admin.<br>
-      Akses e-book akan aktif otomatis setelah disetujui.
+      Akses materi bab 2-10 akan aktif otomatis setelah disetujui.
     </p>
     <button id="btn-refresh" class="submit-btn outline">Cek Status Akses</button>
   </div>
@@ -38,8 +38,8 @@
   <div id="verified-container" class="form-box hidden">
     <div class="status-icon">✅</div>
     <h3>Akses Diberikan!</h3>
-    <p class="pending-text">Selamat membaca e-book Komunikasi Efektif ala Nabi.</p>
-    <a href="/pengantar" class="submit-btn">Lanjut Membaca E-Book &rarr;</a>
+    <p class="pending-text">Selamat, Anda memiliki akses penuh ke seluruh materi e-book.</p>
+    <a href="/bab-2-active-listening" class="submit-btn">Lanjut Membaca Bab 2 &rarr;</a>
   </div>
 </div>
 
@@ -151,7 +151,7 @@
 
       // Buat pesan WhatsApp otomatis
       const adminNumber = "6285794506290";
-      const text = `Assalamualaikum, saya ingin meminta aktivasi akses E-Book Komunikasi Efektif ala Nabi.\n\nBerikut data saya:\nNama: ${name}\nWhatsApp: ${whatsapp}\nEmail: ${email}\n\nMohon bantuannya untuk aktifasi akses saya. Terima kasih.`;
+      const text = `Assalamualaikum, saya telah mendaftar di Bab 1 dan ingin meminta aktivasi akses E-Book Komunikasi Efektif ala Nabi.\n\nBerikut data saya:\nNama: ${name}\nWhatsApp: ${whatsapp}\nEmail: ${email}\n\nMohon bantuannya untuk aktifasi akses saya. Terima kasih.`;
       
       const waUrl = `https://wa.me/${adminNumber}?text=${encodeURIComponent(text)}`;
       

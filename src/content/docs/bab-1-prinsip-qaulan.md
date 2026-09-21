@@ -7,6 +7,7 @@ sidebar:
 
 {/* Baris di bawah ini adalah instruksi agar fitur 'Kotak Pilihan' (Tabs) di bagian bawah bisa muncul. Mohon jangan dihapus ya. */}
 import { Tabs, TabItem } from '@astrojs/starlight/components';
+import RegisterForm from '../../components/RegisterForm.astro';
 
 
 Pernahkah Anda mengecek kembali riwayat chat di WhatsApp atau mengingat obrolan tadi siang, lalu dalam batin kita : *"Duh, tadi saya ngomongnya ketinggian ya?"* atau *"Tadi kata-kata saya menyinggung dia nggak ya?"*, *"Kenapa tadi saya mesti mgomongin itu?"*
@@ -32,7 +33,7 @@ Menjaga lisan bukan berarti kita harus menjadi sosok yang pasif atau pasrah tanp
 Ketika prinsip ini diresapi, cara kita berinteraksi akan bertransformasi melalui tiga kesadaran utama:
 
 1. **Kata-kata Adalah Investasi, Bukan Sekadar Emosi.** Setiap ucapan memiliki bobot; satu kalimat yang dibangun dengan niat baik dan cara yang tepat dapat memberi arah dan semangat bagi seseorang, sementara ucapan asal-asalan yang lahir dari emosi sesaat kerap meninggalkan bekas luka yang panjang.
-2. **Menciptakan Rasa Aman bagi Sesama.** Orang lain akan merasa aman dan dihormati. Ketika lisan kita bersih dari ghibah, celaan, dan provokasi, hadirnya kita akan membawa ketenangan, bukan kecemasan.
+2. **Menciptakan Rasa Aman bagi Sesama.** Orang lain akan merasa aman dan dihomati. Ketika lisan kita bersih dari ghibah, celaan, dan provokasi, hadirnya kita akan membawa ketenangan, bukan kecemasan.
 3. **Fokus pada Hal yang Bernilai dan Berdampak.** Kesempurnaan Islam seseorang tercermin dari kemampuannya menyaring percakapan. Kita belajar mengalokasikan energi untuk pembicaraan yang membawa manfaat, ketimbang larut dalam perdebatan yang tak berujung.
 ---
 
@@ -117,7 +118,7 @@ Rasulullah ﷺ dikaruniai kemampuan Jawami'ul Kalim—yaitu menyampaikan pesan y
 </div>
 
 ### 5. Qaulan Karima (Bicara yang Mulia/Menghargai)
-Karima berarti mulia. Qaulan Karima adalah tutur kata yang penuh rasa hormat, menyanjung secara proporsional, dan memuliakan posisi lawan bicara. Prinsip ini terutama sangat ditekankan saat berbicara dengan orang tua, senior, guru, atau orang yang patut dihormati.
+Karima berarti mulia. Qaulan Karima adalah tutur kata yang penuh rasa hormat, menyanjung secara proporsional, dan memuliakan posisi lawan bicara. Prinsip ini terutama sangat ditekankan saat berbicara dengan orang tua, senior, guru, atau orang yang patut dihongmati.
 
 > <p class="arabic">وَقُل لَّهُمَا قَوْلًا كَرِيمًا</p>
 >
@@ -188,3 +189,11 @@ Sebelum kirim chat atau ngomong langsung, coba jeda 3 detik dan tanya:
 
 > **Pesan Penutup:**  
 > Kita bicara bukan untuk menang debat atau kelihatan paling hebat, tapi untuk menyebar kebaikan. Semoga lisan kita jadi alasan kita masuk surga nanti.
+
+---
+
+### Ingin Lanjut Membaca Bab 2 Sampai Bab 10?
+
+Dapatkan akses penuh ke seluruh materi e-book **Komunikasi Efektif ala Nabi** untuk mempelajari seni mendengar, kejelasan non-verbal, komunikasi keluarga, hingga manajemen konflik.
+
+<RegisterForm />
